@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8",
+    "python.pythonPath": "/Users/bindingoath/anaconda3/bin/python",
     "files.associations": {
         "*.html": "html",
         "iosfwd": "cpp"
