@@ -1,0 +1,24 @@
+TODO:
+
+1.Input
+	a. web-scraper/api(if exists) to login, fetch, and send data to server to acquire the proper html form for class with desired criteria. (Jackie)
+	b. data processor to parse output from website to usable data (Nick-Complete)
+	c. a text reader to take inputs (Kevin)
+	d. (optional) gui
+
+2.Function
+	a. a tree-like data structure to store fetched schedule data and preferences. The tree will have multiple parallel levels, oriented in decreasing importance.
+	   levels are evaluated in this order. Each level will contain several subjects, each containing a subtree of available lecture with their subtree of available 
+	   sections. The leaf nodes will be the variables in this constraint-satisfaction problem
+		i.(optional) total units may be applied as a constraint
+		ii.(optional) available seats may be applied as a constraint
+	b. a representation of the final schedule, with both a timetable and description of the course. Also to be used as the state of the problem
+	c. a set SxT, S = {s: s is a weekday}, T = {t: a time of day} to be used both as the domain and the constraint. To satisfy the constraint all courses in a schedule
+	   must be pairwise disjoint
+	d. the search will be complete(exhausting the search space). This require a next() function for the tree to allow complete traversal and a utility function to order
+	   the set of results. ie putting schedules with 8 am class last
+
+3.Output
+	a. output to file
+	b.(optional) gui
+	c.(optional) auto register
