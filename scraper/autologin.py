@@ -7,7 +7,7 @@ def save(path,soup_file):
         outf.write(str(soup_file))
 
 def login():
-    html_path = "/Users/bindingoath/Desktop/Projects/ScheduleMaker420/scraper/GOLD.html"
+    html_path = "scraper/GOLD.html"
 
     with open(html_path) as fp:
         soup = BeautifulSoup(fp)
