@@ -105,14 +105,24 @@ def extract_search_form_data_field(html_name):
     subject = values_of_field_helper("ctl00$pageContent$subjectAreaDropDown")
     data_field["subject"] = subject;
     
-    data_field["course_num"] = "Course Number";
-    
     course_level = values_of_field_helper("ctl00$pageContent$courseLevelDropDown")
     data_field["course_level"] = course_level;
 
-    course_level = values_of_field_helper("ctl00$pageContent$courseLevelDropDown")
-    data_field["course_level"] = course_level;
-    
+    meet_begin = values_of_field_helper("ctl00$pageContent$startTimeFromDropDown")
+    data_field["meet_begin"] = meet_begin;
+
+    meet_end = values_of_field_helper("ctl00$pageContent$startTimeToDropDown")
+    data_field["meet_end"] = meet_end;
+
+    days = ["M","T","W","R","F"]
+    data_field["days"] = days;
+
+    unit_min = values_of_field_helper("ctl00$pageContent$unitsFromDropDown")
+    data_field["unit_min"] = unit_min;
+
+    unit_max = values_of_field_helper("ctl00$pageContent$unitsToDropDown")
+    data_field["unit_max"] = unit_max;
+
     GE = values_of_field_helper("ctl00$pageContent$GECollegeDropDown")
     data_field["GE"] = GE;
     

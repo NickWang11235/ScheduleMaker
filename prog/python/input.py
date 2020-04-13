@@ -9,10 +9,10 @@ class mySchedule:
         self.course_num = 0
         self.course_level = ""
         self.meet_begin = 8
-        self.meetend = 23
+        self.meet_end = 23
         self.days = [1, 1, 1, 1, 1]
-        self.unitMin = 0
-        self.unitMax = 12
+        self.unit_min = 0
+        self.unit_max = 12
         self.enrollment = 0
         self.instructor = ""
         self.title = ""
