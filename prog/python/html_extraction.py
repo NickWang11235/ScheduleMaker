@@ -1,7 +1,12 @@
 from bs4 import BeautifulSoup
 import sys
 
-HTML_DEFAULT_FOLDER = "../../html/raw/"
+DEFAULT_GOLD_FILE_PATH = "../../html/GOLDForms/"
+DEFAULT_DOWNLOAD_PATH = "../../html/raw/"
+GOLD_LOGIN_URL = "https://my.sa.ucsb.edu/gold/"
+GOLD_SEARCH_URL = "https://my.sa.ucsb.edu/gold/CriteriaFindCourses.aspx"
+GOLD_SEARCH_FORM = "../../html/GOLDForms/search/search.html"
+
 HTML_DEFAULT_NAME = "/Find Course Results.html"
 OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
@@ -80,9 +85,51 @@ def auto_parse_to_file(html_name):
     parse_to_file(html_name, html_name + ".txt")
 
 
+def extract_search_form_data_field(html_name):
+    html = read_html(html_name)
+    data_field = {}
+    
+    def values_of_field_helper(name):
+        result = html.find("select", attrs={"name" : name}).find_all("option")
+        l = []
+        for s in result:
+            l.append(s.get_text())
+        return l
+    
+    quarter = values_of_field_helper("ctl00$pageContent$quarterDropDown")
+    data_field["quarter"] = quarter;
+    
+    department = values_of_field_helper("ctl00$pageContent$departmentDropDown")
+    data_field["department"] = department;
+    
+    subject = values_of_field_helper("ctl00$pageContent$subjectAreaDropDown")
+    data_field["subject"] = subject;
+    
+    data_field["course_num"] = "Course Number";
+    
+    course_level = values_of_field_helper("ctl00$pageContent$courseLevelDropDown")
+    data_field["course_level"] = course_level;
+
+    course_level = values_of_field_helper("ctl00$pageContent$courseLevelDropDown")
+    data_field["course_level"] = course_level;
+    
+    GE = values_of_field_helper("ctl00$pageContent$GECollegeDropDown")
+    data_field["GE"] = GE;
+    
+    area = values_of_field_helper("ctl00$pageContent$GECodeDropDown")
+    data_field["area"] = area;
+
+    return data_field
+
+
+def extract_search_form_data_field():
+    return extract_search_form_data_field(DEFAULT_GOLD_FILE_PATH)
+
+"""
 if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Expected use: html_extraction.py <filename>")
         sys.exit(1)
     auto_parse_to_file(sys.argv[1])
+"""
 
