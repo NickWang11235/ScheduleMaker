@@ -1,7 +1,0 @@
-{
-    "python.pythonPath": "/Users/bindingoath/anaconda3/bin/python",
-    "files.associations": {
-        "*.html": "html",
-        "iosfwd": "cpp"
-    }
-}
