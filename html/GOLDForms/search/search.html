@@ -4,7 +4,7 @@
     <link rel="icon" href="https://www.ucsb.edu/themes/ucsb/favicon.ico">
   <link href="/gold/bundle/css?v=2kSJmAOS4s6q8DhQ7yf0czNARiyMelyyY2jpYNCnPHM1" rel="stylesheet"/>
 <title>
-	GOLD
+	Find Courses
 </title>
 
 
@@ -17,12 +17,10 @@
 <body>
   <div id="body-container-loading" style="width: 100%; text-align: center; padding-top: 50px; color: gray;">Loading...</div>
   <div id="body-container" style="position: absolute; left: -9999px;">
-  <form method="post" action="./Login.aspx" id="MainForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM5OTE1ODA1Ng9kFgJmD2QWAgIDD2QWCmYPDxYCHgdWaXNpYmxlaGQWAgIBD2QWAgIBDw8WAh8AaGRkAgEPFgIfAGhkAgIPFgIfAGhkAgMPZBYMAgIPDxYCHwBoZGQCAw8PZBYCHgxhdXRvY29tcGxldGUFA29mZmQCBA8PZBYCHwEFA29mZmQCBg9kFgJmD2QWBAIBDw8WAh8AaGRkAgcPFgIfAGhkAgcPDxYCHgtOYXZpZ2F0ZVVybAUtLy9teS5zYS51Y3NiLmVkdS9QZXJtUGluUmVzZXQvRm9yZ290UGVybS5hc3B4ZGQCCA8PFgIfAgUvLy9teS5zYS51Y3NiLmVkdS9QZXJtUGluUmVzZXQvUGVybVBpblJlc2V0LmFzcHhkZAIEDw8WAh8AaGQWAgIBD2QWAgIBDw8WAh8AaGRkZFWCuJoPk7ARvPD4xG4fSJedZVYd" />
+  <form method="post" action="./CriteriaFindCourses.aspx" id="MainForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTM0MzA2NDg5D2QWAmYPZBYCAgMPZBYKZg9kFgICAQ9kFgICAQ8PFgIeB1Zpc2libGVoZGQCAg9kFgJmDw8WAh4EVGV4dAURV2VsY29tZSBOSUNLIFdBTkdkZAIDD2QWGAIDDxBkDxYFZgIBAgICAwIEFgUQBQtTdW1tZXIgMjAyMAUFMjAyMDNnEAULU3ByaW5nIDIwMjAFBTIwMjAyZxAFC1dpbnRlciAyMDIwBQUyMDIwMWcQBQlGYWxsIDIwMTkFBTIwMTk0ZxAFC1N1bW1lciAyMDE5BQUyMDE5M2cWAQIBZAIFDw8WAh8AaGRkAgcPEA8WAh8AaGRkFgBkAgkPEGQPFkFmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbAhwCHQIeAh8CIAIhAiICIwIkAiUCJgInAigCKQIqAisCLAItAi4CLwIwAjECMgIzAjQCNQI2AjcCOAI5AjoCOwI8Aj0CPgI/AkAWQRAFBS1BbnktZWcQBTBBbnRocm9wb2xvZ3kgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gQU5USCAFBUFOVEggZxAFMEFydCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBBUlQgIAUFQVJUICBnEAUwQXNpYW4gQW1lcmljYW4gU3R1ZGllcyAgICAgICAgICAgICAgICAgICAtIEFTQU0gBQVBU0FNIGcQBTBCaW9tb2xlY3VsYXIgU2NpZW5jZSAmIEVuZ2luZWVyaW5nICAgICAgIC0gQk1TRSAFBUJNU0UgZxAFMEJsYWNrIFN0dWRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBCTEtTVAUFQkxLU1RnEAUwQ2hlbWljYWwgRW5naW5lZXJpbmcgICAgICAgICAgICAgICAgICAgICAtIENORU5HBQVDTkVOR2cQBTBDaGVtaXN0cnkgYW5kIEJpb2NoZW1pc3RyeSAgICAgICAgICAgICAgIC0gQ0hFTSAFBUNIRU0gZxAFMENoaWNhbmEgYW5kIENoaWNhbm8gU3R1ZGllcyAgICAgICAgICAgICAgLSBDSFNUIAUFQ0hTVCBnEAUwQ2xhc3NpY3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIENMQVNTBQVDTEFTU2cQBTBDb2xsZWdlIG9mIExldHRlcnMgYW5kIFNjaWVuY2UgICAgICAgICAgIC0gTCZTICAFBUwmUyAgZxAFMENvbW11bmljYXRpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBDT01NIAUFQ09NTSBnEAUwQ29tcGFyYXRpdmUgTGl0ZXJhdHVyZSAgICAgICAgICAgICAgICAgICAtIENMSVQgBQVDTElUIGcQBTBDb21wdXRlciBTY2llbmNlICAgICAgICAgICAgICAgICAgICAgICAgIC0gQ01QU0MFBUNNUFNDZxAFMENvdW5zZWxpbmcsIENsaW5pY2FsICYgU2Nob29sIFBzeWNob2xvZ3kgLSBDTkNTUAUFQ05DU1BnEAUwQ3JlYXRpdmUgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAgICAtIENSU1RVBQVDUlNUVWcQBTBEcmFtYXRpYyBBcnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gREEgICAFBURBICAgZxAFMER5bmFtaWNhbCBOZXVyb3NjaWVuY2UgICAgICAgICAgICAgICAgICAgLSBEWU5TIAUFRFlOUyBnEAUwRWFydGggU2NpZW5jZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVSVFNDBQVFUlRTQ2cQBTBFYXN0IEFzaWFuIExhbmd1YWdlcyAmIEN1bHR1cmFsIFN0dWRpZXMgIC0gRUFMQ1MFBUVBTENTZxAFMEVjb2xvZ3ksIEV2b2x1dGlvbiAmIE1hcmluZSBCaW9sb2d5ICAgICAgLSBFRU1CIAUFRUVNQiBnEAUwRWNvbm9taWNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVDT04gBQVFQ09OIGcQBTBFZHVjYXRpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gRURVQyAFBUVEVUMgZxAFMEVsZWN0cmljYWwgQ29tcHV0ZXIgRW5naW5lZXJpbmcgICAgICAgICAgLSBFQ0UgIAUFRUNFICBnEAUwRW5naW5lZXJpbmcgU2NpZW5jZXMgICAgICAgICAgICAgICAgICAgICAtIEVOR1NDBQVFTkdTQ2cQBTBFbmdsaXNoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gRU5HTCAFBUVOR0wgZxAFMEVudmlyb25tZW50YWwgU2NpZW5jZSAmIE1hbmFnZW1lbnQgICAgICAgLSBFU00gIAUFRVNNICBnEAUwRW52aXJvbm1lbnRhbCBTdHVkaWVzICAgICAgICAgICAgICAgICAgICAtIEVOVlNUBQVFTlZTVGcQBTBFeGVyY2lzZSAmIFNwb3J0IFN0dWRpZXMgICAgICAgICAgICAgICAgIC0gRVNTICAFBUVTUyAgZxAFMEZlbWluaXN0IFN0dWRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgLSBGRU1TVAUFRkVNU1RnEAUwRmlsbSBhbmQgTWVkaWEgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAtIEZMTVNUBQVGTE1TVGcQBTBGcmVuY2ggYW5kIEl0YWxpYW4gICAgICAgICAgICAgICAgICAgICAgIC0gRlImSVQFBUZSJklUZxAFMEdlb2dyYXBoeSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBHRU9HIAUFR0VPRyBnEAUwR2VybWFuaWMgYW5kIFNsYXZpYyBTdHVkaWVzICAgICAgICAgICAgICAtIEdFUlNMBQVHRVJTTGcQBTBHbG9iYWwgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gR0xPQkwFBUdMT0JMZxAFMEdyYWR1YXRlIERpdmlzaW9uICAgICAgICAgICAgICAgICAgICAgICAgLSBHUkRJVgUFR1JESVZnEAUwSGlzdG9yeSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEhJU1QgBQVISVNUIGcQBTBIaXN0b3J5IG9mIEFydCBhbmQgQXJjaGl0ZWN0dXJlICAgICAgICAgIC0gQVJUSEkFBUFSVEhJZxAFMEludGVyZGlzY2lwbGluYXJ5ICAgICAgICAgICAgICAgICAgICAgICAgLSBJTlQgIAUFSU5UICBnEAUwTGF0aW4gQW1lcmljYW4gYW5kIEliZXJpYW4gU3R1ZGllcyAgICAgICAtIExBSVMgBQVMQUlTIGcQBTBMYXcgYW5kIFNvY2lldHkgICAgICAgICAgICAgICAgICAgICAgICAgIC0gTEFXU08FBUxBV1NPZxAFMExpbmd1aXN0aWNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBMSU5HIAUFTElORyBnEAUwTWFyaW5lIFNjaWVuY2UgICAgICAgICAgICAgICAgICAgICAgICAgICAtIE1BUlNDBQVNQVJTQ2cQBTBNYXRlcmlhbHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gTUFUUkwFBU1BVFJMZxAFME1hdGhlbWF0aWNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBNQVRIIAUFTUFUSCBnEAUwTWVjaGFuaWNhbCBFbmdpbmVlcmluZyAgICAgICAgICAgICAgICAgICAtIE1FICAgBQVNRSAgIGcQBTBNZWRpYSBBcnRzICYgVGVjaG5vbG9neSAgICAgICAgICAgICAgICAgIC0gTUFUICAFBU1BVCAgZxAFME1lZGlldmFsIFN0dWRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgLSBNRFZTVAUFTURWU1RnEAUwTWlsaXRhcnkgU2NpZW5jZSAgICAgICAgICAgICAgICAgICAgICAgICAtIE1JTFNDBQVNSUxTQ2cQBTBNb2xlY3VsYXIsIENlbGx1bGFyICYgRGV2ZWxvcC4gQmlvbG9neSAgIC0gTUNEQiAFBU1DREIgZxAFME11c2ljICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBNVVNJQwUFTVVTSUNnEAUwTm8gRGVwYXJ0bWVudCAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIE5PICAgBQVOTyAgIGcQBTBQaGlsb3NvcGh5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gUEhJTCAFBVBISUwgZxAFMFBoeXNpY3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBQSFlTIAUFUEhZUyBnEAUwUG9saXRpY2FsIFNjaWVuY2UgICAgICAgICAgICAgICAgICAgICAgICAtIFBPTFMgBQVQT0xTIGcQBTBQc3ljaG9sb2dpY2FsIGFuZCBCcmFpbiBTY2llbmNlcyAgICAgICAgIC0gUFNZICAFBVBTWSAgZxAFMFJlbGlnaW91cyBTdHVkaWVzICAgICAgICAgICAgICAgICAgICAgICAgLSBSRUxTVAUFUkVMU1RnEAUwUmVuYWlzc2FuY2UgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAtIFJFTlNUBQVSRU5TVGcQBTBTb2Npb2xvZ3kgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gU09DICAFBVNPQyAgZxAFMFNwYW5pc2ggYW5kIFBvcnR1Z3Vlc2UgICAgICAgICAgICAgICAgICAgLSBTUCZQVAUFU1AmUFRnEAUwU3BlZWNoICYgSGVhcmluZyBTY2llbmNlcyAgICAgICAgICAgICAgICAtIFNQQ0ggBQVTUENIIGcQBTBTdGF0aXN0aWNzICYgQXBwbGllZCBQcm9iYWJpbGl0eSAgICAgICAgIC0gU1RBVFMFBVNUQVRTZxAFMFRlY2hub2xvZ3kgTWFuYWdlbWVudCBQcm9ncmFtICAgICAgICAgICAgLSBUTVAgIAUFVE1QICBnEAUwVGhlYXRlciBhbmQgRGFuY2UgICAgICAgICAgICAgICAgICAgICAgICAtIFRIVERBBQVUSFREQWcQBTBXcml0aW5nIFByb2dyYW0gICAgICAgICAgICAgICAgICAgICAgICAgIC0gV1JJVCAFBVdSSVQgZ2RkAgsPEGQQFXIFLUFueS0wQW50aHJvcG9sb2d5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEFOVEggMEFydCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBBUlQgIDBBcnQgKENyZWF0aXZlIFN0dWRpZXMpICAgICAgICAgICAgICAgICAgIC0gQVJUICAwQXJ0IEhpc3RvcnkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEFSVEhJMEFydCBTdHVkaW8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBBUlRTVDBBc2lhbiBBbWVyaWNhbiBTdHVkaWVzICAgICAgICAgICAgICAgICAgIC0gQVMgQU0wQXN0cm9ub215ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEFTVFJPMEJpb2xvZ3kgKENyZWF0aXZlIFN0dWRpZXMpICAgICAgICAgICAgICAgLSBCSU9MIDBCaW9tb2xlY3VsYXIgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcgICAgIC0gQk1TRSAwQmxhY2sgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEJMIFNUMENoZW1pY2FsIEVuZ2luZWVyaW5nICAgICAgICAgICAgICAgICAgICAgLSBDSCBFIDBDaGVtaWNhbCBFbmdpbmVlcmluZyAoT25saW5lKSAgICAgICAgICAgIC0gQ0ggRSAwQ2hlbWlzdHJ5IChDcmVhdGl2ZSBTdHVkaWVzKSAgICAgICAgICAgICAtIENIRU0gMENoZW1pc3RyeSBhbmQgQmlvY2hlbWlzdHJ5ICAgICAgICAgICAgICAgLSBDSEVNIDBDaGVtaXN0cnkgYW5kIEJpb2NoZW1pc3RyeSAoT25saW5lKSAgICAgIC0gQ0hFTSAwQ2hpY2FubyBTdHVkaWVzICAgICAgICAgICAgICAgICAgICAgICAgICAtIENIIFNUMENoaW5lc2UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBDSElOIDBDbGFzc2ljcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gQ0xBU1MwQ29tbXVuaWNhdGlvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIENPTU0gMENvbW11bmljYXRpb24gKE9ubGluZSkgICAgICAgICAgICAgICAgICAgLSBDT01NIDBDb21wYXJhdGl2ZSBMaXRlcmF0dXJlICAgICAgICAgICAgICAgICAgIC0gQyBMSVQwQ29tcHV0ZXIgU2NpZW5jZSAgICAgICAgICAgICAgICAgICAgICAgICAtIENNUFNDMENvbXB1dGluZyAoQ3JlYXRpdmUgU3R1ZGllcykgICAgICAgICAgICAgLSBDTVBURzBDb3Vuc2VsaW5nLCBDbGluaWNhbCwgU2Nob29sIFBzeWNob2xvZ3kgIC0gQ05DU1AwRGFuY2UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIERBTkNFMER5bmFtaWNhbCBOZXVyb3NjaWVuY2UgICAgICAgICAgICAgICAgICAgLSBEWU5TIDBFYXJ0aCBTY2llbmNlICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gRUFSVEgwRWFzdCBBc2lhbiBDdWx0dXJhbCBTdHVkaWVzICAgICAgICAgICAgICAtIEVBQ1MgMEVjb2xvZ3ksIEV2b2wuICYgTWFyaW5lIEJpb2xvZ3kgKE9ubGluZSkgLSBFRU1CIDBFY29sb2d5LCBFdm9sdXRpb24gJiBNYXJpbmUgQmlvbG9neSAgICAgIC0gRUVNQiAwRWNvbm9taWNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVDT04gMEVjb25vbWljcyAoT25saW5lKSAgICAgICAgICAgICAgICAgICAgICAgLSBFQ09OIDBFZHVjYXRpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gRUQgICAwRWR1Y2F0aW9uIChPbmxpbmUpICAgICAgICAgICAgICAgICAgICAgICAtIEVEICAgMEVkdWNhdGlvbjogRW5nbGlzaCAgICAgICAgICAgICAgICAgICAgICAgLSBFRCAgIDBFZHVjYXRpb246IEluZHVzdHJpYWwgVGVjaG5vbG9neSBBcnRzICAgIC0gRUQgICAwRWxlY3RyaWNhbCBDb21wdXRlciBFbmdpbmVlcmluZyAgICAgICAgICAtIEVDRSAgMEVuZ2luZWVyaW5nIFNjaWVuY2VzICAgICAgICAgICAgICAgICAgICAgLSBFTkdSIDBFbmdpbmVlcmluZyBTY2llbmNlcyAoT25saW5lKSAgICAgICAgICAgIC0gRU5HUiAwRW5nbGlzaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVOR0wgMEVudmlyb25tZW50YWwgRGF0YSBTY2llbmNlICAgICAgICAgICAgICAgLSBFRFMgIDBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJiBNYW5hZ2VtZW50ICAgICAgIC0gRVNNICAwRW52aXJvbm1lbnRhbCBTdHVkaWVzICAgICAgICAgICAgICAgICAgICAtIEVOViBTMEV4Y2VyY2lzZSAmIFNwb3J0IFN0dWRpZXMgKE9ubGluZSkgICAgICAgLSBFU1MgIDBFeGVyY2lzZSAmIFNwb3J0IFN0dWRpZXMgICAgICAgICAgICAgICAgIC0gRVNTICAwRXhlcmNpc2UgU3BvcnQgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVTICAgMEZlbWluaXN0IFN0dWRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgLSBGRU1TVDBGaWxtIGFuZCBNZWRpYSBTdHVkaWVzICAgICAgICAgICAgICAgICAgIC0gRkFNU1QwRnJlbmNoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEZSICAgMEdlbmVyYWwgU3R1ZGllcyAoQ3JlYXRpdmUgU3R1ZGllcykgICAgICAgLSBHRU4gUzBHZW9ncmFwaHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gR0VPRyAwR2VvZ3JhcGh5IChPbmxpbmUpICAgICAgICAgICAgICAgICAgICAgICAtIEdFT0cgMEdlcm1hbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBHRVIgIDBHbG9iYWwgUGVhY2UgYW5kIFNlY3VyaXR5ICAgICAgICAgICAgICAgIC0gR1BTICAwR2xvYmFsIFN0dWRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEdMT0JMMEdyYWR1YXRlIERpdmlzaW9uICAgICAgICAgICAgICAgICAgICAgICAgLSBHUkFEIDBHcmVlayAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gR1JFRUswSGVicmV3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEhFQiAgMEhpc3RvcnkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBISVNUIDBIaXN0b3J5ICYgU29jaWFsIFNjaWVuY2UgICAgICAgICAgICAgICAgIC0gRUQgICAwSGlzdG9yeSAoT25saW5lKSAgICAgICAgICAgICAgICAgICAgICAgICAtIEhJU1QgMEludGVyZGlzY2lwbGluYXJ5ICAgICAgICAgICAgICAgICAgICAgICAgLSBJTlQgIDBJbnRlcmRpc2NpcGxpbmFyeSAoQ3JlYXRpdmUgU3R1ZGllcykgICAgIC0gSU5UICAwSW50ZXJkaXNjaXBsaW5hcnkgKE9ubGluZSkgICAgICAgICAgICAgICAtIElOVCAgMEl0YWxpYW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBJVEFMIDBKYXBhbmVzZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gSkFQQU4wS29yZWFuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEtPUiAgMExhbmd1YWdlIEFydHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBFRCAgIDBMYXRpbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gTEFUSU4wTGF0aW4gQW1lcmljYW4gYW5kIEliZXJpYW4gU3R1ZGllcyAgICAgICAtIExBSVMgMExpbmd1aXN0aWNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBMSU5HIDBMaXRlcmFjeSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gRUQgICAwTGl0ZXJhdHVyZSAoQ3JlYXRpdmUgU3R1ZGllcykgICAgICAgICAgICAtIExJVCAgME1hcmluZSBTY2llbmNlICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBNQVJTQzBNYXRlcmlhbHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gTUFUUkwwTWF0aGVtYXRpY3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVEICAgME1hdGhlbWF0aWNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBNQVRIIDBNYXRoZW1hdGljcyAoQ3JlYXRpdmUgU3R1ZGllcykgICAgICAgICAgIC0gTUFUSCAwTWVjaGFuaWNhbCBFbmdpbmVlcmluZyAgICAgICAgICAgICAgICAgICAtIE1FICAgME1lY2hhbmljYWwgRW5naW5lZXJpbmcgKE9ubGluZSkgICAgICAgICAgLSBNRSAgIDBNZWRpYSBBcnRzIGFuZCBUZWNobm9sb2d5ICAgICAgICAgICAgICAgIC0gTUFUICAwTWVkaWV2YWwgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAgICAtIE1FIFNUME1pZGRsZSBFYXN0IFN0dWRpZXMgICAgICAgICAgICAgICAgICAgICAgLSBNRVMgIDBNaWxpdGFyeSBTY2llbmNlICAgICAgICAgICAgICAgICAgICAgICAgIC0gTVMgICAwTW9sZWN1bGFyLCBDZWxsdWxhciAmIERldmVsb3AuIEJpb2xvZ3kgICAtIE1DREIgME1vbGVjdWxhcixDZWxsdWxhcixEZXZlbG9wLiBCaW8gKE9ubGluZSkgLSBNQ0RCIDBNdXNpYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gTVVTICAwTXVzaWMgKENyZWF0aXZlIFN0dWRpZXMpICAgICAgICAgICAgICAgICAtIE1VUyAgME11c2ljIFBlcmZvcm1hbmNlIExhYm9yYXRvcmllcyAgICAgICAgICAgLSBNVVMgQTBQaGlsb3NvcGh5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gUEhJTCAwUGh5c2ljcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIFBIWVMgMFBoeXNpY3MgKENyZWF0aXZlIFN0dWRpZXMpICAgICAgICAgICAgICAgLSBQSFlTIDBQb2xpdGljYWwgU2NpZW5jZSAgICAgICAgICAgICAgICAgICAgICAgIC0gUE9MIFMwUG9ydHVndWVzZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIFBPUlQgMFBzeWNob2xvZ3kgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBQU1kgIDBSZWxpZ2lvdXMgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAgIC0gUkcgU1QwUmVuYWlzc2FuY2UgU3R1ZGllcyAgICAgICAgICAgICAgICAgICAgICAtIFJFTlNUMFJ1c3NpYW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBSVVNTIDBTY2llbmNlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gRUQgICAwU2xhdmljICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIFNMQVYgMFNvY2lvbG9neSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBTT0MgIDBTcGFuaXNoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gU1BBTiAwU3BhbmlzaCAoT25saW5lKSAgICAgICAgICAgICAgICAgICAgICAgICAtIFNQQU4gMFNwZWVjaCAmIEhlYXJpbmcgU2NpZW5jZXMgICAgICAgICAgICAgICAgLSBTSFMgIDBTdGF0aXN0aWNzICYgQXBwbGllZCBQcm9iYWJpbGl0eSAgICAgICAgIC0gUFNUQVQwVGVjaG5vbG9neSBNYW5hZ2VtZW50ICAgICAgICAgICAgICAgICAgICAtIFRNUCAgMFRoZWF0ZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBUSFRSIDBUaGVhdGVyIChPbmxpbmUpICAgICAgICAgICAgICAgICAgICAgICAgIC0gVEhUUiAwVmlzdWFsIEFydCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIEVEICAgMFdvcmxkIExhbmd1YWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBFRCAgIDBXcml0aW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gV1JJVCAwV3JpdGluZyAmIExpdGVyYXR1cmUgKENyZWF0aXZlIFN0dWRpZXMpICAtIFcmTCAgMFdyaXRpbmcgKE9ubGluZSkgICAgICAgICAgICAgICAgICAgICAgICAgLSBXUklUIBVyAAVBTlRIIAVBUlQgIAVBUlQgIAVBUlRISQVBUlRTVAVBUyBBTQVBU1RSTwVCSU9MIAVCTVNFIAVCTCBTVAVDSCBFIAVDSCBFIAVDSEVNIAVDSEVNIAVDSEVNIAVDSCBTVAVDSElOIAVDTEFTUwVDT01NIAVDT01NIAVDIExJVAVDTVBTQwVDTVBURwVDTkNTUAVEQU5DRQVEWU5TIAVFQVJUSAVFQUNTIAVFRU1CIAVFRU1CIAVFQ09OIAVFQ09OIAVFRCAgIAVFRCAgIAVFRCAgIAVFRCAgIAVFQ0UgIAVFTkdSIAVFTkdSIAVFTkdMIAVFRFMgIAVFU00gIAVFTlYgUwVFU1MgIAVFU1MgIAVFUyAgIAVGRU1TVAVGQU1TVAVGUiAgIAVHRU4gUwVHRU9HIAVHRU9HIAVHRVIgIAVHUFMgIAVHTE9CTAVHUkFEIAVHUkVFSwVIRUIgIAVISVNUIAVFRCAgIAVISVNUIAVJTlQgIAVJTlQgIAVJTlQgIAVJVEFMIAVKQVBBTgVLT1IgIAVFRCAgIAVMQVRJTgVMQUlTIAVMSU5HIAVFRCAgIAVMSVQgIAVNQVJTQwVNQVRSTAVFRCAgIAVNQVRIIAVNQVRIIAVNRSAgIAVNRSAgIAVNQVQgIAVNRSBTVAVNRVMgIAVNUyAgIAVNQ0RCIAVNQ0RCIAVNVVMgIAVNVVMgIAVNVVMgQQVQSElMIAVQSFlTIAVQSFlTIAVQT0wgUwVQT1JUIAVQU1kgIAVSRyBTVAVSRU5TVAVSVVNTIAVFRCAgIAVTTEFWIAVTT0MgIAVTUEFOIAVTUEFOIAVTSFMgIAVQU1RBVAVUTVAgIAVUSFRSIAVUSFRSIAVFRCAgIAVFRCAgIAVXUklUIAVXJkwgIAVXUklUIBQrA3JnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIRDxBkDxYFZgIBAgICAwIEFgUQBQUtQW55LWVnEAUNVW5kZXJncmFkdWF0ZQUBVWcQBRxVbmRlcmdyYWR1YXRlIExvd2VyIERpdmlzaW9uBQJVTGcQBRxVbmRlcmdyYWR1YXRlIFVwcGVyIERpdmlzaW9uBQJVVWcQBQhHcmFkdWF0ZQUBR2dkZAITDxBkDxYRZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQFhEQBQUtQW55LWVnEAUHODowMCBBTQUDODAwZxAFBzk6MDAgQU0FAzkwMGcQBQgxMDowMCBBTQUEMTAwMGcQBQgxMTowMCBBTQUEMTEwMGcQBQgxMjowMCBQTQUEMTIwMGcQBQcxOjAwIFBNBQQxMzAwZxAFBzI6MDAgUE0FBDE0MDBnEAUHMzowMCBQTQUEMTUwMGcQBQc0OjAwIFBNBQQxNjAwZxAFBzU6MDAgUE0FBDE3MDBnEAUHNjowMCBQTQUEMTgwMGcQBQc3OjAwIFBNBQQxOTAwZxAFBzg6MDAgUE0FBDIwMDBnEAUHOTowMCBQTQUEMjEwMGcQBQgxMDowMCBQTQUEMjIwMGcQBQgxMTowMCBQTQUEMjMwMGdkZAIXDxBkDxYRZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQFhEQBQUtQW55LWVnEAUHODowMCBBTQUDODAwZxAFBzk6MDAgQU0FAzkwMGcQBQgxMDowMCBBTQUEMTAwMGcQBQgxMTowMCBBTQUEMTEwMGcQBQgxMjowMCBQTQUEMTIwMGcQBQcxOjAwIFBNBQQxMzAwZxAFBzI6MDAgUE0FBDE0MDBnEAUHMzowMCBQTQUEMTUwMGcQBQc0OjAwIFBNBQQxNjAwZxAFBzU6MDAgUE0FBDE3MDBnEAUHNjowMCBQTQUEMTgwMGcQBQc3OjAwIFBNBQQxOTAwZxAFBzg6MDAgUE0FBDIwMDBnEAUHOTowMCBQTQUEMjEwMGcQBQgxMDowMCBQTQUEMjIwMGcQBQgxMTowMCBQTQUEMjMwMGdkZAIbDxBkDxYNZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDBYNEAUBMAUBMGcQBQExBQExZxAFATIFATJnEAUBMwUBM2cQBQE0BQE0ZxAFATUFATVnEAUBNgUBNmcQBQE3BQE3ZxAFATgFAThnEAUBOQUBOWcQBQIxMAUCMTBnEAUCMTEFAjExZxAFAjEyBQIxMmdkZAIfDxBkDxYNZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDBYNEAUBMAUBMGcQBQExBQExZxAFATIFATJnEAUBMwUBM2cQBQE0BQE0ZxAFATUFATVnEAUBNgUBNmcQBQE3BQE3ZxAFATgFAThnEAUBOQUBOWcQBQIxMAUCMTBnEAUCMTEFAjExZxAFAjEyBQIxMmdkZAIpDxBkDxYIZgIBAgICAwIEAgUCBgIHFggQBQUtQW55LWVnEAUeQ29sbGVnZSBvZiBDcmVhdGl2ZSBTdHVkaWVzICAgBQRDUlNUZxAFHkNvbGxlZ2Ugb2YgRW5naW5lZXJpbmcgICAgICAgIAUERU5HUmcQBR5TY2hvb2wgb2YgRW52aXJvbi4gU2NpLiAmIE1nbXQFBEVTTSBnEAUeR3JhZHVhdGUgRGl2aXNpb24gICAgICAgICAgICAgBQRHUkFEZxAFHkdyYWR1YXRlIFNjaG9vbCBvZiBFZHVjYXRpb24gIAUER1NFIGcQBR5Db2xsZWdlIG9mIExldHRlcnMgYW5kIFNjaWVuY2UFBEwmUyBnEAUeTm8gQ29sbGVnZSAgICAgICAgICAgICAgICAgICAgBQROTyAgZ2RkAi0PEGQPFipmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbAhwCHQIeAh8CIAIhAiICIwIkAiUCJgInAigCKRYqEAUFLUFueS1lZxAFA0ExIAUDQTEgZxAFA0EyIAUDQTIgZxAFA0FNSAUDQU1IZxAFA0FNSQUDQU1JZxAFA0IgIAUDQiAgZxAFA0MgIAUDQyAgZxAFA0MxIAUDQzEgZxAFA0MyIAUDQzIgZxAFA0MzIAUDQzMgZxAFA0NTQgUDQ1NCZxAFA0NVIAUDQ1UgZxAFA0NVQwUDQ1VDZxAFA0NVRAUDQ1VEZxAFA0QgIAUDRCAgZxAFA0QxIAUDRDEgZxAFA0QyIAUDRDIgZxAFA0QzIAUDRDMgZxAFA0Q0IAUDRDQgZxAFA0UgIAUDRSAgZxAFA0UxIAUDRTEgZxAFA0UyIAUDRTIgZxAFA0VUSAUDRVRIZxAFA0VVUgUDRVVSZxAFA0YgIAUDRiAgZxAFA0YxIAUDRjEgZxAFA0YyQQUDRjJBZxAFA0YyQgUDRjJCZxAFA0cgIAUDRyAgZxAFA0ggIAUDSCAgZxAFA01BSgUDTUFKZxAFA01HIAUDTUcgZxAFA01VRAUDTVVEZxAFA01VRwUDTVVHZxAFA05XQwUDTldDZxAFA1FOVAUDUU5UZxAFA1NVQgUDU1VCZxAFA1VHIAUDVUcgZxAFA1VQVQUDVVBVZxAFA1VTQgUDVVNCZxAFA1VTUgUDVVNSZxAFA1dSVAUDV1JUZ2RkAgQPZBYCAgEPZBYCAgEPDxYCHwBoZGQCBg9kFgICBA9kFgJmD2QWAmYPDxYCHhhJbWFnZUxpbmtCdXR0b25fSW1hZ2VVUkwFImltYWdlcy9uYXZfRmluZENvdXJzZXNTZWxlY3RlZC5naWZkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WDAUkY3RsMDAkcGFnZUNvbnRlbnQkZGF5c0NoZWNrQm94TGlzdCQwBSRjdGwwMCRwYWdlQ29udGVudCRkYXlzQ2hlY2tCb3hMaXN0JDEFJGN0bDAwJHBhZ2VDb250ZW50JGRheXNDaGVja0JveExpc3QkMgUkY3RsMDAkcGFnZUNvbnRlbnQkZGF5c0NoZWNrQm94TGlzdCQzBSRjdGwwMCRwYWdlQ29udGVudCRkYXlzQ2hlY2tCb3hMaXN0JDQFJGN0bDAwJHBhZ2VDb250ZW50JGRheXNDaGVja0JveExpc3QkNQUkY3RsMDAkcGFnZUNvbnRlbnQkZGF5c0NoZWNrQm94TGlzdCQ2BSRjdGwwMCRwYWdlQ29udGVudCRkYXlzQ2hlY2tCb3hMaXN0JDYFKmN0bDAwJHBhZ2VDb250ZW50JG9wZW5TZWN0aW9uc09ubHlDaGVja0JveAUuY3RsMDAkcGFnZUNvbnRlbnQkbWF0Y2hpbmdTZWN0aW9uc09ubHlDaGVja0JveAUoY3RsMDAkcGFnZUNvbnRlbnQkbm9SZXN0cmljdGlvbnNDaGVja0JveAUpY3RsMDAkcGFnZUNvbnRlbnQkbm9QcmVyZXF1aXNpdGVzQ2hlY2tCb3gnpSYWVhHYLbCLOCpKR/rIDo7Glw==" />
 
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="00732C32" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAdbKm4OU/lsarSPEWzw3woTFPojxflIGl2QR/+/4M+LrK6wLDfR+5jffPpLqn7oL3ttZruIm/YRHYjEOQyILgzL2Nu6XIik3f0iXq7Wqnb39/ZNiE/A9ySfq7gBhQx160NmmrEFpfb3YUvL+k7EbVnKgIKH2XlDUw30P837MyfVDMpYxIk=" />
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B22B3C44" />
   <a href="#content" class="sr-only sr-only-focusable skip-to-content">Skip to content</a>
   <header role="banner">
       <div class="navbar navbar-default yamm">
@@ -42,121 +40,599 @@
 
             <div class="search-bundle-wrapper header-functions col-sm-6 col-md-5 col-md-offset-1 col-lg-4 col-lg-offset-3 hidden-xs">
                 
+<div class="header-functions-container">
+<div>
+
+    <a href="Message.aspx"><div class="icon_messages">
+        
+        Messages
+    </div></a>
+
+</div>
+<div><a href="Feedback.aspx"><div class="icon_feedback">Feedback</div></a></div>
+<div><a href="Help.aspx"><div class="icon_help">Help</div></a></div>
+<div><a href="Logout.aspx"><div class="icon_logmeout">Logout</div></a></div>
+</div>
+
             </div>
           </div> <!-- row -->
         </div> <!-- /.container -->
       </div> <!-- /.navbar-header -->
 
       
+      <div class="container">
+
+        <nav class="collapse navbar-collapse" role="navigation" id="ucsb-nav">
+          <h2 class="sr-only sr-only-focusable">Navigation</h2>
+
+
+
+
+          <nav class="nav-primary clearfix">
+            <ul class="nav navbar-nav">
+                <li class="dropdown yamm-fullwidth" id="Li0"><a href="StudentSchedule.aspx" class="nodropdown-title">MY SCHEDULE</a></li>
+                <li class="dropdown yamm-fullwidth" id="Li1"><a href="BasicFindCourses.aspx" class="nodropdown-title">FIND COURSES</a></li>
+                <li class="dropdown yamm-fullwidth" id="Li2"><a href="RegistrationInfo.aspx" class="nodropdown-title">REGISTRATION</a></li>
+                <li class="dropdown yamm-fullwidth" id="Li3"><a href="#nav-grades" class="dropdown-toggle dropdown-title" data-toggle="dropdown" aria-expanded="false">GRADES<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="col4">Grades
+                        <ul>
+                            <li><a href="StudentGrades.aspx">Grades</a></li>
+                            <li><a href="TranscriptsVerifications.aspx">Transcripts & Verifications</a></li>
+                        </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="dropdown yamm-fullwidth" id="Li4"><a href="#nav-progress" class="dropdown-toggle dropdown-title" data-toggle="dropdown" aria-expanded="false">PROGRESS<span class="caret"></span></a>
+
+                    <ul class="dropdown-menu">
+                  <li class="col4">Progress
+                    <ul>
+                      <li><a href="AcademicProgress.aspx">Major & GE Progress Checks</a></li>
+                      <li><a href="MinimumCumulativeProgress.aspx">Minimum Cumulative Progress</a></li>
+                      <li><a href="Graduation.aspx">Graduation & Commencement</a></li>
+                      <li><a href="Petitions.aspx">Petitions</a></li>
+                    </ul>
+                  </li>
+
+                </ul>
+
+
+                </li>
+                <li class="dropdown yamm-fullwidth" id="Li5"><a href="#nav-profile" class="dropdown-toggle dropdown-title" data-toggle="dropdown" aria-expanded="false">ABOUT ME<span class="caret"></span></a>
+
+                    <ul class="dropdown-menu">
+                  <li class="col4">About Me
+                    <ul>
+                      <li><a href="PersonalData.aspx">My Personal Info</a></li>
+                      <li><a href="Address.aspx">My Addresses</a></li>
+                      <li><a href="Notifications.aspx">My Notifications</a></li>
+                    </ul>
+                  </li>
+
+                </ul>
+
+
+                </li>
+            </ul>
+          </nav>
+
+
+        </nav> <!-- /#ucsb-nav -->
+      </div> <!-- /.container -->
+        
     </div> <!-- /.navbar .navbar-default -->
   </header>
     <section class="container template-primary" id="content" tabindex="-1" role="main">
+     
+     <h2 class="page-title fl">Find Courses</h2>
+       <div class="emulation"><span id="userLabel">Welcome NICK WANG</span>
+           </div>
      
 
     <div class="row">
       <main class="col-sm-12">
       
-    <head>
-        <title id="pageContent_title">Login to GOLD</title>
-        
-        
-    </head>
+
+<div class="content" id="content">
 
 
-    <script language="JavaScript">
-        function newscreen() {
-            window.open("", "ext_window", "width=500,height=400,resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=yes,left=100,top=20,screenX=50,screenY=50")
-        }
 
-    </script>
+<div class="formcontainer" style="max-width:600px; margin:0px auto; padding:10px;">
 
-    <!-- checking for JavaScript support in the client browser -->
-    <noscript>
-        <b><font color="red">You need to enable JavaScript in your browser.</font></b>
-    </noscript>
-       
-    <div class="login">
-        
-       
-
-        <!-- Used to display any system messages -->
-        <ul id="bulletins"></ul>
-         <div class="login-bg">
-          
-       
-        <div class="col-md-6">
-        <div class="credentials-container ">
-            <p class="credentials-title">
-                Current Students
-            </p>
-
-            <div class="login-errors">
-                
+    <div class="row">
+            <div class="col-md-12">
+               <span id="pageContent_errorLabel"><font color="Red"></font></span>
             </div>
-            <div class="login-credential-container">
-                <label for="userNameText">UCSB Net ID</label>
-                <input name="ctl00$pageContent$userNameText" type="text" id="pageContent_userNameText" autocomplete="off" />
-            </div>
-            <div class="login-credential-container">
-                <label for="passwordText">Password</label>
-                <input name="ctl00$pageContent$passwordText" type="password" id="pageContent_passwordText" autocomplete="off" />                   
-             </div>
-            <div>
-                <input type="submit" name="ctl00$pageContent$loginButton" value="Login" id="pageContent_loginButton" class="login-button" converted-from-imagebutton="" />
-            </div>
-            <ul class="login-notes">
-                <li>For assistance with your UCSBNetID and/or password, 
-                    please visit <a href="http://www.identity.ucsb.edu/" target="_blank">UCSB Identity Services</a>. 
-                </li>
-            </ul>
+    </div>
 
-        </div>
-        </div>
-          
-        <div class="col-md-6">
-        <div class="credentials-container">
-            <p class="credentials-title">
-                Former Students/Alumni
-            </p>
+    <div class="row">
+    <div class="col-md-2 label">
+        Quarter:
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$quarterDropDown" id="pageContent_quarterDropDown" tabindex="1">
+	<option value="20203">Summer 2020</option>
+	<option selected="selected" value="20202">Spring 2020</option>
+	<option value="20201">Winter 2020</option>
+	<option value="20194">Fall 2019</option>
+	<option value="20193">Summer 2019</option>
 
-            <div id="pageContent_PermPinLogin_pnlPermPinLogin">
+</select>
+             <div style="float:left;"></div>
+             <div style="float:left;"></div>
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-2 label">
+        Department:
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$departmentDropDown" id="pageContent_departmentDropDown" tabindex="2">
+	<option value="">-Any-</option>
+	<option value="ANTH ">Anthropology                             - ANTH </option>
+	<option value="ART  ">Art                                      - ART  </option>
+	<option value="ASAM ">Asian American Studies                   - ASAM </option>
+	<option value="BMSE ">Biomolecular Science &amp; Engineering       - BMSE </option>
+	<option value="BLKST">Black Studies                            - BLKST</option>
+	<option value="CNENG">Chemical Engineering                     - CNENG</option>
+	<option value="CHEM ">Chemistry and Biochemistry               - CHEM </option>
+	<option value="CHST ">Chicana and Chicano Studies              - CHST </option>
+	<option value="CLASS">Classics                                 - CLASS</option>
+	<option value="L&amp;S  ">College of Letters and Science           - L&amp;S  </option>
+	<option value="COMM ">Communication                            - COMM </option>
+	<option value="CLIT ">Comparative Literature                   - CLIT </option>
+	<option value="CMPSC">Computer Science                         - CMPSC</option>
+	<option value="CNCSP">Counseling, Clinical &amp; School Psychology - CNCSP</option>
+	<option value="CRSTU">Creative Studies                         - CRSTU</option>
+	<option value="DA   ">Dramatic Art                             - DA   </option>
+	<option value="DYNS ">Dynamical Neuroscience                   - DYNS </option>
+	<option value="ERTSC">Earth Science                            - ERTSC</option>
+	<option value="EALCS">East Asian Languages &amp; Cultural Studies  - EALCS</option>
+	<option value="EEMB ">Ecology, Evolution &amp; Marine Biology      - EEMB </option>
+	<option value="ECON ">Economics                                - ECON </option>
+	<option value="EDUC ">Education                                - EDUC </option>
+	<option value="ECE  ">Electrical Computer Engineering          - ECE  </option>
+	<option value="ENGSC">Engineering Sciences                     - ENGSC</option>
+	<option value="ENGL ">English                                  - ENGL </option>
+	<option value="ESM  ">Environmental Science &amp; Management       - ESM  </option>
+	<option value="ENVST">Environmental Studies                    - ENVST</option>
+	<option value="ESS  ">Exercise &amp; Sport Studies                 - ESS  </option>
+	<option value="FEMST">Feminist Studies                         - FEMST</option>
+	<option value="FLMST">Film and Media Studies                   - FLMST</option>
+	<option value="FR&amp;IT">French and Italian                       - FR&amp;IT</option>
+	<option value="GEOG ">Geography                                - GEOG </option>
+	<option value="GERSL">Germanic and Slavic Studies              - GERSL</option>
+	<option value="GLOBL">Global Studies                           - GLOBL</option>
+	<option value="GRDIV">Graduate Division                        - GRDIV</option>
+	<option value="HIST ">History                                  - HIST </option>
+	<option value="ARTHI">History of Art and Architecture          - ARTHI</option>
+	<option value="INT  ">Interdisciplinary                        - INT  </option>
+	<option value="LAIS ">Latin American and Iberian Studies       - LAIS </option>
+	<option value="LAWSO">Law and Society                          - LAWSO</option>
+	<option value="LING ">Linguistics                              - LING </option>
+	<option value="MARSC">Marine Science                           - MARSC</option>
+	<option value="MATRL">Materials                                - MATRL</option>
+	<option value="MATH ">Mathematics                              - MATH </option>
+	<option value="ME   ">Mechanical Engineering                   - ME   </option>
+	<option value="MAT  ">Media Arts &amp; Technology                  - MAT  </option>
+	<option value="MDVST">Medieval Studies                         - MDVST</option>
+	<option value="MILSC">Military Science                         - MILSC</option>
+	<option value="MCDB ">Molecular, Cellular &amp; Develop. Biology   - MCDB </option>
+	<option value="MUSIC">Music                                    - MUSIC</option>
+	<option value="NO   ">No Department                            - NO   </option>
+	<option value="PHIL ">Philosophy                               - PHIL </option>
+	<option value="PHYS ">Physics                                  - PHYS </option>
+	<option value="POLS ">Political Science                        - POLS </option>
+	<option value="PSY  ">Psychological and Brain Sciences         - PSY  </option>
+	<option value="RELST">Religious Studies                        - RELST</option>
+	<option value="RENST">Renaissance Studies                      - RENST</option>
+	<option value="SOC  ">Sociology                                - SOC  </option>
+	<option value="SP&amp;PT">Spanish and Portuguese                   - SP&amp;PT</option>
+	<option value="SPCH ">Speech &amp; Hearing Sciences                - SPCH </option>
+	<option value="STATS">Statistics &amp; Applied Probability         - STATS</option>
+	<option value="TMP  ">Technology Management Program            - TMP  </option>
+	<option value="THTDA">Theater and Dance                        - THTDA</option>
+	<option value="WRIT ">Writing Program                          - WRIT </option>
+
+</select>
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-2 label">
+       Subject Area:
+    </div>
+    <div class="col-md-10">
+        <div style="float:left;"><select name="ctl00$pageContent$subjectAreaDropDown" id="pageContent_subjectAreaDropDown" tabindex="3">
+	<option value="">-Any-</option>
+	<option value="ANTH ">Anthropology                             - ANTH </option>
+	<option value="ART  ">Art                                      - ART  </option>
+	<option value="ART  ">Art (Creative Studies)                   - ART  </option>
+	<option value="ARTHI">Art History                              - ARTHI</option>
+	<option value="ARTST">Art Studio                               - ARTST</option>
+	<option value="AS AM">Asian American Studies                   - AS AM</option>
+	<option value="ASTRO">Astronomy                                - ASTRO</option>
+	<option value="BIOL ">Biology (Creative Studies)               - BIOL </option>
+	<option value="BMSE ">Biomolecular Science and Engineering     - BMSE </option>
+	<option value="BL ST">Black Studies                            - BL ST</option>
+	<option value="CH E ">Chemical Engineering                     - CH E </option>
+	<option value="CH E ">Chemical Engineering (Online)            - CH E </option>
+	<option value="CHEM ">Chemistry (Creative Studies)             - CHEM </option>
+	<option value="CHEM ">Chemistry and Biochemistry               - CHEM </option>
+	<option value="CHEM ">Chemistry and Biochemistry (Online)      - CHEM </option>
+	<option value="CH ST">Chicano Studies                          - CH ST</option>
+	<option value="CHIN ">Chinese                                  - CHIN </option>
+	<option value="CLASS">Classics                                 - CLASS</option>
+	<option value="COMM ">Communication                            - COMM </option>
+	<option value="COMM ">Communication (Online)                   - COMM </option>
+	<option value="C LIT">Comparative Literature                   - C LIT</option>
+	<option value="CMPSC">Computer Science                         - CMPSC</option>
+	<option value="CMPTG">Computing (Creative Studies)             - CMPTG</option>
+	<option value="CNCSP">Counseling, Clinical, School Psychology  - CNCSP</option>
+	<option value="DANCE">Dance                                    - DANCE</option>
+	<option value="DYNS ">Dynamical Neuroscience                   - DYNS </option>
+	<option value="EARTH">Earth Science                            - EARTH</option>
+	<option value="EACS ">East Asian Cultural Studies              - EACS </option>
+	<option value="EEMB ">Ecology, Evol. &amp; Marine Biology (Online) - EEMB </option>
+	<option value="EEMB ">Ecology, Evolution &amp; Marine Biology      - EEMB </option>
+	<option value="ECON ">Economics                                - ECON </option>
+	<option value="ECON ">Economics (Online)                       - ECON </option>
+	<option value="ED   ">Education                                - ED   </option>
+	<option value="ED   ">Education (Online)                       - ED   </option>
+	<option value="ED   ">Education: English                       - ED   </option>
+	<option value="ED   ">Education: Industrial Technology Arts    - ED   </option>
+	<option value="ECE  ">Electrical Computer Engineering          - ECE  </option>
+	<option value="ENGR ">Engineering Sciences                     - ENGR </option>
+	<option value="ENGR ">Engineering Sciences (Online)            - ENGR </option>
+	<option value="ENGL ">English                                  - ENGL </option>
+	<option value="EDS  ">Environmental Data Science               - EDS  </option>
+	<option value="ESM  ">Environmental Science &amp; Management       - ESM  </option>
+	<option value="ENV S">Environmental Studies                    - ENV S</option>
+	<option value="ESS  ">Excercise &amp; Sport Studies (Online)       - ESS  </option>
+	<option value="ESS  ">Exercise &amp; Sport Studies                 - ESS  </option>
+	<option value="ES   ">Exercise Sport                           - ES   </option>
+	<option value="FEMST">Feminist Studies                         - FEMST</option>
+	<option value="FAMST">Film and Media Studies                   - FAMST</option>
+	<option value="FR   ">French                                   - FR   </option>
+	<option value="GEN S">General Studies (Creative Studies)       - GEN S</option>
+	<option value="GEOG ">Geography                                - GEOG </option>
+	<option value="GEOG ">Geography (Online)                       - GEOG </option>
+	<option value="GER  ">German                                   - GER  </option>
+	<option value="GPS  ">Global Peace and Security                - GPS  </option>
+	<option value="GLOBL">Global Studies                           - GLOBL</option>
+	<option value="GRAD ">Graduate Division                        - GRAD </option>
+	<option value="GREEK">Greek                                    - GREEK</option>
+	<option value="HEB  ">Hebrew                                   - HEB  </option>
+	<option value="HIST ">History                                  - HIST </option>
+	<option value="ED   ">History &amp; Social Science                 - ED   </option>
+	<option value="HIST ">History (Online)                         - HIST </option>
+	<option value="INT  ">Interdisciplinary                        - INT  </option>
+	<option value="INT  ">Interdisciplinary (Creative Studies)     - INT  </option>
+	<option value="INT  ">Interdisciplinary (Online)               - INT  </option>
+	<option value="ITAL ">Italian                                  - ITAL </option>
+	<option value="JAPAN">Japanese                                 - JAPAN</option>
+	<option value="KOR  ">Korean                                   - KOR  </option>
+	<option value="ED   ">Language Arts                            - ED   </option>
+	<option value="LATIN">Latin                                    - LATIN</option>
+	<option value="LAIS ">Latin American and Iberian Studies       - LAIS </option>
+	<option value="LING ">Linguistics                              - LING </option>
+	<option value="ED   ">Literacy                                 - ED   </option>
+	<option value="LIT  ">Literature (Creative Studies)            - LIT  </option>
+	<option value="MARSC">Marine Science                           - MARSC</option>
+	<option value="MATRL">Materials                                - MATRL</option>
+	<option value="ED   ">Mathematics                              - ED   </option>
+	<option value="MATH ">Mathematics                              - MATH </option>
+	<option value="MATH ">Mathematics (Creative Studies)           - MATH </option>
+	<option value="ME   ">Mechanical Engineering                   - ME   </option>
+	<option value="ME   ">Mechanical Engineering (Online)          - ME   </option>
+	<option value="MAT  ">Media Arts and Technology                - MAT  </option>
+	<option value="ME ST">Medieval Studies                         - ME ST</option>
+	<option value="MES  ">Middle East Studies                      - MES  </option>
+	<option value="MS   ">Military Science                         - MS   </option>
+	<option value="MCDB ">Molecular, Cellular &amp; Develop. Biology   - MCDB </option>
+	<option value="MCDB ">Molecular,Cellular,Develop. Bio (Online) - MCDB </option>
+	<option value="MUS  ">Music                                    - MUS  </option>
+	<option value="MUS  ">Music (Creative Studies)                 - MUS  </option>
+	<option value="MUS A">Music Performance Laboratories           - MUS A</option>
+	<option value="PHIL ">Philosophy                               - PHIL </option>
+	<option value="PHYS ">Physics                                  - PHYS </option>
+	<option value="PHYS ">Physics (Creative Studies)               - PHYS </option>
+	<option value="POL S">Political Science                        - POL S</option>
+	<option value="PORT ">Portuguese                               - PORT </option>
+	<option value="PSY  ">Psychology                               - PSY  </option>
+	<option value="RG ST">Religious Studies                        - RG ST</option>
+	<option value="RENST">Renaissance Studies                      - RENST</option>
+	<option value="RUSS ">Russian                                  - RUSS </option>
+	<option value="ED   ">Science                                  - ED   </option>
+	<option value="SLAV ">Slavic                                   - SLAV </option>
+	<option value="SOC  ">Sociology                                - SOC  </option>
+	<option value="SPAN ">Spanish                                  - SPAN </option>
+	<option value="SPAN ">Spanish (Online)                         - SPAN </option>
+	<option value="SHS  ">Speech &amp; Hearing Sciences                - SHS  </option>
+	<option value="PSTAT">Statistics &amp; Applied Probability         - PSTAT</option>
+	<option value="TMP  ">Technology Management                    - TMP  </option>
+	<option value="THTR ">Theater                                  - THTR </option>
+	<option value="THTR ">Theater (Online)                         - THTR </option>
+	<option value="ED   ">Visual Art                               - ED   </option>
+	<option value="ED   ">World Language                           - ED   </option>
+	<option value="WRIT ">Writing                                  - WRIT </option>
+	<option value="W&amp;L  ">Writing &amp; Literature (Creative Studies)  - W&amp;L  </option>
+	<option value="WRIT ">Writing (Online)                         - WRIT </option>
+
+</select></div>
+      
+    </div>
+    </div>
+
+    <div class="row border">
+    <div class="col-md-2 label">
+      <span id="pageContent_courseNumberLabel" class="label" style="vertical-align:bottom;">Course #</span>
+    </div>
+    <div class="col-md-10">
+        <div style="float:left;"><input name="ctl00$pageContent$courseNumberTextBox" type="text" maxlength="5" id="pageContent_courseNumberTextBox" /></div>
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-2 label">
+       Course Level:
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$courseLevelDropDown" id="pageContent_courseLevelDropDown" tabindex="4">
+	<option value="">-Any-</option>
+	<option value="U">Undergraduate</option>
+	<option value="UL">Undergraduate Lower Division</option>
+	<option value="UU">Undergraduate Upper Division</option>
+	<option value="G">Graduate</option>
+
+</select>
+    </div>
+    </div>
+        
+
+    <div class="row">
+    <div class="col-md-2 label">
+       Meeting Times Start Between:
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$startTimeFromDropDown" id="pageContent_startTimeFromDropDown" tabindex="5">
+	<option value="">-Any-</option>
+	<option value="800">8:00 AM</option>
+	<option value="900">9:00 AM</option>
+	<option value="1000">10:00 AM</option>
+	<option value="1100">11:00 AM</option>
+	<option value="1200">12:00 PM</option>
+	<option value="1300">1:00 PM</option>
+	<option value="1400">2:00 PM</option>
+	<option value="1500">3:00 PM</option>
+	<option value="1600">4:00 PM</option>
+	<option value="1700">5:00 PM</option>
+	<option value="1800">6:00 PM</option>
+	<option value="1900">7:00 PM</option>
+	<option value="2000">8:00 PM</option>
+	<option value="2100">9:00 PM</option>
+	<option value="2200">10:00 PM</option>
+	<option value="2300">11:00 PM</option>
+
+</select>
+            <div style="float:left;"><div style="padding-top:2px;"><span id="pageContent_meetingLabel" class="label">&nbsp;and</span></div></div>
+            <select name="ctl00$pageContent$startTimeToDropDown" id="pageContent_startTimeToDropDown">
+	<option value="">-Any-</option>
+	<option value="800">8:00 AM</option>
+	<option value="900">9:00 AM</option>
+	<option value="1000">10:00 AM</option>
+	<option value="1100">11:00 AM</option>
+	<option value="1200">12:00 PM</option>
+	<option value="1300">1:00 PM</option>
+	<option value="1400">2:00 PM</option>
+	<option value="1500">3:00 PM</option>
+	<option value="1600">4:00 PM</option>
+	<option value="1700">5:00 PM</option>
+	<option value="1800">6:00 PM</option>
+	<option value="1900">7:00 PM</option>
+	<option value="2000">8:00 PM</option>
+	<option value="2100">9:00 PM</option>
+	<option value="2200">10:00 PM</option>
+	<option value="2300">11:00 PM</option>
+
+</select>
+    </div>
+    </div>
+
+    <div class="row border">
+    <div class="col-md-2 label">
+       Meets on:
+    </div>
+    <div class="col-md-10">
+        <span id="pageContent_daysCheckBoxList"><input id="pageContent_daysCheckBoxList_0" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$0" checked="checked" tabindex="6" value="M" /><label for="pageContent_daysCheckBoxList_0">M </label><input id="pageContent_daysCheckBoxList_1" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$1" checked="checked" tabindex="6" value="T" /><label for="pageContent_daysCheckBoxList_1">T </label><input id="pageContent_daysCheckBoxList_2" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$2" checked="checked" tabindex="6" value="W" /><label for="pageContent_daysCheckBoxList_2">W </label><input id="pageContent_daysCheckBoxList_3" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$3" checked="checked" tabindex="6" value="R" /><label for="pageContent_daysCheckBoxList_3">R </label><input id="pageContent_daysCheckBoxList_4" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$4" checked="checked" tabindex="6" value="F" /><label for="pageContent_daysCheckBoxList_4">F </label><input id="pageContent_daysCheckBoxList_5" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$5" checked="checked" tabindex="6" value="S" /><label for="pageContent_daysCheckBoxList_5">S </label><input id="pageContent_daysCheckBoxList_6" type="checkbox" name="ctl00$pageContent$daysCheckBoxList$6" checked="checked" tabindex="6" value="U" /><label for="pageContent_daysCheckBoxList_6">SUN</label></span>
+    </div>
+    </div>
+
+    <div class="row border">
+    <div class="col-md-2 label">
+       Between:
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$unitsFromDropDown" id="pageContent_unitsFromDropDown" tabindex="7">
+	<option selected="selected" value="0">0</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+
+</select>
+            <div style="float:left;"><div style="padding-top:2px;"><span id="pageContent_betweenLabel1" class="label">&nbsp;and</span></div></div>
+            <select name="ctl00$pageContent$unitsToDropDown" id="pageContent_unitsToDropDown" tabindex="8">
+	<option value="0">0</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option selected="selected" value="12">12</option>
+
+</select>
+            <div style="float:left;"><div style="padding-top:2px;"><span id="pageContent_unitsLabel" class="label">&nbsp;units</span></div></div>
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-2 label">
+       Enrollment Code:
+    </div>
+    <div class="col-md-10">
+        <input name="ctl00$pageContent$enrollcodeTextBox" type="text" maxlength="5" id="pageContent_enrollcodeTextBox" tabindex="9" />
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-2 label">
+       Instructor:
+    </div>
+    <div class="col-md-10">
+        <input name="ctl00$pageContent$instructorTextBox" type="text" id="pageContent_instructorTextBox" tabindex="10" />
+    </div>
+    </div>
+
+    <div class="row border">
+    <div class="col-md-2 label">
+       Title Keyword Match:
+    </div>
+    <div class="col-md-10">
+        <input name="ctl00$pageContent$keywordTextBox" type="text" id="pageContent_keywordTextBox" tabindex="11" />
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-2 label">
+       May Apply to GE Requirements for:
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$GECollegeDropDown" id="pageContent_GECollegeDropDown" tabindex="12">
+	<option value="">-Any-</option>
+	<option value="CRST">College of Creative Studies   </option>
+	<option value="ENGR">College of Engineering        </option>
+	<option value="ESM ">School of Environ. Sci. &amp; Mgmt</option>
+	<option value="GRAD">Graduate Division             </option>
+	<option value="GSE ">Graduate School of Education  </option>
+	<option value="L&amp;S ">College of Letters and Science</option>
+	<option value="NO  ">No College                    </option>
+
+</select>
+    </div>
+
+    </div>
+
+    <div class="row border">
+    <div class="col-md-2 label">
+       <span id="pageContent_reqLabel" class="label">Area:</span>
+    </div>
+    <div class="col-md-10">
+        <select name="ctl00$pageContent$GECodeDropDown" id="pageContent_GECodeDropDown" tabindex="13">
+	<option value="">-Any-</option>
+	<option value="A1 ">A1 </option>
+	<option value="A2 ">A2 </option>
+	<option value="AMH">AMH</option>
+	<option value="AMI">AMI</option>
+	<option value="B  ">B  </option>
+	<option value="C  ">C  </option>
+	<option value="C1 ">C1 </option>
+	<option value="C2 ">C2 </option>
+	<option value="C3 ">C3 </option>
+	<option value="CSB">CSB</option>
+	<option value="CU ">CU </option>
+	<option value="CUC">CUC</option>
+	<option value="CUD">CUD</option>
+	<option value="D  ">D  </option>
+	<option value="D1 ">D1 </option>
+	<option value="D2 ">D2 </option>
+	<option value="D3 ">D3 </option>
+	<option value="D4 ">D4 </option>
+	<option value="E  ">E  </option>
+	<option value="E1 ">E1 </option>
+	<option value="E2 ">E2 </option>
+	<option value="ETH">ETH</option>
+	<option value="EUR">EUR</option>
+	<option value="F  ">F  </option>
+	<option value="F1 ">F1 </option>
+	<option value="F2A">F2A</option>
+	<option value="F2B">F2B</option>
+	<option value="G  ">G  </option>
+	<option value="H  ">H  </option>
+	<option value="MAJ">MAJ</option>
+	<option value="MG ">MG </option>
+	<option value="MUD">MUD</option>
+	<option value="MUG">MUG</option>
+	<option value="NWC">NWC</option>
+	<option value="QNT">QNT</option>
+	<option value="SUB">SUB</option>
+	<option value="UG ">UG </option>
+	<option value="UPU">UPU</option>
+	<option value="USB">USB</option>
+	<option value="USR">USR</option>
+	<option value="WRT">WRT</option>
+
+</select>
+    </div>
+
+    </div>
+
+    <div class="row">
+  
+    <div class="col-md-3"><input id="pageContent_openSectionsOnlyCheckBox" type="checkbox" name="ctl00$pageContent$openSectionsOnlyCheckBox" tabindex="14" />&nbsp;Open Sections Only</div>
+    <div class="col-md-3"><input id="pageContent_matchingSectionsOnlyCheckBox" type="checkbox" name="ctl00$pageContent$matchingSectionsOnlyCheckBox" tabindex="15" />&nbsp;Matching Sections Only</div>
+    <div class="col-md-3"><input id="pageContent_noRestrictionsCheckBox" type="checkbox" name="ctl00$pageContent$noRestrictionsCheckBox" tabindex="16" />&nbsp;Courses Without Restrictions Only</div>
+    <div class="col-md-3"><input id="pageContent_noPrerequisitesCheckBox" type="checkbox" name="ctl00$pageContent$noPrerequisitesCheckBox" tabindex="17" />&nbsp;Courses Without Prerequisites Only</div>
+
+    </div>
+    <div class="row">
+ 
+    <div class="col-md-12">
+        <div id="pageContent_PanelSubmitButtons">
 	
-    <div class="login-errors">
-        
+                <input type="submit" name="ctl00$pageContent$searchButton" value="Begin Search" id="pageContent_searchButton" tabindex="18" class="gold-button" converted-from-imagebutton="" />
+                <input type="submit" name="ctl00$pageContent$BasicSearchButton" value="Switch to Basic Search" id="pageContent_BasicSearchButton" tabindex="20" class="gold-button" converted-from-imagebutton="" />
+                <input type="submit" name="ctl00$pageContent$clearButton" value="Clear Entries" id="pageContent_clearButton" tabindex="19" class="gold-button" converted-from-imagebutton="" />
+            
+</div>
     </div>
-    <div class="login-credential-container">
-        <label for="userNameText">UCSB Perm Number</label>
-        <input name="ctl00$pageContent$PermPinLogin$userNameText" type="text" id="pageContent_PermPinLogin_userNameText" />
-    </div>
-    <div class="login-credential-container">
-        <label for="passwordText">UCSB Pin</label>
-        <input name="ctl00$pageContent$PermPinLogin$passwordText" type="password" id="pageContent_PermPinLogin_passwordText" />                   
     </div>
 
+    <div class="row">
+  
+    <div class="col-md-12">
+        PLEASE NOTE: Some Advanced Search parameters are mutually exclusive. If you choose a restrictive parameter the mutually exclusive parameters will become shaded and will not be included in the search.
+    </div>
+    </div>
     
-
-    <input type="submit" name="ctl00$pageContent$PermPinLogin$loginButton" value="Login" id="pageContent_PermPinLogin_loginButton" class="login-button" converted-from-imagebutton="" />
 
 </div>
 
-            <ul class="login-notes">
-                <li>Forgot your perm? Please visit our
-                    <a id="pageContent_hnlkPermLookup" href="//my.sa.ucsb.edu/PermPinReset/ForgotPerm.aspx" target="_blank">Perm Lookup</a>.
-                </li>
-                
-                <li>Forgot your PIN? Please visit our
-                    <a id="pageContent_hlnkPermPinReset" href="//my.sa.ucsb.edu/PermPinReset/PermPinReset.aspx" target="_blank">PIN Reset</a>.
-                </li>
-            </ul>
-
+        <div class="row">
+    <div class="col-md-12"><br />
+            <a href="http://my.sa.ucsb.edu/public/CourseOfferingHistory.aspx" class="gold-button" TabIndex="18" target="_blank">Course Enrollment Histories</a>
         </div>
-        </div>
-         </div> 
     </div>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script type="text/javascript" src="//static.sa.ucsb.edu/js/Bulletin/getBulletins.js"></script>
-    <script>getBulletins('goldlogin')</script>
 
+
+</div>
 
       </main>
 
@@ -197,6 +673,20 @@
 
 <div class="functions visible-xs ">
     
+<div class="header-functions-container">
+<div>
+
+    <a href="Message.aspx"><div class="icon_messages">
+        
+        Messages
+    </div></a>
+
+</div>
+<div><a href="Feedback.aspx"><div class="icon_feedback">Feedback</div></a></div>
+<div><a href="Help.aspx"><div class="icon_help">Help</div></a></div>
+<div><a href="Logout.aspx"><div class="icon_logmeout">Logout</div></a></div>
+</div>
+
 </div>
 
 
@@ -213,6 +703,189 @@
 
   <!-- Page-level scripts -->
   
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        if ($('#pageContent_instructorTextBox').val() != '')
+            $.cookie("instructor", "true");   
+        else
+            $.cookie("instructor", "false");
+        
+        if ($('#pageContent_enrollcodeTextBox').val() != '')
+            $.cookie("enrollcode", "true");
+        else
+            $.cookie("enrollcode", "false");
+        
+        if ($('#pageContent_noRestrictionsCheckBox').is(':checked'))
+            $.cookie("restrictions", "true");
+        else
+            $.cookie("restrictions", "false");
+        
+        if ($('#pageContent_noPrerequisitesCheckBox').is(':checked'))     
+            $.cookie("prerequisites", "true");
+        else
+            $.cookie("prerequisites", "false");
+
+        if ($.cookie("instructor") == "true" || $.cookie("enrollcode") == "true") {
+            $('#pageContent_departmentDropDown').attr('disabled', 'disabled');
+            $('#pageContent_subjectAreaDropDown').attr('disabled', 'disabled');
+            $('#pageContent_courseNumberTextBox').attr('disabled', 'disabled');
+            $('#pageContent_courseLevelDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_daysCheckBoxList').attr('disabled', 'disabled');
+            $('#pageContent_unitsFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_unitsToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECollegeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECodeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_keywordTextBox').attr('disabled', 'disabled');
+        }
+
+        if ($.cookie("restrictions") == "true" || $.cookie("prerequisites") == "true") {
+            $('#pageContent_departmentDropDown').attr('disabled', 'disabled');
+            $('#pageContent_courseNumberTextBox').attr('disabled', 'disabled');
+            $('#pageContent_startTimeFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_daysCheckBoxList').attr('disabled', 'disabled');
+            $('#pageContent_unitsFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_unitsToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECollegeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECodeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_keywordTextBox').attr('disabled', 'disabled');
+        }
+
+        $('#pageContent_instructorTextBox').keyup(
+    function() {
+        if ($(this).val() != '') {
+            $('#pageContent_departmentDropDown').attr('disabled', 'disabled');
+            $('#pageContent_subjectAreaDropDown').attr('disabled', 'disabled');
+            $('#pageContent_courseNumberTextBox').attr('disabled', 'disabled');
+            $('#pageContent_courseLevelDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_daysCheckBoxList').attr('disabled', 'disabled');
+            $('#pageContent_unitsFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_unitsToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECollegeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECodeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_keywordTextBox').attr('disabled', 'disabled');
+            $.cookie("instructor", "true");
+        }
+        else {
+            $('#pageContent_departmentDropDown').removeAttr('disabled');
+            $('#pageContent_subjectAreaDropDown').removeAttr('disabled');
+            $('#pageContent_courseNumberTextBox').removeAttr('disabled');
+            $('#pageContent_courseLevelDropDown').removeAttr('disabled');
+            $('#pageContent_startTimeFromDropDown').removeAttr('disabled');
+            $('#pageContent_startTimeToDropDown').removeAttr('disabled');
+            $('#pageContent_daysCheckBoxList').removeAttr('disabled');
+            $('#pageContent_unitsFromDropDown').removeAttr('disabled');
+            $('#pageContent_unitsToDropDown').removeAttr('disabled');
+            $('#pageContent_GECollegeDropDown').removeAttr('disabled');
+            $('#pageContent_GECodeDropDown').removeAttr('disabled');
+            $('#pageContent_keywordTextBox').removeAttr('disabled');
+            $.cookie("instructor", "false");
+        }
+    });
+
+        $('#pageContent_enrollcodeTextBox').keyup(
+    function() {
+        if ($(this).val() != '') {
+            $('#pageContent_departmentDropDown').attr('disabled', 'disabled');
+            $('#pageContent_subjectAreaDropDown').attr('disabled', 'disabled');
+            $('#pageContent_courseNumberTextBox').attr('disabled', 'disabled');
+            $('#pageContent_courseLevelDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_daysCheckBoxList').attr('disabled', 'disabled');
+            $('#pageContent_unitsFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_unitsToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECollegeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECodeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_keywordTextBox').attr('disabled', 'disabled');
+            $.cookie("enrollcode", "true");
+        }
+        else {
+            $('#pageContent_departmentDropDown').removeAttr('disabled');
+            $('#pageContent_subjectAreaDropDown').removeAttr('disabled');
+            $('#pageContent_courseNumberTextBox').removeAttr('disabled');
+            $('#pageContent_courseLevelDropDown').removeAttr('disabled');
+            $('#pageContent_startTimeFromDropDown').removeAttr('disabled');
+            $('#pageContent_startTimeToDropDown').removeAttr('disabled');
+            $('#pageContent_daysCheckBoxList').removeAttr('disabled');
+            $('#pageContent_unitsFromDropDown').removeAttr('disabled');
+            $('#pageContent_unitsToDropDown').removeAttr('disabled');
+            $('#pageContent_GECollegeDropDown').removeAttr('disabled');
+            $('#pageContent_GECodeDropDown').removeAttr('disabled');
+            $('#pageContent_keywordTextBox').removeAttr('disabled');
+            $.cookie("enrollcode", "false");
+        }
+    });
+
+        $('#pageContent_noRestrictionsCheckBox').click(
+    function() {
+        if ($('#pageContent_noRestrictionsCheckBox').is(':checked')) {
+            $('#pageContent_departmentDropDown').attr('disabled', 'disabled');
+            $('#pageContent_courseNumberTextBox').attr('disabled', 'disabled');
+            $('#pageContent_startTimeFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_daysCheckBoxList').attr('disabled', 'disabled');
+            $('#pageContent_unitsFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_unitsToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECollegeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECodeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_keywordTextBox').attr('disabled', 'disabled');
+            $.cookie("restrictions", "true");
+        }
+        else {
+            $('#pageContent_departmentDropDown').removeAttr('disabled');
+            $('#pageContent_courseNumberTextBox').removeAttr('disabled');
+            $('#pageContent_startTimeFromDropDown').removeAttr('disabled');
+            $('#pageContent_startTimeToDropDown').removeAttr('disabled');
+            $('#pageContent_daysCheckBoxList').removeAttr('disabled');
+            $('#pageContent_unitsFromDropDown').removeAttr('disabled');
+            $('#pageContent_unitsToDropDown').removeAttr('disabled');
+            $('#pageContent_GECollegeDropDown').removeAttr('disabled');
+            $('#pageContent_GECodeDropDown').removeAttr('disabled');
+            $('#pageContent_keywordTextBox').removeAttr('disabled');
+            $.cookie("restrictions", "false");
+        }
+    });
+
+        $('#pageContent_noPrerequisitesCheckBox').click(
+    function() {
+        if ($('#pageContent_noPrerequisitesCheckBox').is(':checked')) {
+            $('#pageContent_departmentDropDown').attr('disabled', 'disabled');
+            $('#pageContent_courseNumberTextBox').attr('disabled', 'disabled');
+            $('#pageContent_startTimeFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_startTimeToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_daysCheckBoxList').attr('disabled', 'disabled');
+            $('#pageContent_unitsFromDropDown').attr('disabled', 'disabled');
+            $('#pageContent_unitsToDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECollegeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_GECodeDropDown').attr('disabled', 'disabled');
+            $('#pageContent_keywordTextBox').attr('disabled', 'disabled');
+            $.cookie("prerequisites", "true");
+        }
+        else {
+            $('#pageContent_departmentDropDown').removeAttr('disabled');
+            $('#pageContent_courseNumberTextBox').removeAttr('disabled');
+            $('#pageContent_startTimeFromDropDown').removeAttr('disabled');
+            $('#pageContent_startTimeToDropDown').removeAttr('disabled');
+            $('#pageContent_daysCheckBoxList').removeAttr('disabled');
+            $('#pageContent_unitsFromDropDown').removeAttr('disabled');
+            $('#pageContent_unitsToDropDown').removeAttr('disabled');
+            $('#pageContent_GECollegeDropDown').removeAttr('disabled');
+            $('#pageContent_GECodeDropDown').removeAttr('disabled');
+            $('#pageContent_keywordTextBox').removeAttr('disabled');
+            $.cookie("prerequisites", "false");
+        }
+    });
+
+    });
+    
+</script>
+
 
   <!--<script src="/js/jquery.js"></script>-->
   
