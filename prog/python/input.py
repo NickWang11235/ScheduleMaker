@@ -32,6 +32,7 @@ class mySchedule:
         self.noRestricts_only = False
         self.no_pre_req = False
 
+
 dic = html_extraction.extract_search_form_data_field(GOLD_SEARCH_FORM)
 for key in dic:
     for str in dic[key]:
