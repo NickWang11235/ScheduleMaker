@@ -11,6 +11,7 @@ OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
 #class to store all the scheduling advanced variables
 class mySchedule:
+    
     def __init__(self, quarter):
         self.quarter = quarter
         self.department = ""
@@ -128,7 +129,6 @@ while True:
     elif (splitInput[0] == "-noRestrictsOnly"):
         if(splitInput[1] == "True"):
             storage.noRestrictsOnly = True
-
         else:
             storage.noRestrictsOnly = False
 
