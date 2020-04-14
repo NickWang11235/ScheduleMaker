@@ -1,5 +1,14 @@
 import html_extraction
 
+DEFAULT_GOLD_FILE_PATH = "../../html/GOLDForms/"
+DEFAULT_DOWNLOAD_PATH = "../../html/raw/"
+GOLD_LOGIN_URL = "https://my.sa.ucsb.edu/gold/"
+GOLD_SEARCH_URL = "https://my.sa.ucsb.edu/gold/CriteriaFindCourses.aspx"
+GOLD_SEARCH_FORM = "../../html/GOLDForms/search/search.html"
+
+HTML_DEFAULT_NAME = "/Find Course Results.html"
+OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
+
 #class to store all the scheduling advanced variables
 class mySchedule:
     def __init__(self, quarter):
@@ -22,6 +31,12 @@ class mySchedule:
         self.matching_sections = False
         self.noRestricts_only = False
         self.no_pre_req = False
+
+dic = html_extraction.extract_search_form_data_field(GOLD_SEARCH_FORM)
+for key in dic:
+    for str in dic[key]:
+        print(str)
+    print("\n")
 
 value = input("First, please enter the quarter: ")
 storage = mySchedule(value)
