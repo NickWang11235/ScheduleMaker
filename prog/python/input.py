@@ -11,7 +11,6 @@ OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
 #class to store all the scheduling advanced variables
 class mySchedule:
-    
     def __init__(self, quarter):
         self.quarter = quarter
         self.department = ""
@@ -33,113 +32,166 @@ class mySchedule:
         self.noRestricts_only = False
         self.no_pre_req = False
 
-
 dic = html_extraction.extract_search_form_data_field(GOLD_SEARCH_FORM)
-for key in dic:
-    for str in dic[key]:
-        print(str)
-    print("\n")
 
-value = input("First, please enter the quarter: ")
-storage = mySchedule(value)
+def validationQuarter(inputed_commands):
+    if(len(inputed_commands.split()) != 1):
+        print("Invalid number of commands")
+
+    temp = inputed_commands.split('=')
+    key = temp[0][1:]
+    season = temp[1][0:-4]
+    year = temp[1][-4:]
+
+    combine = season + " " + year
+
+    if(not combine in dic[key]):
+        print("Invalid Input")
+        exit(2)
+    
+
+def validation(inputed_commands):
+    for a in range(len(inputed_commands)):
+        temp = inputed_commands[a].split('=')
+        key = temp[0][1:]
+        specification = temp[1]
+
+        #help1()
+        #help2()
+
+        if(not specification in str(dic[key])):
+            print("Invalid Input")
+            exit(2)
+
+
+def help1():
+    print("Available Flags: ")
+    for key in dic:
+        print(key)
+
+def help2():
+    for key in dic:
+        for str in dic[key]:
+            print(str)
+        print("\n")
+
+
+value = input("First, please enter the quarter(ex. -quarter=Spring2020 ): ")
+validationQuarter(value)
+storage = mySchedule(value.split('=')[1])
+
+
+#Replacement for switch statement
+def switch(inputed_commands):
+    for a in range(len(inputed_commands)):
+        temp = inputed_commands[a].split('=')
+        if (temp[0] == "-department"):
+            storage.department = temp[1]
+
+
+        elif (temp[0] == "-subject"):
+            storage.subject = temp[1]
+
+
+        elif (temp[0] == "-courseNum"):
+            storage.courseNum = int(temp[1])
+
+
+        elif (temp[0] == "-courseLevel"):
+            storage.courseLevel = temp[1]
+
+
+        elif (temp[0] == "-meetBegin"):
+            storage.meetBegin = int(temp[1])
+
+
+        elif (temp[0] == "-meetEnd"):
+            storage.meetEnd = int(temp[1])
+
+
+        elif (temp[0] == "-daysOfWeek"):
+            storage.days = [int(x) for x in str(temp[1])]
+
+
+        elif (temp[0] == "-unitMin"):
+            storage.unitMin = int(temp[1])
+
+
+        elif (temp[0] == "-unitMax"):
+            storage.unitMax = int(temp[1])
+
+
+        elif (temp[0] == "-enrollmentCode"):
+            storage.Enrollment = int(temp[1])
+
+
+        elif (temp[0] == "-instructor"):
+            storage.Instructor = temp[1]
+
+
+        elif (temp[0] == "-title"):
+            storage.Title = temp[1]
+
+
+        elif (temp[0] == "-geCollege"):
+            storage.GE = temp[1]
+
+
+        elif (temp[0] == "-geArea"):
+            storage.geArea = temp[1]
+
+
+        elif (temp[0] == "-openSections"):
+            if(temp[1] == "True"):
+                storage.openSections = True
+            else:
+                storage.openSections = False
+
+
+        elif (temp[0] == "-matchingSections"):
+            if(temp[1] == "True"):
+                storage.matchingSections = True
+            else:
+                storage.matchingSections = False
+
+
+        elif (temp[0] == "-noRestrictsOnly"):
+            if(temp[1] == "True"):
+                storage.noRestrictsOnly = True
+            else:
+                storage.noRestrictsOnly = False
+
+
+        elif (temp[0] == "-noPreReq"):
+            if(temp[1] == "True"):
+                storage.noPreReq = True
+            else:
+                storage.noPreReq = False
 
 #while loop to get all the conditions
 while True:
     inputed = input("Please enter a flag followed by the desired specification. \
-    \nAvailable Flags: \
-    \n  -department \
-    \n  -subject \
-    \n  -courseNum \
-    \n  -courseLevel \
-    \n  -meetBegin \
-    \n  -meetEnd \
-    \n  -daysOfWeek (Ex. 00101 for Wednesday and Friday. 1s for days available and 0s for not)\
-    \n  -unitMin \
-    \n  -unitMax \
-    \n  -enrollmentCode \
-    \n  -instructor \
-    \n  -title \
-    \n  -geCollege \
-    \n  -geArea \
-    \n  -openSections (True or False)\
-    \n  -matchingSections (True or False)\
-    \n  -noRestrictsOnly (True or False)\
-    \n  -noPreReq (True or False)\
-    \n  exit when done \
-    \nExample Input: -department CHEM \
+    \n -help1 for available flags \
+    \n -help2 for available specifications \
+    \n exit to stop \
+    \nExample Input: -department=CHEM \
     \nInput: ")
 
     splitInput = inputed.split()
 
-    #Replacement for switch statement
-    if (splitInput[0] == "-department"):
-        storage.department = splitInput[1]
 
-    elif (splitInput[0] == "-subject"):
-        storage.subject = splitInput[1]
+    if(splitInput[0] == "-help1"):
+        help1()
+        continue
 
-    elif (splitInput[0] == "-courseNum"):
-        storage.courseNum = int(splitInput[1])
-
-    elif (splitInput[0] == "-courseLevel"):
-        storage.courseLevel = splitInput[1]
-
-    elif (splitInput[0] == "-meetBegin"):
-        storage.meetBegin = int(splitInput[1])
-
-    elif (splitInput[0] == "-meetEnd"):
-        storage.meetEnd = int(splitInput[1])
-
-    elif (splitInput[0] == "-daysOfWeek"):
-        storage.days = [int(x) for x in str(num)]
-
-    elif (splitInput[0] == "-unitMin"):
-        storage.unitMin = int(splitInput[1])
-
-    elif (splitInput[0] == "-unitMax"):
-        storage.unitMax = int(splitInput[1])
-
-    elif (splitInput[0] == "-enrollmentCode"):
-        storage.Enrollment = int(splitInput[1])
-
-    elif (splitInput[0] == "-instructor"):
-        storage.Instructor = splitInput[1]
-
-    elif (splitInput[0] == "-title"):
-        storage.Title = splitInput[1]
-
-    elif (splitInput[0] == "-geCollege"):
-        storage.GE = splitInput[1]
-
-    elif (splitInput[0] == "-geArea"):
-        storage.geArea = splitInput[1]
-
-    elif (splitInput[0] == "-openSections"):
-        if(splitInput[1] == "True"):
-            storage.openSections = True
-        else:
-            storage.openSections = False
-
-    elif (splitInput[0] == "-matchingSections"):
-        if(splitInput[1] == "True"):
-            storage.matchingSections = True
-        else:
-            storage.matchingSections = False
-
-    elif (splitInput[0] == "-noRestrictsOnly"):
-        if(splitInput[1] == "True"):
-            storage.noRestrictsOnly = True
-        else:
-            storage.noRestrictsOnly = False
-
-    elif (splitInput[0] == "-noPreReq"):
-        if(splitInput[1] == "True"):
-            storage.noPreReq = True
-        else:
-            storage.noPreReq = False
+    elif(splitInput[0] == "-help2"):
+        help2()
+        continue
 
     elif (splitInput[0] == "exit"):
         break
-
+    
     else:
-        print("Invalid Input")
+        validation(splitInput)
+
+    switch(splitInput)
