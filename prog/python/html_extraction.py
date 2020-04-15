@@ -7,9 +7,6 @@ DEFAULT_GOLD_FILE_PATH = "../../html/GOLDForms/"
 DEFAULT_DOWNLOAD_PATH = "../../html/raw/"
 GOLD_LOGIN_URL = "https://my.sa.ucsb.edu/gold/"
 GOLD_SEARCH_URL = "https://my.sa.ucsb.edu/gold/CriteriaFindCourses.aspx"
-GOLD_SEARCH_FORM = "../../html/GOLDForms/search/search.html"
-
-HTML_DEFAULT_NAME = "/Find Course Results.html"
 OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
 def read_html(path):
@@ -54,11 +51,11 @@ SMAX_KEY = "col-lg-days col-md-space col-sm-push-1 col-sm-space col-xs-2"
 def parse_to_file(html_name, pretty=False):
     """extract and write course listings from an html file to an xml file, and optionally a txt file
 
-    html_name - the name of the folder to be created that will contain the course search html file
+    html_name - the name of the folder containing the course search html file
     pretty - optional for writing to txt file
     """
     
-    postprocess = extract_table_from_html(read_html(DEFAULT_DOWNLOAD_PATH + html_name + HTML_DEFAULT_NAME))
+    postprocess = extract_table_from_html(read_html(DEFAULT_DOWNLOAD_PATH + html_name + ".html"))
     #create xml and txt file
     root = ET.Element("root")
     f = None
@@ -107,7 +104,7 @@ def parse_to_file(html_name, pretty=False):
 
             #write to txt
             if pretty:
-                f.write(indent + "Lec " + sp_char + lecture_id + " " + lecture_days + " " + lecture_time + " " + lecture_space + " " + lecture_max + "\n")
+                f.write(indent + "Lec " + lecture_id + " " + lecture_days + " " + lecture_time + " " + lecture_space + " " + lecture_max + "\n")
             
             sessions = data.find_all("div", "row susbSessionItem")
             for ses in sessions:
@@ -137,7 +134,7 @@ def parse_to_file(html_name, pretty=False):
         f.close()
 
 
-def extract_search_form_data_field(html_name):
+def enumerate_data_field(html_name):
     """extract the data fields from the course search html form
 
     html_name - the path to the html file
@@ -186,15 +183,3 @@ def extract_search_form_data_field(html_name):
     data_field["area"] = area;
 
     return data_field
-
-
-if __name__ == "__main__":
-    parse_to_file("test")
-
-"""
-    if len(sys.argv) != 2:
-        print("Expected use: html_extraction.py <filename>")
-        sys.exit(1)
-    auto_parse_to_file(sys.argv[1])
-"""
-
