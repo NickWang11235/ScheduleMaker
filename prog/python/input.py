@@ -35,6 +35,8 @@ class criteria:
 
 
 def run(args, crit):
+    if len(args) == 0:
+        print(generate_err_msg())
     handle_commands(map_commands(args),crit)
 
 CRITERIA_VALUES = html_extraction.enumerate_data_field(DEFAULT_GOLD_FILE_PATH + "search.html")
