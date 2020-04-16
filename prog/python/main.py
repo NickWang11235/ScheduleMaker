@@ -16,7 +16,7 @@ with requests.Session() as s:
 
 
     #crit = input.request_input()
-    crit.department = "asdasd - CHEM"
+    crit.department = "asdf - CHEM"
     crit.days = [1,1,1,1,1,1,1]
     scraper.post_search(crit, s, "chem")
 

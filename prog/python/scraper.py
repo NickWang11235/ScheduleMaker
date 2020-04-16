@@ -147,7 +147,7 @@ def match_department(department):
         return ""
     if department == "any":
         return ""
-    return department.split("-")[1].strip().ljust(5)
+    return department.split("-")[1].strip().upper().ljust(5)
 
 
 def match_subject(subject):
