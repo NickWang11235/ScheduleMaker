@@ -16,7 +16,7 @@ def read_html(path):
     """
 
     html = None
-    with open(path, "r") as f:
+    with open(path, "r", encoding='utf-8') as f:
         doc = f.read()
         html = BeautifulSoup(doc, "html.parser")
     return html
@@ -60,7 +60,7 @@ def parse_to_file(html_name, pretty=False):
     root = ET.Element("root")
     f = None
     if pretty:
-        f = open(OUTPUT_DEFAULT_FOLDER + html_name + ".txt", "w")
+        f = open(OUTPUT_DEFAULT_FOLDER + html_name + ".txt", "w", encoding='utf-8')
 
     #parse html data
     course = None

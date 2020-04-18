@@ -1,4 +1,4 @@
-import input, scraper, html_extraction, sys, requests
+import input, scraper, html_extraction, sys, requests, gui.test
 
 DEFAULT_GOLD_FILE_PATH = "../../html/GOLDForms/"
 DEFAULT_DOWNLOAD_PATH = "../../html/raw/"
