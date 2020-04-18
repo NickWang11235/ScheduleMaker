@@ -1,0 +1,2436 @@
+ANTH      2   - INTRO CULT ANTHRO    Units:4.0 Grading:Optional:
+  Lec 00018 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 60
+    Sec 00026 Days F Time 8:00 AM-9:20 AM Space Full Max 20
+    Sec 00034 Days F Time 11:00 AM-12:10 PM Space Full Max 20
+    Sec 00042 Days F Time 12:30 PM-1:40 PM Space Full Max 20
+ANTH      2   - INTRO CULT ANTHRO    Units:4.0 Grading:Optional:
+  Lec 00059 Days MTWR Time 9:30 AM-10:50 AM Space 14 Max 60
+    Sec 00067 Days F Time 11:00 AM-12:10 PM Space Full Max 20
+    Sec 00075 Days F Time 12:30 PM-1:40 PM Space 1 Max 20
+    Sec 00083 Days F Time 8:00 AM-9:20 AM Space 13 Max 20
+ANTH      3SS - INTRO ARCH           Units:4.0 Grading:Letter Graded:
+  Lec 00091 Days MTWR Time 8:00 AM-9:20 AM Space Full Max 60
+    Sec 00109 Days F Time 11:00 AM-12:10 PM Space Full Max 20
+    Sec 00117 Days F Time 12:30 PM-1:40 PM Space Full Max 20
+    Sec 00125 Days F Time 9:30 AM-10:40 AM Space Full Max 20
+ANTH      5   - INTRO  BIO ANTH      Units:5.0 Grading:Optional:
+  Lec 00133 Days MTWR Time 12:30 PM-1:50 PM Space 43 Max 60
+    Sec 00141 Days F Time 11:00 AM-12:10 PM Space 11 Max 20
+    Sec 00158 Days F Time 2:00 PM-3:10 PM Space 14 Max 20
+    Sec 00166 Days F Time 9:30 AM-10:40 AM Space 18 Max 20
+ANTH     99   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Optional:
+  Lec 00174 Days T.B.A. Time T.B.A. Space 10 Max 10
+ANTH    109   - HUMAN UNIVERSALS     Units:4.0 Grading:Optional:
+  Lec 00182 Days MW Time 6:30 PM-8:35 PM Space 6 Max 75
+ANTH    110   - TECH AND CULTURE     Units:4.0 Grading:Optional:
+  Lec 00190 Days TR Time 5:30 PM-7:35 PM Space 25 Max 30
+ANTH    111   - ANTHRO OF FOOD       Units:4.0 Grading:Optional:
+  Lec 00208 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 60
+ANTH    121   - HUMAN EVOLUTION      Units:4.0 Grading:Optional:
+  Lec 18994 Days MTWR Time 8:00 AM-9:20 AM Space 1 Max 40
+ANTH    125   - ANTHRO OF GENDER     Units:4.0 Grading:Optional:
+  Lec 00216 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 30
+ANTH    131   - NORTH AMER INDIANS   Units:4.0 Grading:Optional:
+  Lec 00224 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 30
+ANTH    148   - ECO ANTHROPOLOGY     Units:4.0 Grading:Letter Graded:
+  Lec 00232 Days MTWR Time 9:30 AM-10:50 AM Space 11 Max 60
+ANTH    156   - AFRICA               Units:4.0 Grading:Letter Graded:
+  Lec 00257 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 30
+ANTH    181   - MTH/TECH FIELD ARCH  Units:4.0 Grading:Optional:
+  Lec 00273 Days Cancel Time Cancel Space Cancel Max 20
+ANTH    194P  - PRACTICUM FIELD/LAB  Units:1.0-4.0 Grading:Optional:
+  Lec 00315 Days T.B.A. Time T.B.A. Space 10 Max 10
+ANTH    199   - INDEP STUDIES ANTH   Units:1.0-5.0 Grading:Optional:
+  Lec 00349 Days T.B.A. Time T.B.A. Space 1 Max 1
+ANTH    199RA - RESEARCH TRAINING    Units:1.0-5.0 Grading:Optional:
+  Lec 00356 Days T.B.A. Time T.B.A. Space 1 Max 1
+ANTH    596   - DIR READING & RSCH   Units:2.0-6.0 Grading:Optional:
+  Lec 00380 Days T.B.A. Time T.B.A. Space 5 Max 5
+ANTH    598   - MA & PRE-CAND PREP   Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 00398 Days T.B.A. Time T.B.A. Space 5 Max 5
+ANTH    599   - PH D DISS PREP       Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 00406 Days T.B.A. Time T.B.A. Space 5 Max 5
+ART       1A  - VISUAL LITERACY      Units:5.0 Grading:Optional:
+  Lec 00414 Days TR Time 1:00 PM-2:55 PM Space Full Max 25
+    Sec 00422 Days W Time 1:00 PM-2:55 PM Space Full Max 25
+ART      10   - INTRO  PAINTING      Units:4.0 Grading:Letter Graded:
+  Lec 00430 Days TR Time 3:00 PM-5:50 PM Space Full Max 18
+  Lec 00455 Days MW Time 10:00 AM-12:50 PM Space Full Max 18
+ART      10   - INTRO  PAINTING      Units:4.0 Grading:Letter Graded:
+  Lec 00448 Days TR Time 1:00 PM-3:50 PM Space Full Max 18
+ART      18   - L/D DRAWING          Units:4.0 Grading:Optional:
+  Lec 00463 Days MW Time 9:00 AM-11:50 AM Space Full Max 18
+ART      18   - L/D DRAWING          Units:4.0 Grading:Optional:
+  Lec 00471 Days MW Time 10:00 AM-12:50 PM Space 2 Max 18
+ART     100   - INT PAINTING         Units:4.0 Grading:Optional:
+  Lec 00489 Days F Time 10:00 AM-2:50 PM Space Full Max 17
+ART     117   - INT DRAWING          Units:4.0 Grading:Optional:
+  Lec 00497 Days MW Time 2:00 PM-4:50 PM Space Full Max 18
+ART     125   - ART SINCE 1950       Units:4.0 Grading:Optional:
+  Lec 00505 Days MW Time 9:00 AM-11:15 AM Space Full Max 25
+ART     130   - VISUAL ART/CULTURE   Units:4.0 Grading:Optional:
+  Lec 00513 Days TR Time 3:15 PM-5:30 PM Space Full Max 25
+ART     199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 00521 Days T.B.A. Time T.B.A. Space 10 Max 10
+ART     199RA - RESEARCH ASSISTANCE  Units:1.0-5.0 Grading:Optional:
+  Lec 00539 Days T.B.A. Time T.B.A. Space 10 Max 10
+ARTHI     5A  - ARCHITECT & ENVIRON  Units:4.0 Grading:Optional:
+  Lec 18960 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 50
+    Sec 19067 Days T Time 3:30 PM-4:40 PM Space 1 Max 18
+    Sec 19075 Days T Time 5:00 PM-6:10 PM Space Full Max 25
+ARTHI     5B  - INTRO MUSEUM STUDY   Units:4.0 Grading:Optional:
+  Lec 18978 Days MTWR Time 3:30 PM-4:50 PM Space 25 Max 50
+    Sec 19083 Days R Time 12:30 PM-1:40 PM Space 7 Max 20
+    Sec 19091 Days R Time 2:00 PM-3:10 PM Space 14 Max 20
+ARTHI     6B  - SURVEY II: REN-BAR   Units:4.0 Grading:Optional:
+  Lec 00679 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 50
+    Sec 00687 Days W Time 9:30 AM-10:40 AM Space Full Max 25
+    Sec 00695 Days W Time 11:00 AM-12:10 PM Space Full Max 25
+ARTHI     6B  - SURVEY II: REN-BAR   Units:4.0 Grading:Optional:
+  Lec 18721 Days MTWR Time 9:30 AM-10:50 AM Space 10 Max 50
+    Sec 18739 Days W Time 11:00 AM-12:10 PM Space Full Max 20
+    Sec 18747 Days W Time 12:30 PM-1:40 PM Space Full Max 20
+ARTHI     6C  - SURVEY III: MOD-CON  Units:4.0 Grading:Optional:
+  Lec 18937 Days MTWR Time 3:30 PM-4:50 PM Space Full Max 50
+    Sec 18945 Days W Time 2:00 PM-3:10 PM Space Full Max 25
+    Sec 18952 Days W Time 12:30 PM-1:40 PM Space Full Max 25
+ARTHI     6DS - SURVEY: CHINESE ART  Units:4.0 Grading:Optional:
+  Lec 00760 Days MTWR Time 12:30 PM-1:50 PM Space 10 Max 50
+    Sec 00778 Days R Time 9:30 AM-10:40 AM Space Full Max 20
+    Sec 00786 Days R Time 11:00 AM-12:10 PM Space Full Max 20
+ARTHI     6L  - HISTORY OF GAMES     Units:4.0 Grading:Optional:
+  Lec 00794 Days MTWR Time 8:00 AM-9:20 AM Space 10 Max 50
+    Sec 00802 Days T Time 11:00 AM-12:10 PM Space Full Max 20
+    Sec 00810 Days T Time 9:30 AM-10:40 AM Space Full Max 20
+ARTHI   107C  - KUNST: FIRST MUSEUM  Units:4.0 Grading:Optional:
+  Lec 19265 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 0
+ARTHI   121D  - AFRICAN-AMERICAN     Units:4.0 Grading:Optional:
+  Lec 18754 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 35
+ARTHI   136I  - CITY IN HISTORY      Units:4.0 Grading:Optional:
+  Lec 00844 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 35
+ARTHI   141F  - ADC INTERNSHIP       Units:1.0-4.0 Grading:Optional:
+  Lec 00885 Days T.B.A. Time T.B.A. Space 5 Max 5
+ARTHI   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 00919 Days T.B.A. Time T.B.A. Space 10 Max 10
+ARTHI   596   - INDEPENDENT STUDY    Units:1.0-8.0 Grading:Optional:
+  Lec 00950 Days T.B.A. Time T.B.A. Space 10 Max 10
+AS AM     1   - INTRO AS AM HISTORY  Units:4.0 Grading:Optional:
+  Lec 00992 Days MTW Time 11:00 AM-12:25 PM Space Full Max 50
+    Sec 01008 Days T Time 1:00 PM-1:50 PM Space Full Max 25
+    Sec 01016 Days T Time 2:00 PM-2:50 PM Space Full Max 25
+AS AM     2   - AMERICAN MIGRATION   Units:4.0 Grading:Optional:
+  Lec 01024 Days MTW Time 9:30 AM-10:55 AM Space Full Max 50
+    Sec 01032 Days R Time 12:00 PM-12:50 PM Space Full Max 25
+    Sec 01040 Days R Time 1:00 PM-1:50 PM Space Full Max 25
+AS AM     4   - ASAM POP CULTURE     Units:4.0 Grading:Optional:
+  Lec 17293 Days MTW Time 9:30 AM-10:55 AM Space Full Max 50
+    Sec 17301 Days W Time 12:00 PM-12:50 PM Space Full Max 25
+    Sec 17319 Days W Time 1:00 PM-1:50 PM Space Full Max 25
+AS AM     5   - INTRO ASIAN AM LIT   Units:4.0 Grading:Optional:
+  Lec 01057 Days MTW Time 2:00 PM-3:25 PM Space Full Max 163
+    Sec 01065 Days R Time 9:00 AM-9:50 AM Space Full Max 18
+    Sec 01073 Days R Time 10:00 AM-10:50 AM Space Full Max 18
+    Sec 17210 Days R Time 11:00 AM-11:50 AM Space Full Max 18
+    Sec 17228 Days R Time 12:00 PM-12:50 PM Space Full Max 18
+    Sec 17236 Days R Time 1:00 PM-1:50 PM Space Full Max 18
+    Sec 17244 Days R Time 2:00 PM-2:50 PM Space Full Max 18
+    Sec 17251 Days R Time 3:00 PM-3:50 PM Space Full Max 18
+    Sec 17269 Days R Time 4:00 PM-4:50 PM Space Full Max 18
+    Sec 17277 Days R Time 5:00 PM-5:50 PM Space Full Max 19
+AS AM   118   - AS AM POP CULTURE    Units:4.0 Grading:Optional:
+  Lec 01115 Days TWR Time 12:30 PM-1:55 PM Space Full Max 25
+AS AM   131   - AS AM WOMEN'S HIST   Units:4.0 Grading:Optional:
+  Lec 17202 Days MTW Time 12:30 PM-1:55 PM Space Full Max 25
+AS AM   157   - AS AM  EDUCATION     Units:4.0 Grading:Optional:
+  Lec 17285 Days MTW Time 9:30 AM-10:55 AM Space Full Max 25
+ASTRO     1   - BASIC ASTRONOMY      Units:4.0 Grading:Optional:
+  Lec 17582 Days MTW Time 12:30 PM-1:50 PM Space 261 Max 286
+    Sec 17590 Days R Time 11:00 AM-12:20 PM Space 36 Max 50
+    Sec 17608 Days R Time 12:30 PM-1:50 PM Space 39 Max 50
+BL ST     1   - INTRO AF-AM STUDIES  Units:4.0 Grading:Letter Graded:
+  Lec 01180 Days MTW Time 2:00 PM-3:20 PM Space Closed Max 80
+    Sec 01198 Days T Time 11:00 AM-12:20 PM Space Full Max 20
+    Sec 01206 Days W Time 11:00 AM-12:20 PM Space Full Max 20
+    Sec 01214 Days T Time 9:30 AM-10:50 AM Space Full Max 20
+    Sec 01222 Days W Time 9:30 AM-10:50 AM Space Full Max 20
+BL ST     3   - INTRO AFR STUDIES    Units:4.0 Grading:Letter Graded:
+  Lec 01230 Days MTW Time 8:00 AM-9:25 AM Space Full Max 40
+    Sec 01248 Days T Time 11:00 AM-12:20 PM Space Full Max 20
+    Sec 01255 Days W Time 11:00 AM-12:20 PM Space Full Max 20
+BL ST    99   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Letter Graded:
+  Lec 01263 Days T.B.A. Time T.B.A. Space 5 Max 5
+BL ST    99RA - INDEP RESEARCH ASST  Units:1.0-4.0 Grading:Letter Graded:
+  Lec 01271 Days T.B.A. Time T.B.A. Space 5 Max 5
+BL ST   125   - QUEER BLST           Units:4.0 Grading:Letter Graded:
+  Lec 19000 Days WRF Time 2:00 PM-3:20 PM Space 46 Max 65
+BL ST   126   - COMP BLK LIT         Units:4.0 Grading:Letter Graded:
+  Lec 01305 Days MTW Time 9:30 AM-10:55 AM Space 15 Max 65
+BL ST   127   - BLACK WOMEN WRITERS  Units:4.0 Grading:Letter Graded:
+  Lec 19018 Days MTW Time 12:30 PM-1:50 PM Space Full Max 65
+BL ST   199   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Letter Graded:
+  Lec 01321 Days T.B.A. Time T.B.A. Space 5 Max 5
+BL ST   199RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 01339 Days T.B.A. Time T.B.A. Space 5 Max 5
+BMSE    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 01347 Days T.B.A. Time T.B.A. Space 10 Max 10
+BMSE    596   - DIRECTED READ RSRCH  Units:2.0-12.0 Grading:Optional:
+  Lec 01354 Days T.B.A. Time T.B.A. Space 10 Max 10
+C LIT    27   - HUMANITIES/NEUROSCI  Units:3.0 Grading:Optional:
+  Lec 17020 Days MWF Time 2:00 PM-3:55 PM Space Full Max 40
+C LIT    28   - STORYTELLING & ANTH  Units:4.0 Grading:Optional:
+  Lec 19828 Days MTWR Time 9:30 AM-10:50 AM Space 22 Max 25
+C LIT    30A  - MAJ WORKS-EUROP LIT  Units:4.0 Grading:Optional:
+  Lec 17038 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 20
+C LIT    30B  - MAJ WORKS-EUROP LIT  Units:4.0 Grading:Optional:
+  Lec 17046 Days MTWR Time 11:00 AM-12:25 PM Space 14 Max 20
+    Sec 17053 Days Cancel Time Cancel Space Cancel Max 20
+C LIT    30C  - MAJ WORKS-EUROP LIT  Units:4.0 Grading:Optional:
+  Lec 19109 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 20
+C LIT    31   - ASIAN LITERATURES    Units:4.0 Grading:Optional:
+  Lec 17087 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 25
+C LIT    32   - MIDDLE EAST LITS.    Units:4.0 Grading:Optional:
+  Lec 17095 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 25
+C LIT    99   - INDEPENDENT STUDY    Units:1.0-4.0 Grading:Optional:
+  Lec 01420 Days T.B.A. Time T.B.A. Space 5 Max 5
+C LIT   113   - TRAUMA/MEMORY/HIST   Units:4.0 Grading:Optional:
+  Lec 16998 Days TR Time 5:00 PM-6:55 PM Space Full Max 50
+    Sec 18861 Days F Time 10:00 AM-10:50 AM Space Full Max 25
+    Sec 18879 Days F Time 12:00 PM-12:50 PM Space Full Max 25
+C LIT   128A  - CHILDREN'S LIT       Units:4.0 Grading:Optional:
+  Lec 17004 Days MTW Time 11:00 AM-12:25 PM Space Full Max 50
+    Sec 18887 Days R Time 10:00 AM-10:50 AM Space Full Max 25
+    Sec 18895 Days R Time 12:00 PM-12:50 PM Space Full Max 25
+C LIT   188   - NARRATIVE STUDIES    Units:4.0 Grading:Optional:
+  Lec 17012 Days TWR Time 2:00 PM-3:25 PM Space 15 Max 25
+C LIT   193   - TRANSLATION STUDIES  Units:4.0 Grading:Letter Graded:
+  Lec 01503 Days T.B.A. Time T.B.A. Space Full Max 0
+C LIT   196H  - HONORS RESEARCH      Units:4.0 Grading:Optional:
+  Lec 01511 Days T.B.A. Time T.B.A. Space 5 Max 5
+C LIT   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 01529 Days T.B.A. Time T.B.A. Space 5 Max 5
+C LIT   596   - DIR READ & RESEARCH  Units:2.0-18.0 Grading:Letter Graded:
+  Lec 01537 Days T.B.A. Time T.B.A. Space 5 Max 5
+CH E W    5   - INTRO CHEM ENG DES   Units:3.0 Grading:Letter Graded:
+  Lec 19273 Days T.B.A. Time T.B.A. Space 18 Max 30
+CH E     99   - INTRO. TO RESEARCH   Units:1.0-3.0 Grading:Optional:
+  Lec 01560 Days T.B.A. Time T.B.A. Space 10 Max 10
+CH E    193   - INTERN IN INDUSTRY   Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 01578 Days T.B.A. Time T.B.A. Space 5 Max 5
+CH E    196   - UNDERGRAD RESEARCH   Units:2.0-4.0 Grading:Optional:
+  Lec 01586 Days T.B.A. Time T.B.A. Space Full Max 0
+CH E    198   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 01594 Days T.B.A. Time T.B.A. Space 5 Max 5
+CH E    493   - INTERN IN INDUSTRY   Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 01602 Days T.B.A. Time T.B.A. Space 5 Max 5
+CH E    596   - DIR READ & RESEARCH  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 01610 Days T.B.A. Time T.B.A. Space 10 Max 10
+CH E    599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 01628 Days T.B.A. Time T.B.A. Space 20 Max 20
+CH ST     1A  - INTRO CHICANO/A STD  Units:4.0 Grading:Optional:
+  Lec 01636 Days MTW Time 11:00 AM-12:20 PM Space 59 Max 60
+    Sec 01644 Days W Time 1:00 PM-1:50 PM Space 19 Max 20
+    Sec 01651 Days W Time 2:00 PM-2:50 PM Space 20 Max 20
+    Sec 01669 Days W Time 3:30 PM-4:20 PM Space 20 Max 20
+CH ST     1B  - INTRO CHICANO/A STD  Units:4.0 Grading:Optional:
+  Lec 17996 Days MW Time 2:00 PM-4:05 PM Space 58 Max 60
+    Sec 18002 Days W Time 5:00 PM-5:50 PM Space 18 Max 20
+    Sec 18010 Days W Time 6:00 PM-6:50 PM Space 20 Max 20
+    Sec 18028 Days W Time 7:00 PM-7:50 PM Space 20 Max 20
+CH ST     1C  - INTRO CHICANO/A STD  Units:4.0 Grading:Optional:
+  Lec 01677 Days MTW Time 9:30 AM-10:50 AM Space 59 Max 60
+    Sec 01685 Days W Time 12:00 PM-12:50 PM Space 19 Max 20
+    Sec 01693 Days W Time 1:00 PM-1:50 PM Space 20 Max 20
+    Sec 01701 Days W Time 2:00 PM-2:50 PM Space 20 Max 20
+CH ST   103   - CHICANA/O MEDIA      Units:4.0 Grading:Optional:
+  Lec 01727 Days MTWR Time 2:00 PM-4:05 PM Space 31 Max 35
+CH ST   133   - EQUALITY IN CHIC ED  Units:4.0 Grading:Letter Graded:
+  Lec 17772 Days TR Time 2:00 PM-4:05 PM Space 30 Max 35
+CH ST   138   - BARRIO POPULAR CULT  Units:4.0 Grading:Optional:
+  Lec 01735 Days MTW Time 8:00 AM-9:25 AM Space 28 Max 35
+CH ST   140   - CHIC/MEX HERITAGE    Units:4.0 Grading:Optional:
+  Lec 18820 Days MW Time 2:00 PM-4:05 PM Space 30 Max 35
+CH ST   168B  - HISTORY OF CHICANOS  Units:4.0 Grading:Optional:
+  Lec 01743 Days TR Time 3:30 PM-5:35 PM Space 30 Max 35
+CH ST   184A  - CHICANA WRITERS      Units:4.0 Grading:Optional:
+  Lec 01776 Days MTW Time 11:00 AM-12:25 PM Space 26 Max 35
+CH ST   199RA - IND RESEARCH ASST    Units:1.0-5.0 Grading:Optional:
+  Lec 01800 Days T.B.A. Time T.B.A. Space 15 Max 15
+CH ST   596   - DIR READ RESEARCH    Units:1.0-12.0 Grading:Letter Graded:
+  Lec 01818 Days T.B.A. Time T.B.A. Space 12 Max 12
+CH ST   597   - INDIV STD COMP EXAM  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 01826 Days T.B.A. Time T.B.A. Space 12 Max 12
+CH ST   598   - MA RESEARCH PREP     Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 01834 Days T.B.A. Time T.B.A. Space 12 Max 12
+CH ST   599   - DISSERT RESEARCH     Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 01842 Days T.B.A. Time T.B.A. Space 12 Max 12
+CHEM      1B  - GENERAL CHEMISTRY    Units:3.0 Grading:Optional:
+  Lec 01859 Days MTWR Time 11:00 AM-12:05 PM Space 36 Max 113
+CHEM      1BL - GEN CHEMISTRY LAB    Units:2.0 Grading:Optional:
+  Lec 01867 Days M Time 1:00 PM-4:50 PM Space 7 Max 16
+  Lec 01875 Days W Time 1:00 PM-4:50 PM Space 8 Max 16
+  Lec 01883 Days T Time 1:00 PM-4:50 PM Space Closed Max 16
+  Lec 01891 Days T Time 1:00 PM-4:50 PM Space Closed Max 16
+CHEM      1C  - GEN CHEM             Units:3.0 Grading:Optional:
+  Lec 01909 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 160
+CHEM      1CL - GEN CHEMISTRY LAB    Units:2.0 Grading:Optional:
+  Lec 01917 Days M Time 1:00 PM-4:50 PM Space 3 Max 22
+  Lec 01925 Days M Time 1:00 PM-4:50 PM Space 5 Max 22
+  Lec 01933 Days M Time 1:00 PM-4:50 PM Space Closed Max 16
+  Lec 01941 Days W Time 1:00 PM-4:50 PM Space 4 Max 22
+  Lec 01958 Days W Time 1:00 PM-4:50 PM Space 3 Max 22
+  Lec 01966 Days W Time 1:00 PM-4:50 PM Space Closed Max 16
+CHEM      6AL - ORGANIC CHEM LAB     Units:3.0 Grading:Optional:
+  Lec 01990 Days MW Time 1:00 PM-1:50 PM Space 68 Max 72
+    Sec 02006 Days T Time 1:00 PM-4:50 PM Space 17 Max 18
+    Sec 02014 Days T Time 1:00 PM-4:50 PM Space Closed Max 18
+    Sec 02022 Days T Time 1:00 PM-4:50 PM Space 16 Max 18
+    Sec 02030 Days R Time 8:00 AM-11:50 AM Space 17 Max 18
+    Sec 02048 Days R Time 8:00 AM-11:50 AM Space Closed Max 18
+    Sec 02055 Days R Time 8:00 AM-11:50 AM Space 18 Max 18
+CHEM      6BL - ORGANIC CHEM LAB     Units:3.0 Grading:Optional:
+  Lec 02089 Days MW Time 8:00 AM-11:50 AM Space Closed Max 18
+  Lec 02097 Days MW Time 8:00 AM-11:50 AM Space Closed Max 18
+  Lec 02105 Days MW Time 8:00 AM-11:50 AM Space Closed Max 18
+  Lec 02113 Days MW Time 1:00 PM-4:50 PM Space 11 Max 18
+  Lec 02121 Days MW Time 1:00 PM-4:50 PM Space 15 Max 18
+  Lec 02139 Days MW Time 1:00 PM-4:50 PM Space 16 Max 18
+  Lec 02147 Days MW Time 5:00 PM-8:50 PM Space 8 Max 18
+  Lec 02154 Days MW Time 5:00 PM-8:50 PM Space 13 Max 18
+  Lec 02162 Days MW Time 5:00 PM-8:50 PM Space 13 Max 18
+  Lec 02170 Days TR Time 8:00 AM-11:50 AM Space Closed Max 18
+  Lec 02188 Days TR Time 1:00 PM-4:50 PM Space Closed Max 18
+CHEM      6CL - ORGANIC CHEM LAB     Units:3.0 Grading:Optional:
+  Lec 02196 Days MW Time 8:00 AM-11:50 AM Space 2 Max 12
+CHEM     99   - INTRO TO RESEARCH    Units:1.0-3.0 Grading:Optional:
+  Lec 02204 Days T.B.A. Time T.B.A. Space 40 Max 40
+CHEM     99   - INTRO TO RESEARCH    Units:1.0-3.0 Grading:Optional:
+  Lec 02212 Days T.B.A. Time T.B.A. Space 40 Max 40
+CHEM    109B  - ORGANIC CHEMISTRY    Units:4.0 Grading:Optional:
+  Lec 18846 Days MWF Time 2:00 PM-2:50 PM Space 38 Max 100
+CHEM    109C  - ORGANIC CHEMISTRY    Units:4.0 Grading:Optional:
+  Lec 02238 Days MWF Time 11:00 AM-11:50 AM Space 76 Max 200
+CHEM W  142A  - BIOCHEM              Units:3.0 Grading:Letter Graded:
+  Lec 02436 Days T.B.A. Time T.B.A. Space 22 Max 46
+CHEM    150   - ANALYTICAL CHEM      Units:3.0 Grading:Optional:
+  Lec 02246 Days MTWR Time 12:30 PM-1:35 PM Space 21 Max 65
+CHEM    173A  - ADV INORG CHEMISTRY  Units:3.0 Grading:Optional:
+  Lec 02253 Days TR Time 9:30 AM-10:45 AM Space 24 Max 64
+    Sec 02261 Days T Time 11:00 AM-11:50 AM Space Full Max 16
+    Sec 02279 Days T Time 12:00 PM-12:50 PM Space 6 Max 16
+    Sec 02287 Days T Time 1:00 PM-1:50 PM Space 11 Max 16
+    Sec 02295 Days T Time 2:00 PM-2:50 PM Space 7 Max 16
+CHEM    192   - HONORS RESEARCH      Units:3.0 Grading:Letter Graded:
+  Lec 02303 Days T.B.A. Time T.B.A. Space Full Max 0
+CHEM    193   - INTERNSHIP CHEM      Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 02311 Days T.B.A. Time T.B.A. Space 40 Max 40
+CHEM    193   - INTERNSHIP CHEM      Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 02329 Days T.B.A. Time T.B.A. Space 40 Max 40
+CHEM    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 02337 Days T.B.A. Time T.B.A. Space 10 Max 10
+CHEM    268A  - ADV INORG CHEMISTRY  Units:3.0 Grading:Optional:
+  Lec 02345 Days TR Time 9:30 AM-10:45 AM Space 10 Max 10
+CHEM    595   - GROUP STUDIES        Units:2.0 Grading:Pass/No Pass:
+  Lec 02352 Days T.B.A. Time T.B.A. Space 15 Max 15
+CHEM    596   - DIRECTED READ RSRCH  Units:2.0-12.0 Grading:Optional:
+  Lec 02360 Days T.B.A. Time T.B.A. Space 10 Max 10
+CHEM    599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 02378 Days T.B.A. Time T.B.A. Space 20 Max 20
+CHIN     80   - MSTRPCES CHIN LIT    Units:4.0 Grading:Optional:
+  Lec 17442 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 60
+CHIN    103   - READ & WRT IN CHIN   Units:4.0 Grading:Optional:
+  Lec 02444 Days MTWR Time 9:30 AM-11:35 AM Space Full Max 20
+CHIN    198   - READINGS IN CHINESE  Units:1.0-4.0 Grading:Optional:
+  Lec 02451 Days T.B.A. Time T.B.A. Space 5 Max 5
+CHIN    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 02469 Days T.B.A. Time T.B.A. Space 5 Max 5
+CHIN    199   - INDEPENDENT STUDIES   :
+CHIN    201   - SELECTED TEXTS       Units:2.0-4.0 Grading:Optional:
+  Lec 02477 Days T.B.A. Time T.B.A. Space 5 Max 5
+CHIN    596   - DIR READ & RESEARCH  Units:2.0-4.0 Grading:Letter Graded:
+  Lec 02485 Days T.B.A. Time T.B.A. Space 5 Max 5
+CHIN    598   - MASTER'S THESIS RES  Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 02493 Days T.B.A. Time T.B.A. Space 5 Max 5
+CHIN    599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 02501 Days T.B.A. Time T.B.A. Space 5 Max 5
+CLASS    20A  - ANCIENT GREEKS       Units:4.0 Grading:Optional:
+  Lec 02519 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 25
+CLASS    20B  - ROMANS               Units:4.0 Grading:Optional:
+  Lec 02527 Days MTWR Time 3:30 PM-4:50 PM Space Full Max 20
+CLASS    40   - GREEK MYTHOLOGY      Units:4.0 Grading:Optional:
+  Lec 02535 Days MTWR Time 9:30 AM-10:20 AM Space Full Max 150
+    Sec 02543 Days W Time 12:00 PM-12:50 PM Space Full Max 16
+    Sec 02550 Days W Time 1:00 PM-1:50 PM Space Full Max 16
+    Sec 02568 Days W Time 3:00 PM-3:50 PM Space Full Max 17
+    Sec 02576 Days T Time 12:00 PM-12:50 PM Space Full Max 16
+    Sec 02584 Days T Time 1:00 PM-1:50 PM Space 1 Max 18
+    Sec 02592 Days T Time 3:00 PM-3:50 PM Space Full Max 17
+    Sec 02600 Days R Time 1:00 PM-1:50 PM Space Full Max 16
+    Sec 02618 Days R Time 12:00 PM-12:50 PM Space Full Max 17
+    Sec 02626 Days R Time 3:00 PM-3:50 PM Space Full Max 18
+CLASS    40   - GREEK MYTHOLOGY      Units:4.0 Grading:Optional:
+  Lec 02634 Days MTWR Time 9:30 AM-10:50 AM Space 63 Max 158
+    Sec 02642 Days T Time 8:00 AM-8:50 AM Space 1 Max 12
+    Sec 02659 Days T Time 1:00 PM-1:50 PM Space Full Max 14
+    Sec 02667 Days T Time 4:00 PM-4:50 PM Space 8 Max 14
+    Sec 02675 Days R Time 8:00 AM-8:50 AM Space 11 Max 12
+    Sec 02683 Days R Time 1:00 PM-1:50 PM Space Full Max 14
+    Sec 02691 Days R Time 4:00 PM-4:50 PM Space 10 Max 14
+    Sec 02709 Days W Time 8:00 AM-8:50 AM Space 10 Max 12
+    Sec 02717 Days W Time 1:00 PM-1:50 PM Space Full Max 12
+    Sec 02725 Days W Time 4:00 PM-4:50 PM Space 8 Max 14
+    Sec 02733 Days W Time 2:00 PM-2:50 PM Space 1 Max 14
+    Sec 02741 Days T Time 2:00 PM-2:50 PM Space 9 Max 14
+    Sec 02758 Days R Time 2:00 PM-2:50 PM Space 5 Max 12
+CLASS    40H  - GREEK MYTH-HONORS    Units:1.0 Grading:Letter Graded:
+  Lec 02766 Days W Time 5:00 PM-5:50 PM Space 25 Max 25
+CLASS    99   - INTRO TO RESEARCH    Units:1.0-3.0 Grading:Optional:
+  Lec 02782 Days T.B.A. Time T.B.A. Space 5 Max 5
+CLASS    99   - INTRO TO RESEARCH    Units:1.0-3.0 Grading:Optional:
+  Lec 02774 Days T Time 3:30 PM-5:00 PM Space 20 Max 20
+CLASS   196   - CLASSICS INTERNSHIP  Units:4.0 Grading:Optional:
+  Lec 02808 Days T.B.A. Time T.B.A. Space 1 Max 1
+CLASS   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 02816 Days T.B.A. Time T.B.A. Space 1 Max 1
+CMPSC     8   - INTRO TO COMP SCI    Units:4.0 Grading:Letter Graded:
+  Lec 02964 Days TWR Time 9:30 AM-10:50 AM Space Full Max 120
+    Sec 02972 Days R Time 11:00 AM-12:20 PM Space Full Max 31
+    Sec 02980 Days R Time 12:30 PM-1:50 PM Space Full Max 31
+    Sec 02998 Days R Time 2:00 PM-3:20 PM Space Full Max 30
+    Sec 03004 Days R Time 3:30 PM-4:50 PM Space Full Max 28
+CMPSC     8   - INTRO TO COMP SCI    Units:4.0 Grading:Letter Graded:
+  Lec 02881 Days TWR Time 2:00 PM-3:20 PM Space Full Max 151
+    Sec 02899 Days M Time 9:30 AM-10:50 AM Space 3 Max 30
+    Sec 02907 Days M Time 11:00 AM-12:20 PM Space 1 Max 30
+    Sec 02915 Days M Time 12:30 PM-1:50 PM Space 17 Max 30
+    Sec 02923 Days M Time 2:00 PM-3:20 PM Space 1 Max 30
+    Sec 02931 Days M Time 3:30 PM-4:50 PM Space 13 Max 30
+    Sec 02949 Days T Time 9:30 AM-10:50 AM Space 12 Max 25
+    Sec 02956 Days T Time 11:00 AM-12:20 PM Space 2 Max 25
+CMPSC    16   - PROBLEM SOLVING I    Units:4.0 Grading:Letter Graded:
+  Lec 03012 Days TR Time 11:00 AM-12:20 PM Space Full Max 70
+    Sec 03020 Days W Time 10:30 AM-11:45 AM Space Full Max 23
+    Sec 03038 Days W Time 12:00 PM-1:15 PM Space Full Max 24
+    Sec 03046 Days W Time 1:30 PM-2:45 PM Space Full Max 24
+CMPSC    24   - PROBLEM SOLVING II   Units:4.0 Grading:Letter Graded:
+  Lec 03053 Days TWR Time 9:00 AM-9:50 AM Space 42 Max 70
+    Sec 03061 Days F Time 10:00 AM-10:50 AM Space 10 Max 30
+    Sec 03079 Days F Time 11:00 AM-11:50 AM Space 22 Max 30
+CMPSC    40   - FOUNDATION COMP SCI  Units:5.0 Grading:Letter Graded:
+  Lec 03095 Days TWR Time 12:30 PM-1:20 PM Space 9 Max 70
+    Sec 03103 Days R Time 2:00 PM-2:50 PM Space Full Max 35
+    Sec 03111 Days R Time 3:30 PM-4:20 PM Space 9 Max 35
+CMPSC    99   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 03129 Days T.B.A. Time T.B.A. Space 5 Max 5
+CMPSC   138   - AUT & FORML LANG     Units:4.0 Grading:Letter Graded:
+  Lec 03152 Days TWR Time 11:00 AM-11:50 AM Space 5 Max 40
+    Sec 03160 Days W Time 1:30 PM-2:20 PM Space 5 Max 40
+CMPSC   154   - COMPUTER ARCHITECT   Units:4.0 Grading:Letter Graded:
+  Lec 19315 Days TWR Time 12:30 PM-1:50 PM Space 26 Max 40
+    Sec 19349 Days R Time 3:30 PM-4:45 PM Space 26 Max 40
+CMPSC   165B  - MACHINE LEARNING     Units:4.0 Grading:Letter Graded:
+  Lec 19323 Days TWR Time 12:30 PM-1:50 PM Space Full Max 40
+    Sec 19331 Days R Time 2:00 PM-3:20 PM Space Full Max 40
+CMPSC   192   - PROJECTS COMP SCI    Units:1.0-5.0 Grading:Letter Graded:
+  Lec 03178 Days T.B.A. Time T.B.A. Space Full Max 0
+CMPSC   193   - INTERN IN INDUSTRY   Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 03186 Days T.B.A. Time T.B.A. Space 35 Max 35
+CMPSC   193   - INTERN IN INDUSTRY    :
+CMPSC   193   - INTERN IN INDUSTRY    :
+CMPSC   193   - INTERN IN INDUSTRY    :
+CMPSC   196   - UNDERGRAD RESEARCH   Units:2.0-4.0 Grading:Optional:
+  Lec 03194 Days T.B.A. Time T.B.A. Space 5 Max 5
+CMPSC   596   - DIRECTED RESEARCH    Units:2.0-12.0 Grading:Optional:
+  Lec 03202 Days T.B.A. Time T.B.A. Space 5 Max 5
+CMPSC   599   - PH.D DIS RES PREP    Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 03210 Days T.B.A. Time T.B.A. Space 40 Max 40
+CNCSP   101   - INTRO HELP SKILLS    Units:4.0 Grading:Optional:
+  Lec 03236 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 40
+CNCSP   101   - INTRO HELP SKILLS    Units:4.0 Grading:Optional:
+  Lec 03244 Days MTWR Time 2:00 PM-3:20 PM Space 19 Max 40
+CNCSP   102   - RESEARCH APP PSYCH   Units:4.0 Grading:Letter Graded:
+  Lec 03251 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 40
+CNCSP   102   - RESEARCH APP PSYCH   Units:4.0 Grading:Letter Graded:
+  Lec 03269 Days MTWR Time 3:30 PM-4:50 PM Space Full Max 40
+CNCSP   110   - INTRO ED & VOC GUID  Units:4.0 Grading:Letter Graded:
+  Lec 03277 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 40
+CNCSP   111   - IDENTITY-PLURALISM   Units:4.0 Grading:Optional:
+  Lec 03285 Days MTR Time 9:30 AM-12:15 PM Space Full Max 48
+CNCSP   112   - POSITIVE PSYCH       Units:4.0 Grading:Optional:
+  Lec 03293 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 40
+CNCSP   114   - PSYCH OF GENDER      Units:4.0 Grading:Optional:
+  Lec 03301 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 40
+CNCSP   199   - INDEPEN STUDENTS     Units:1.0-5.0 Grading:Optional:
+  Lec 03392 Days T.B.A. Time T.B.A. Space 10 Max 10
+CNCSP   199RA - INDEP RES ASST       Units:1.0-5.0 Grading:Optional:
+  Lec 03400 Days T.B.A. Time T.B.A. Space 10 Max 10
+CNCSP   271A  - CLINIC PRACTICUM     Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 18085 Days T.B.A. Time T.B.A. Space 5 Max 5
+CNCSP   271A  - CLINIC PRACTICUM     Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 18093 Days T.B.A. Time T.B.A. Space 5 Max 5
+CNCSP   271A  - CLINIC PRACTICUM     Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 18101 Days F Time 1:00 PM-3:50 PM Space 10 Max 10
+  Lec 18119 Days F Time 9:00 AM-11:50 AM Space 10 Max 10
+CNCSP   596   - DIR READ & RESEARCH  Units:1.0-12.0 Grading:Optional:
+  Lec 03418 Days T.B.A. Time T.B.A. Space 10 Max 10
+CNCSP   597   - INDIV STD COMP EXAM  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 03426 Days T.B.A. Time T.B.A. Space 10 Max 10
+CNCSP   599   - PHD DISS RSCH-PREP   Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 03434 Days T.B.A. Time T.B.A. Space 10 Max 10
+COMM      1   - INTRO COMMUNICATION  Units:5.0 Grading:Optional:
+  Lec 03442 Days MTW Time 11:00 AM-12:20 PM Space Full Max 45
+    Sec 03459 Days W Time 12:30 PM-1:55 PM Space Full Max 22
+    Sec 03467 Days W Time 2:00 PM-3:25 PM Space Full Max 23
+COMM      1   - INTRO COMMUNICATION  Units:5.0 Grading:Optional:
+  Lec 18275 Days MTW Time 11:00 AM-12:20 PM Space 16 Max 39
+    Sec 18283 Days W Time 12:30 PM-1:55 PM Space 7 Max 19
+    Sec 18291 Days W Time 2:00 PM-3:25 PM Space 9 Max 20
+COMM     88   - COMM RESEARCH METH   Units:5.0 Grading:Letter Graded:
+  Lec 03509 Days MTW Time 12:30 PM-1:50 PM Space Full Max 45
+    Sec 03517 Days W Time 2:00 PM-3:25 PM Space Full Max 22
+    Sec 03525 Days W Time 3:30 PM-4:55 PM Space Full Max 23
+COMM     88   - COMM RESEARCH METH   Units:5.0 Grading:Letter Graded:
+  Lec 03533 Days MTW Time 12:30 PM-1:50 PM Space 2 Max 45
+    Sec 03541 Days W Time 2:00 PM-3:25 PM Space Full Max 22
+    Sec 03558 Days W Time 3:30 PM-4:55 PM Space 2 Max 23
+COMM     89   - THEORIES OF COMM     Units:5.0 Grading:Letter Graded:
+  Lec 03566 Days MTW Time 9:30 AM-10:50 AM Space 10 Max 45
+    Sec 03574 Days W Time 11:00 AM-12:25 PM Space Full Max 22
+    Sec 03582 Days W Time 12:30 PM-1:55 PM Space 10 Max 23
+COMM     89   - THEORIES OF COMM     Units:5.0 Grading:Letter Graded:
+  Lec 03590 Days MTW Time 9:30 AM-10:50 AM Space 23 Max 45
+    Sec 03608 Days W Time 11:00 AM-12:25 PM Space 7 Max 22
+    Sec 03616 Days W Time 12:30 PM-1:55 PM Space 16 Max 23
+COMM     99RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 03624 Days T.B.A. Time T.B.A. Space 50 Max 50
+COMM    107   - INTERPERSONAL COMM   Units:4.0 Grading:Optional:
+  Lec 03632 Days MTW Time 8:00 AM-10:50 AM Space Full Max 45
+COMM    111   - NONVERBAL COMM       Units:4.0 Grading:Optional:
+  Lec 03640 Days TWR Time 9:30 AM-12:20 PM Space Full Max 43
+COMM    113   - MED EFFECTS INDIV    Units:4.0 Grading:Optional:
+  Lec 03657 Days MTW Time 11:00 AM-12:20 PM Space Full Max 45
+COMM    116   - INTERNET & SOCIETY   Units:4.0 Grading:Optional:
+  Lec 03665 Days TWR Time 12:30 PM-3:20 PM Space 16 Max 45
+COMM    117   - PERSUASION           Units:4.0 Grading:Optional:
+  Lec 03673 Days MTW Time 2:00 PM-3:20 PM Space Full Max 45
+COMM    121   - COMM AND CONFLICT    Units:4.0 Grading:Optional:
+  Lec 19778 Days TWR Time 12:30 PM-1:50 PM Space Full Max 45
+COMM    123   - CULT INFLUENCE COMM  Units:4.0 Grading:Optional:
+  Lec 03681 Days MTW Time 12:30 PM-3:20 PM Space 29 Max 43
+COMM    124   - FAMILY COMM          Units:4.0 Grading:Optional:
+  Lec 03699 Days MTW Time 12:30 PM-1:50 PM Space Full Max 45
+COMM    127   - LEADERSHIP & GENDER  Units:4.0 Grading:Optional:
+  Lec 03715 Days MTW Time 3:30 PM-4:50 PM Space 3 Max 45
+COMM    128   - INTERGROUP COMM      Units:4.0 Grading:Optional:
+  Lec 03723 Days TWR Time 11:00 AM-12:20 PM Space Full Max 45
+COMM    133   - MEDIA AND CHILDREN   Units:4.0 Grading:Optional:
+  Lec 03731 Days TWR Time 2:00 PM-4:50 PM Space 15 Max 45
+COMM    139   - COMM AND EMOTION     Units:4.0 Grading:Optional:
+  Lec 19786 Days TWR Time 9:30 PM-12:20 PM Space 11 Max 43
+COMM    148   - RISK COMMUNICATION   Units:4.0 Grading:Optional:
+  Lec 03764 Days Cancel Time Cancel Space Cancel Max 0
+COMM    150   - GRP COM MULT CONTXT  Units:4.0 Grading:Optional:
+  Lec 18374 Days TWR Time 9:30 AM-12:20 PM Space 29 Max 45
+COMM    151   - RELATIONAL COMM      Units:4.0 Grading:Optional:
+  Lec 03772 Days MTW Time 9:30 AM-12:20 PM Space Full Max 43
+COMM    152   - COMM/ORG MEMBERSHIP  Units:4.0 Grading:Optional:
+  Lec 03780 Days MTW Time 11:00 AM-12:20 PM Space 10 Max 45
+COMM    154   - VIDEO GAME RESEARCH  Units:4.0 Grading:Optional:
+  Lec 03798 Days TWR Time 9:30 AM-12:20 PM Space 20 Max 43
+COMM    155   - HEALTH COMM          Units:4.0 Grading:Optional:
+  Lec 18382 Days Cancel Time Cancel Space Cancel Max 0
+COMM    160DS - DATA SCIENCE COMM    Units:4.0 Grading:Optional:
+  Lec 18390 Days MTW Time 12:30 PM-3:20 PM Space 14 Max 45
+COMM    166   - MARKETING COMM       Units:4.0 Grading:Optional:
+  Lec 03806 Days TWR Time 2:00 PM-3:20 PM Space Full Max 45
+COMM    169   - SOCIAL NETWORKS      Units:4.0 Grading:Optional:
+  Lec 18408 Days TWR Time 12:30 PM-3:20 PM Space 3 Max 45
+COMM    178   - DARK SIDE OF COMM    Units:4.0 Grading:Optional:
+  Lec 18416 Days TWR Time 8:00 AM-9:20 AM Space Full Max 43
+COMM    197   - COMM INTERNSHIP      Units:1.0 Grading:Pass/No Pass:
+  Lec 03822 Days T.B.A. Time T.B.A. Space 50 Max 50
+COMM    197   - COMM INTERNSHIP      Units:1.0 Grading:Pass/No Pass:
+  Lec 03830 Days T.B.A. Time T.B.A. Space 50 Max 50
+COMM    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 03848 Days T.B.A. Time T.B.A. Space 5 Max 5
+COMM    199RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Optional:
+  Lec 03855 Days T.B.A. Time T.B.A. Space 50 Max 50
+COMM    596A  - DIRECTED RESEARCH    Units:2.0-4.0 Grading:Pass/No Pass:
+  Lec 03863 Days T.B.A. Time T.B.A. Space 15 Max 15
+COMM    597   - PREP FOR QUAL EXAM   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 03871 Days T.B.A. Time T.B.A. Space 5 Max 5
+COMM    599   - DISSERTATION PREP    Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 03889 Days T.B.A. Time T.B.A. Space 10 Max 10
+DANCEW   36   - HIST MODERN DANCE    Units:4.0 Grading:Optional:
+  Lec 03988 Days T.B.A. Time T.B.A. Space 90 Max 200
+DANCE    43B  - BEG STREET DANCE     Units:2.0 Grading:Optional:
+  Lec 16709 Days MTWRF Time 11:00 AM-12:20 PM Space 12 Max 25
+DANCE    47A  - BALLET I             Units:2.0-4.0 Grading:Optional:
+  Lec 16717 Days MTWRF Time 11:00 AM-12:20 PM Space 23 Max 25
+DANCE    47B  - BALLET I             Units:2.0-4.0 Grading:Optional:
+  Lec 16725 Days MTWRF Time 11:00 AM-12:20 PM Space 24 Max 25
+DANCE    56A  - MODERN DANCE I       Units:2.0-4.0 Grading:Optional:
+  Lec 16733 Days Cancel Time Cancel Space Cancel Max 25
+DANCE    56B  - MODERN DANCE I       Units:2.0-4.0 Grading:Optional:
+  Lec 16758 Days MTWRF Time 9:30 AM-10:50 AM Space 23 Max 25
+DANCE   147S  - BALLET III           Units:3.0 Grading:Optional:
+  Lec 03913 Days MTWRF Time 11:00 AM-12:20 PM Space 25 Max 25
+DANCE   147S  - BALLET III           Units:3.0 Grading:Optional:
+  Lec 03921 Days MTWRF Time 11:00 AM-12:20 PM Space 22 Max 25
+DANCE   149   - DANCE WORKSHOP       Units:1.0-4.0 Grading:Optional:
+  Lec 03939 Days T.B.A. Time T.B.A. Space 50 Max 50
+DANCE   156S  - ADV MODERN DANCE     Units:2.0-4.0 Grading:Optional:
+  Lec 03954 Days Cancel Time Cancel Space Cancel Max 25
+DANCE   156S  - ADV MODERN DANCE     Units:2.0-4.0 Grading:Optional:
+  Lec 16782 Days MTWRF Time 9:30 AM-10:50 AM Space 25 Max 25
+DANCE   194   - GROUP STUD IN DANCE  Units:1.0-4.0 Grading:Optional:
+  Lec 20149 Days MTWRF Time 9:30 AM-10:50 AM Space 20 Max 25
+DANCE   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 03970 Days T.B.A. Time T.B.A. Space 50 Max 50
+DYNS    599   - PH D DISS PREP       Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 03996 Days T.B.A. Time T.B.A. Space 20 Max 20
+EACS      4B  - EAST ASIAN MODERN    Units:4.0 Grading:Optional:
+  Lec 04002 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 85
+EACS    199   - INDEPENDENT STUDY    Units:1.0-5.0 Grading:Optional:
+  Lec 04010 Days T.B.A. Time T.B.A. Space Full Max 0
+EARTH     2   - PHYSICAL GEOLOGY     Units:4.0 Grading:Optional:
+  Lec 04028 Days TWR Time 9:30 AM-10:50 AM Space 1 Max 25
+    Sec 04036 Days R Time 2:00 PM-4:50 PM Space 1 Max 25
+EARTH     4   - INTRO OCEANOGRAPHY   Units:4.0 Grading:Optional:
+  Lec 04044 Days TWR Time 11:00 AM-12:20 PM Space 1 Max 27
+    Sec 04051 Days T Time 2:00 PM-3:25 PM Space 1 Max 27
+EARTH     7   - DINOSAURS            Units:4.0 Grading:Optional:
+  Lec 04069 Days TWR Time 9:30 AM-10:50 AM Space 39 Max 44
+    Sec 04077 Days W Time 2:00 PM-3:25 PM Space 18 Max 22
+    Sec 04085 Days R Time 2:00 PM-3:25 PM Space 21 Max 22
+EARTH    10   - ANTARCTICA           Units:4.0 Grading:Letter Graded:
+  Lec 04093 Days TWR Time 11:00 AM-12:20 PM Space 32 Max 40
+    Sec 04101 Days R Time 2:00 PM-3:25 PM Space 12 Max 20
+    Sec 04119 Days F Time 9:00 AM-10:25 AM Space 20 Max 20
+EARTHW   20   - GEOL CATASTROPHES    Units:4.0 Grading:Optional:
+  Lec 04291 Days T.B.A. Time T.B.A. Space 30 Max 75
+    Sec 04309 Days T Time 6:00 PM-8:00 PM Space 1 Max 25
+    Sec 04317 Days W Time 6:00 PM-8:00 PM Space 10 Max 25
+    Sec 04325 Days R Time 6:00 PM-8:00 PM Space 19 Max 25
+EARTH   123   - THE SOLAR SYSTEM     Units:4.0 Grading:Letter Graded:
+  Lec 04143 Days TWR Time 9:30 AM-10:50 AM Space Full Max 27
+    Sec 04150 Days W Time 3:00 PM-4:25 PM Space Full Max 27
+EARTH   187   - TEACHING PRACTICUM   Units:1.0-5.0 Grading:Optional:
+  Lec 04168 Days T.B.A. Time T.B.A. Space 3 Max 3
+EARTH   192   - INTERNSHIP GEOL SCI  Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 04176 Days T.B.A. Time T.B.A. Space 5 Max 5
+EARTH   196HA - SR HONORS THESIS     Units:4.0 Grading:Letter Graded:
+  Lec 04184 Days T.B.A. Time T.B.A. Space 5 Max 5
+EARTH   196HB - SR HONORS THESIS     Units:4.0 Grading:Letter Graded:
+  Lec 04192 Days T.B.A. Time T.B.A. Space 5 Max 5
+EARTH   196HC - SR HONORS THESIS     Units:4.0 Grading:Letter Graded:
+  Lec 04200 Days T.B.A. Time T.B.A. Space Full Max 0
+EARTH   198   - READINGS IN GEOL SC  Units:1.0-4.0 Grading:Optional:
+  Lec 04218 Days T.B.A. Time T.B.A. Space 2 Max 2
+EARTH   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 04226 Days T.B.A. Time T.B.A. Space 2 Max 2
+EARTH   199RA - IND. RESEARCH ASST.  Units:1.0-5.0 Grading:Optional:
+  Lec 04234 Days T.B.A. Time T.B.A. Space 5 Max 5
+EARTH   503   - PRACTICUM/RESEARCH   Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 04242 Days T.B.A. Time T.B.A. Space Full Max 0
+EARTH   596   - DIR READ & RESEARCH  Units:2.0-12.0 Grading:Optional:
+  Lec 04259 Days T.B.A. Time T.B.A. Space 5 Max 5
+EARTH   597   - INDIV STD MA & PHD   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 04267 Days T.B.A. Time T.B.A. Space 5 Max 5
+ECE     153B  - SNSR/PERPH INT DSGN  Units:4.0 Grading:Letter Graded:
+  Lec 20123 Days TWR Time 9:30 AM-10:50 AM Space 15 Max 15
+    Sec 20131 Days MW Time 12:00 PM-12:50 PM Space 15 Max 15
+ECE     193   - INTERN IN INDUSTRY   Units:1.0-8.0 Grading:Optional:
+  Lec 04358 Days T.B.A. Time T.B.A. Space 30 Max 30
+ECE     196   - UNDERGRAD RESEARCH   Units:2.0-4.0 Grading:Optional:
+  Lec 04366 Days T.B.A. Time T.B.A. Space 20 Max 20
+ECE     493   - INTERNSHIP INDUSTRY  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 04382 Days T.B.A. Time T.B.A. Space 10 Max 10
+ECE     493   - INTERNSHIP INDUSTRY   :
+ECE     493   - INTERNSHIP INDUSTRY   :
+ECON      1   - PRINCIPL ECON MICRO  Units:4.0 Grading:Optional:
+  Lec 17335 Days MTWR Time 9:30 AM-10:35 AM Space 61 Max 100
+    Sec 17343 Days TR Time 11:00 AM-11:50 AM Space 3 Max 25
+    Sec 17350 Days TR Time 12:00 PM-12:50 PM Space 21 Max 25
+    Sec 18663 Days TR Time 1:00 PM-1:50 PM Space 18 Max 25
+    Sec 18671 Days TR Time 2:00 PM-2:50 PM Space 19 Max 25
+ECON      3A  - FINANCIAL ACCTG      Units:4.0 Grading:Optional:
+  Lec 04465 Days Cancel Time Cancel Space Cancel Max 60
+    Sec 04473 Days Cancel Time Cancel Space Cancel Max 30
+    Sec 04481 Days Cancel Time Cancel Space Cancel Max 30
+ECON      3B  - FINANCIAL ACCTG      Units:4.0 Grading:Optional:
+  Lec 04499 Days MW Time 11:00 AM-1:05 PM Space Full Max 60
+    Sec 04507 Days T Time 4:00 PM-5:25 PM Space Full Max 30
+    Sec 04515 Days T Time 2:00 PM-3:25 PM Space Full Max 30
+ECON     10A  - MICROECON THEORY     Units:5.0 Grading:Optional:
+  Lec 04523 Days WMTWR Time 3:30 PM-4:50 PM9:30 AM-10:35 AM Space 6 Max 288
+    Sec 04531 Days TR Time 11:00 AM-11:50 AM Space Full Max 24
+    Sec 04549 Days TR Time 11:00 AM-11:50 AM Space Full Max 24
+    Sec 04556 Days TR Time 2:00 PM-2:50 PM Space Full Max 24
+    Sec 04564 Days TR Time 2:00 PM-2:50 PM Space Full Max 24
+    Sec 04572 Days TR Time 3:00 PM-3:50 PM Space 1 Max 24
+    Sec 04580 Days TR Time 3:00 PM-3:50 PM Space 1 Max 24
+    Sec 17509 Days TR Time 4:00 PM-4:50 PM Space 1 Max 24
+    Sec 17517 Days TR Time 4:00 PM-4:50 PM Space 1 Max 24
+    Sec 17525 Days TR Time 5:00 PM-5:50 PM Space 1 Max 24
+    Sec 17533 Days TR Time 5:00 PM-5:50 PM Space 1 Max 24
+    Sec 17541 Days TR Time 6:00 PM-6:50 PM Space Full Max 24
+    Sec 17558 Days TR Time 6:00 PM-6:50 PM Space Full Max 24
+ECON    100B  - MICROECON THEORY     Units:4.0 Grading:Letter Graded:
+  Lec 17368 Days MWF Time 2:00 PM-4:50 PM Space 83 Max 100
+    Sec 17376 Days TR Time 11:00 AM-12:25 PM Space 18 Max 25
+    Sec 17384 Days TR Time 2:00 PM-3:25 PM Space 19 Max 25
+    Sec 17566 Days TR Time 3:30 PM-4:55 PM Space 22 Max 25
+    Sec 17574 Days TR Time 5:00 PM-6:25 PM Space 24 Max 25
+ECON    101   - MACROECON THEORY     Units:4.0 Grading:Letter Graded:
+  Lec 04598 Days MTW Time 11:00 AM-12:25 PM Space 38 Max 100
+    Sec 04606 Days R Time 11:00 AM-12:25 PM Space Full Max 25
+    Sec 04614 Days R Time 12:30 PM-1:55 PM Space Full Max 25
+    Sec 04622 Days R Time 2:00 PM-3:25 PM Space 14 Max 25
+    Sec 04630 Days R Time 3:30 PM-4:55 PM Space 24 Max 25
+ECON    114B  - ECONOMIC DEVELOP     Units:4.0 Grading:Letter Graded:
+  Lec 04648 Days MTW Time 2:00 PM-3:25 PM Space Full Max 60
+ECON    118   - FIN ACCTG ANALYSIS   Units:4.0 Grading:Letter Graded:
+  Lec 04655 Days MW Time 2:00 PM-4:05 PM Space 6 Max 60
+ECON    134A  - FIN MANAGEMENT       Units:4.0 Grading:Letter Graded:
+  Lec 04671 Days TWR Time 11:00 AM-12:25 PM Space 29 Max 75
+    Sec 04689 Days F Time 8:00 AM-9:25 AM Space 19 Max 25
+    Sec 04697 Days F Time 9:30 AM-10:55 AM Space 10 Max 25
+    Sec 04705 Days F Time 11:00 AM-12:25 PM Space Full Max 25
+ECON    135   - MONETARY ECONOMICS   Units:4.0 Grading:Letter Graded:
+  Lec 04713 Days MTRF Time 9:30 AM-11:35 AM Space Full Max 40
+ECON    136A  - INTERMED ACCOUNTING  Units:5.0 Grading:Letter Graded:
+  Lec 04721 Days TWR Time 9:30 AM-10:55 AM Space 45 Max 60
+    Sec 04739 Days R Time 8:00 AM-9:25 AM Space 27 Max 30
+    Sec 04747 Days T Time 12:30 PM-1:55 PM Space 18 Max 30
+ECON    136B  - INTERMED ACCOUNTING  Units:4.0 Grading:Letter Graded:
+  Lec 04754 Days MTW Time 9:30 AM-10:55 AM Space 11 Max 60
+ECON    136C  - INTERMED ACCOUNTING  Units:4.0 Grading:Letter Graded:
+  Lec 04762 Days MTW Time 11:00 AM-12:25 PM Space 4 Max 60
+ECON    137A  - MANAGERIAL ACCTG     Units:4.0 Grading:Letter Graded:
+  Lec 04770 Days TWR Time 2:00 PM-3:25 PM Space 33 Max 60
+    Sec 04788 Days T Time 12:30 PM-1:50 PM Space 20 Max 30
+    Sec 04796 Days M Time 2:00 PM-3:25 PM Space 13 Max 30
+ECON    140A  - INTRO ECONOMETRICS   Units:4.0 Grading:Letter Graded:
+  Lec 04804 Days MTW Time 2:00 PM-4:50 PM Space 100 Max 200
+    Sec 04812 Days FR Time 9:30 AM-10:50 AM9:30 AM-10:50 AM Space Full Max 25
+    Sec 04820 Days FR Time 11:00 AM-12:20 PM11:00 AM-12:20 PM Space Full Max 25
+    Sec 04838 Days FR Time 12:30 PM-1:50 PM12:30 PM-1:50 PM Space Full Max 25
+    Sec 04846 Days FR Time 2:00 PM-3:20 PM2:00 PM-3:20 PM Space Full Max 25
+    Sec 19976 Days FR Time 3:30 PM-4:50 PM3:30 PM-4:50 PM Space Closed Max 25
+    Sec 19984 Days FR Time 12:30 PM-1:50 PM12:30 PM-1:50 PM Space Closed Max 25
+    Sec 19992 Days FR Time 3:30 PM-4:50 PM3:30 PM-4:50 PM Space Closed Max 25
+    Sec 20008 Days FR Time 2:00 PM-3:20 PM2:00 PM-3:20 PM Space Closed Max 25
+ECON    150B  - LABOR ECONOMICS      Units:4.0 Grading:Letter Graded:
+  Lec 17392 Days MTW Time 3:00 PM-4:25 PM Space 25 Max 60
+ECON    177   - AUCTION              Units:4.0 Grading:Letter Graded:
+  Lec 17400 Days MTWR Time 8:00 AM-10:05 AM Space 37 Max 60
+ECON    193   - ECON INTERNSHIP      Units:1.0 Grading:Pass/No Pass:
+  Lec 04861 Days T.B.A. Time T.B.A. Space 12 Max 12
+ECON    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 04879 Days T.B.A. Time T.B.A. Space 20 Max 20
+ECON    199RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Optional:
+  Lec 04887 Days T.B.A. Time T.B.A. Space 20 Max 20
+ECON    596   - DIR READ & RESEARCH  Units:2.0-4.0 Grading:Optional:
+  Lec 04895 Days T.B.A. Time T.B.A. Space 20 Max 20
+ECON    597   - INDV STDY PRLIM EXM  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 04903 Days T.B.A. Time T.B.A. Space 20 Max 20
+ECON    599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 04911 Days T.B.A. Time T.B.A. Space 25 Max 25
+ED       99   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 18127 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      111   - INTR CHILD/ADOL DEV  Units:4.0 Grading:Optional:
+  Lec 04945 Days MW Time 2:00 PM-4:00 PM Space Full Max 50
+    Sec 18135 Days R Time 2:00 PM-2:50 PM Space Full Max 50
+ED      117M  - MOTIV/LEARN SUCCESS  Units:2.0 Grading:Pass/No Pass:
+  Lec 04952 Days TR Time 2:00 PM-3:20 PM Space 25 Max 25
+ED      117M  - MOTIV/LEARN SUCCESS  Units:2.0 Grading:Pass/No Pass:
+  Lec 04960 Days TR Time 2:00 PM-3:20 PM Space 25 Max 25
+ED      123   - CULTURE, DEV, EDUC   Units:4.0 Grading:Letter Graded:
+  Lec 04978 Days MTR Time 12:30 PM-1:50 PM Space Full Max 30
+ED      123   - CULTURE, DEV, EDUC   Units:4.0 Grading:Letter Graded:
+  Lec 04986 Days MTR Time 9:00 AM-10:20 AM Space Full Max 30
+ED   W  125   - SCHOOLING IN THE US  Units:4.0 Grading:Optional:
+  Lec 05546 Days T.B.A. Time T.B.A. Space Full Max 100
+ED      199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 04994 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      199RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Optional:
+  Lec 05009 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      222B  - ACAD & COGN CHAR     Units:4.0 Grading:Optional:
+  Lec 05017 Days MWR Time 8:00 AM-10:50 AM Space 10 Max 10
+ED      228A  - SH FUNCT SKILL INST  Units:4.0 Grading:Optional:
+  Lec 05025 Days MWF Time 8:00 AM-10:50 AM Space 10 Max 10
+ED      228B  - SH COMMUNICATION     Units:4.0 Grading:Optional:
+  Lec 05033 Days TR Time 8:00 AM-10:50 AM Space 10 Max 10
+ED      228L  - PSYED ASSESS TEACH   Units:4.0 Grading:Letter Graded:
+  Lec 05058 Days TR Time 1:00 PM-3:50 PM Space 10 Max 10
+ED      229C  - SH PRACTICUM         Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 05066 Days T.B.A. Time T.B.A. Space 10 Max 10
+  Lec 05074 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      229D  - SYSTEMATIC INSTRUCT  Units:4.0 Grading:Optional:
+  Lec 05082 Days F Time 9:00 AM-11:50 AM Space 10 Max 10
+  Lec 18143 Days F Time 9:00 AM-11:50 AM Space 10 Max 10
+ED      263   - ADOL DEV & LEARN     Units:4.0 Grading:Letter Graded:
+  Lec 05090 Days MTWRF Time 1:30 PM-3:20 PM Space 30 Max 30
+  Lec 05108 Days MTWRF Time 11:00 AM-12:50 PM Space 30 Max 30
+ED      264   - CHILD DEV & LEARN    Units:4.0 Grading:Letter Graded:
+  Lec 05116 Days MTWRF Time 11:00 AM-12:50 PM Space 20 Max 20
+  Lec 18150 Days MTWRF Time 11:00 AM-12:50 PM Space 20 Max 20
+ED      265D  - TEACH INQUIRY III    Units:6.0 Grading:Letter Graded:
+  Lec 05124 Days T.B.A. Time T.B.A. Space 15 Max 15
+ED      268   - FOUND TEACH          Units:4.0 Grading:Letter Graded:
+  Lec 05165 Days MTWRF Time 11:00 AM-12:50 PM Space 20 Max 20
+  Lec 05173 Days MTWRF Time 11:00 AM-12:50 PM Space 20 Max 20
+  Lec 05181 Days MTWRF Time 11:00 AM-12:50 PM Space 20 Max 20
+  Lec 05199 Days MTWRF Time 11:00 AM-12:50 PM Space 20 Max 20
+ED      291   - SEV DEVEL. DISABLED  Units:4.0 Grading:Optional:
+  Lec 05207 Days TWRF Time 1:00 PM-3:50 PM Space 10 Max 10
+ED      318   - FOUND AC LANG ELEM   Units:2.0 Grading:Letter Graded:
+  Lec 05215 Days MTWRF Time 9:00 AM-11:50 AM Space 25 Max 25
+  Lec 05223 Days MTWRF Time 1:00 PM-3:50 PM Space 25 Max 25
+ED      319   - FOUND AC LANG SEC    Units:2.0 Grading:Letter Graded:
+  Lec 05231 Days MW Time 1:30 PM-3:50 PM Space 20 Max 20
+  Lec 05249 Days TR Time 10:00 AM-12:20 PM Space 30 Max 30
+ED   E  321M  - SEC ENG METH         Units:2.0 Grading:Pass/No Pass:
+  Lec 05413 Days MTWRF Time 1:00 PM-3:50 PM Space 15 Max 15
+ED   HSS321M  - SEC SS METH          Units:2.0 Grading:Pass/No Pass:
+  Lec 05447 Days MTWRF Time 9:00 AM-11:50 AM Space 15 Max 15
+ED   M  321M  - SEC MATH METH        Units:2.0 Grading:Pass/No Pass:
+  Lec 05488 Days MTWRF Time 1:00 PM-3:50 PM Space 15 Max 15
+ED   S  321M  - SEC SCIENCE METH     Units:2.0 Grading:Pass/No Pass:
+  Lec 05512 Days MTWRF Time 9:00 AM-11:50 AM Space 15 Max 15
+ED      326   - CLASS MANAGE- ELEM   Units:2.0 Grading:Pass/No Pass:
+  Lec 05256 Days MTWRF Time 9:00 AM-11:50 AM Space 25 Max 25
+  Lec 05264 Days MTWRF Time 1:00 PM-3:50 PM Space 25 Max 25
+ED      327   - CLASS MANAGE- SEC    Units:2.0 Grading:Pass/No Pass:
+  Lec 05272 Days MTWRF Time 9:00 AM-11:50 AM Space 25 Max 25
+  Lec 05280 Days MTWRF Time 1:00 PM-3:50 PM Space 25 Max 25
+ED      330   - TEACHING COMP        Units:4.0 Grading:Pass/No Pass:
+  Lec 05298 Days MTWRF Time 1:30 PM-3:20 PM Space 100 Max 100
+ED      340   - STUDENT TCH: ELEM    Units:3.0-11.0 Grading:Pass/No Pass:
+  Lec 05306 Days F Time 8:30 AM-11:30 AM Space 40 Max 40
+ED      370   - SEM TEACHING: ELEM   Units:1.0-2.0 Grading:Pass/No Pass:
+  Lec 05314 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+  Lec 05322 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+  Lec 05330 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+  Lec 05348 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+  Lec 05355 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+  Lec 05363 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+  Lec 18168 Days F Time 11:45 AM-2:00 PM Space 10 Max 10
+ED   E  371   - SEM TCH ENGL SEC     Units:1.0-2.0 Grading:Pass/No Pass:
+  Lec 05439 Days W Time 4:00 PM-6:50 PM Space 15 Max 15
+ED   HSS371   - SEC PROF ISS SS      Units:1.0-2.0 Grading:Pass/No Pass:
+  Lec 05462 Days W Time 4:00 PM-6:50 PM Space 15 Max 15
+ED   M  371   - SEC PROF ISS MATH    Units:1.0-2.0 Grading:Pass/No Pass:
+  Lec 05504 Days W Time 4:00 PM-6:50 PM Space 15 Max 15
+ED   S  371   - SEM TCH SCI SEC      Units:1.0-2.0 Grading:Pass/No Pass:
+  Lec 05538 Days W Time 4:00 PM-6:50 PM Space 15 Max 15
+ED      596   - DIR READ & RESEARCH  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 05371 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      597   - INDIV STD COMP EXAM  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 05389 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      598   - MA RESEARCH & PREP   Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 05397 Days T.B.A. Time T.B.A. Space 10 Max 10
+ED      599   - PHD DISS RSCH-PREP   Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 05405 Days T.B.A. Time T.B.A. Space 10 Max 10
+EEMB      2   - INTRO BIOLOGY II-EE  Units:3.0 Grading:Letter Graded:
+  Lec 05553 Days MTWR Time 2:00 PM-3:20 PM Space 70 Max 352
+EEMB W   22   - BIO CONCEPT/CONTROV  Units:4.0 Grading:Optional:
+  Lec 06080 Days T.B.A. Time T.B.A. Space 78 Max 90
+    Sec 06098 Days T.B.A. Time T.B.A. Space 18 Max 30
+    Sec 06106 Days T.B.A. Time T.B.A. Space 30 Max 30
+    Sec 06114 Days T.B.A. Time T.B.A. Space 30 Max 30
+EEMB     84   - INTERNSHIP BIOLOGY   Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 05611 Days T.B.A. Time T.B.A. Space Full Max 0
+EEMB    102   - MACROEVOLUTION       Units:4.0 Grading:Letter Graded:
+  Lec 05645 Days TWR Time 12:30 PM-1:55 PM Space 1 Max 60
+    Sec 05652 Days R Time 8:00 AM-9:20 AM Space 1 Max 20
+    Sec 05660 Days R Time 9:30 AM-10:50 AM Space Full Max 20
+    Sec 05678 Days R Time 11:00 AM-12:20 PM Space Full Max 20
+EEMB    118   - ENTOMOLOGY           Units:4.0 Grading:Letter Graded:
+  Lec 05686 Days MWF Time 11:00 AM-12:25 PM Space Full Max 20
+    Sec 05694 Days T Time 11:00 AM-3:50 PM Space Full Max 10
+    Sec 05702 Days T Time 11:00 AM-3:50 PM Space Full Max 10
+EEMB    120   - INTRO TO ECOLOGY     Units:4.0 Grading:Letter Graded:
+  Lec 05710 Days WRF Time 11:00 AM-12:25 PM Space Full Max 60
+    Sec 05728 Days R Time 1:00 PM-2:20 PM Space Full Max 20
+    Sec 05736 Days R Time 3:00 PM-4:20 PM Space Full Max 20
+    Sec 05744 Days F Time 9:00 AM-10:20 AM Space Full Max 20
+EEMB    127   - PLANT BIO DIVERSITY  Units:4.0 Grading:Letter Graded:
+  Lec 05751 Days MWF Time 2:00 PM-3:25 PM Space Full Max 55
+    Sec 05769 Days F Time 9:00 AM-10:20 AM Space 4 Max 20
+    Sec 05777 Days F Time 10:30 AM-11:50 AM Space Full Max 20
+    Sec 05785 Days F Time 12:00 PM-1:20 PM Space 1 Max 20
+EEMB W  146   - BIOMETRY             Units:4.0 Grading:Optional:
+  Lec 19737 Days T.B.A. Time T.B.A. Space 40 Max 60
+    Sec 19745 Days T.B.A. Time T.B.A. Space 2 Max 20
+    Sec 19752 Days T.B.A. Time T.B.A. Space 19 Max 20
+    Sec 19760 Days T.B.A. Time T.B.A. Space 19 Max 20
+EEMB    156   - REPRODUCTION         Units:4.0 Grading:Letter Graded:
+  Lec 05827 Days MTW Time 2:00 PM-3:25 PM Space Closed Max 60
+    Sec 05835 Days M Time 3:30 PM-4:50 PM Space 20 Max 20
+    Sec 05843 Days T Time 12:30 PM-1:50 PM Space 20 Max 20
+    Sec 05850 Days T Time 3:30 PM-4:50 PM Space 20 Max 20
+EEMB    158   - CLIMATE MARINE ECO   Units:4.0 Grading:Letter Graded:
+  Lec 18176 Days MTW Time 9:30 AM-10:55 AM Space 25 Max 60
+    Sec 18184 Days R Time 12:30 PM-1:50 PM Space Full Max 20
+    Sec 18192 Days R Time 2:00 PM-3:20 PM Space 8 Max 20
+    Sec 18200 Days R Time 3:30 PM-4:50 PM Space 17 Max 20
+EEMB    159   - TROPICAL ECOLOGY     Units:4.0 Grading:Letter Graded:
+  Lec 05868 Days MTWR Time 11:00 AM-12:05 PM Space 1 Max 60
+    Sec 05876 Days R Time 12:30 PM-1:50 PM Space Full Max 20
+    Sec 05884 Days R Time 2:00 PM-3:20 PM Space Full Max 20
+    Sec 05892 Days R Time 3:30 PM-4:50 PM Space 1 Max 20
+EEMB    170   - MARINE-LAND INTERF   Units:4.0 Grading:Letter Graded:
+  Lec 05900 Days TR Time 8:00 AM-9:20 AM Space Closed Max 24
+    Sec 05918 Days RT Time 2:00 PM-6:00 PM3:00 PM-6:00 PM Space 12 Max 12
+    Sec 05926 Days RT Time 2:00 PM-6:00 PM3:00 PM-6:00 PM Space 12 Max 12
+EEMB    185   - OCEANOGRAPHY FLD WK  Units:1.0-8.0 Grading:Pass/No Pass:
+  Lec 05942 Days T.B.A. Time T.B.A. Space 10 Max 10
+EEMB    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 06007 Days T.B.A. Time T.B.A. Space 15 Max 15
+EEMB    218   - ENTOMOLOGY           Units:4.0 Grading:Letter Graded:
+  Lec 06015 Days MWF Time 11:00 AM-12:25 PM Space 2 Max 2
+    Sec 06023 Days T Time 11:00 AM-3:50 PM Space 1 Max 1
+    Sec 06031 Days T Time 11:00 AM-3:50 PM Space 1 Max 1
+EEMB    596   - DIRECTED READ RSRCH  Units:2.0-12.0 Grading:Optional:
+  Lec 06049 Days T.B.A. Time T.B.A. Space 10 Max 10
+EEMB    597   - INDIVID STUDY EXAMS  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 06056 Days T.B.A. Time T.B.A. Space 2 Max 2
+EEMB    598   - MA THESIS RES/PREP   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 06064 Days T.B.A. Time T.B.A. Space 15 Max 15
+EEMB    599   - PH.D. DISS PREP      Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 06072 Days T.B.A. Time T.B.A. Space 15 Max 15
+ENGL     10   - INTRO TO LIT STUDY   Units:4.0 Grading:Letter Graded:
+  Lec 06122 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 25
+  Lec 06130 Days MTWR Time 11:00 AM-12:25 PM Space Full Max 25
+  Lec 06148 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 25
+  Lec 06155 Days MTWR Time 3:30 PM-4:55 PM Space Full Max 25
+ENGL     10   - INTRO TO LIT STUDY   Units:4.0 Grading:Letter Graded:
+  Lec 06163 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 23
+  Lec 06171 Days MTWR Time 11:00 AM-12:25 PM Space Full Max 23
+  Lec 06189 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 23
+  Lec 06197 Days MTWR Time 2:00 PM-3:25 PM Space Full Max 23
+ENGL     15   - SHAKESPEARE          Units:4.0 Grading:Optional:
+  Lec 06205 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 38
+ENGL     15   - SHAKESPEARE          Units:4.0 Grading:Optional:
+  Lec 06213 Days MTWR Time 3:30 PM-4:55 PM Space 1 Max 38
+ENGL     50   - INT US MINRTY LIT    Units:4.0 Grading:Letter Graded:
+  Lec 06221 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 38
+ENGL     50   - INT US MINRTY LIT    Units:4.0 Grading:Letter Graded:
+  Lec 06239 Days MTWR Time 5:00 PM-6:25 PM Space Full Max 38
+ENGL    101   - ENGL LIT MED-1650    Units:4.0 Grading:Optional:
+  Lec 06247 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 38
+ENGL    102   - ENG & AM 1650-1789   Units:4.0 Grading:Optional:
+  Lec 06254 Days MTWR Time 9:30 AM-10:35 AM Space 5 Max 38
+ENGL    103B  - BRIT LIT 1789-1900   Units:4.0 Grading:Optional:
+  Lec 06262 Days MTWR Time 2:00 PM-3:05 PM Space Full Max 38
+ENGL    104B  - BRIT LIT 1900-PRES   Units:4.0 Grading:Optional:
+  Lec 19281 Days MTWR Time 9:30 AM-10:35 AM Space 14 Max 38
+ENGL    122CC - RHET CLIMATE CHANGE  Units:4.0 Grading:Optional:
+  Lec 06288 Days MTWR Time 9:30 AM-10:45 AM Space Full Max 19
+ENGL    122RW - READING THE WORLD    Units:4.0 Grading:Optional:
+  Lec 19299 Days MTWR Time 11:00 AM-12:05 PM Space 2 Max 38
+ENGL    122UE - CULTURAL REPRESENT   Units:4.0 Grading:Optional:
+  Lec 06304 Days MTWR Time 11:00 AM-12:05 PM Space 20 Max 38
+ENGL    124   - MODERN SHORT STORY   Units:4.0 Grading:Optional:
+  Lec 18309 Days MTWR Time 12:30 PM-1:20 PM Space 8 Max 38
+ENGL    134AA - ST LIT/ETHNIC COMM   Units:4.0 Grading:Optional:
+  Lec 18242 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 38
+ENGL    170SB - STORY AND THE BRAIN  Units:4.0 Grading:Optional:
+  Lec 18812 Days MTWR Time 2:00 PM-3:05 PM Space Full Max 25
+ENGL    184   - MODERN EUROPEAN LIT  Units:4.0 Grading:Optional:
+  Lec 06338 Days MTWR Time 12:30 PM-1:35 PM Space 21 Max 38
+ENGL    192DF - SCI FI: DYSTOPIAN    Units:4.0 Grading:Optional:
+  Lec 06361 Days MTWR Time 3:30 PM-4:35 PM Space Full Max 38
+ENGL    192SF - SCIENCE FICTION      Units:4.0 Grading:Optional:
+  Lec 06379 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 38
+ENGL    193   - DETECTIVE FICTION    Units:4.0 Grading:Optional:
+  Lec 06387 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 38
+ENGL    193   - DETECTIVE FICTION    Units:4.0 Grading:Optional:
+  Lec 06395 Days MTWR Time 3:00 PM-4:05 PM Space 21 Max 38
+ENGL    195I  - INTERN               Units:1.0-4.0 Grading:Optional:
+  Lec 06403 Days T.B.A. Time T.B.A. Space 15 Max 15
+ENGL    196   - HONORS ENGLISH       Units:4.0 Grading:Optional:
+  Lec 06411 Days T.B.A. Time T.B.A. Space 20 Max 20
+ENGR W    3   - INTRO TO PROG        Units:3.0 Grading:Letter Graded:
+  Lec 06502 Days T.B.A. Time T.B.A. Space 26 Max 36
+    Sec 06510 Days T.B.A. Time T.B.A. Space 8 Max 18
+    Sec 06528 Days T.B.A. Time T.B.A. Space 18 Max 18
+ENGR    101   - ETHICS IN ENGR       Units:3.0 Grading:Letter Graded:
+  Lec 06478 Days MW Time 2:00 PM-4:05 PM Space Full Max 40
+ENGR    101   - ETHICS IN ENGR       Units:3.0 Grading:Letter Graded:
+  Lec 06486 Days MW Time 2:00 PM-4:05 PM Space 21 Max 40
+ENGR    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 06494 Days T.B.A. Time T.B.A. Space 5 Max 5
+ENV S     1   - INTRO ENVIR STUDIES  Units:4.0 Grading:Optional:
+  Lec 06536 Days MTR Time 12:30 PM-1:55 PM Space Full Max 75
+    Sec 06544 Days W Time 12:30 PM-1:55 PM Space Full Max 75
+ENV S     2   - INTRO ENV SCIENCE    Units:4.0 Grading:Optional:
+  Lec 06551 Days MTW Time 3:30 PM-4:55 PM Space 25 Max 70
+    Sec 06569 Days R Time 3:30 PM-4:55 PM Space 25 Max 70
+ENV S     3   - INTRO SOC&CULT ENV   Units:4.0 Grading:Optional:
+  Lec 06577 Days MTWR Time 12:30 PM-1:35 PM Space 13 Max 60
+    Sec 06585 Days T Time 2:00 PM-3:00 PM Space Full Max 20
+    Sec 06601 Days T Time 4:00 PM-5:00 PM Space 7 Max 20
+    Sec 06635 Days W Time 11:00 AM-12:00 PM Space 6 Max 20
+ENV S    99   - INTRO TO RESEARCH    Units:1.0-5.0 Grading:Optional:
+  Lec 06643 Days T.B.A. Time T.B.A. Space Full Max 0
+ENV S   100   - ENVIRONMENTAL ECOL   Units:4.0 Grading:Letter Graded:
+  Lec 06650 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 70
+ENV S   115   - ENERGY AND THE ENVT  Units:4.0 Grading:Letter Graded:
+  Lec 06676 Days MTWR Time 11:00 AM-12:10 PM Space Full Max 75
+ENV S   122CC - RHET CLIMATE CHANGE  Units:4.0 Grading:Optional:
+  Lec 06684 Days MTWR Time 9:30 AM-10:45 AM Space Full Max 19
+ENV S   132   - GLOBAL ENVIRONMENT   Units:4.0 Grading:Optional:
+  Lec 18267 Days MTWR Time 2:00 PM-3:10 PM Space 11 Max 60
+ENV S   160   - AMERICAN ENV. LIT    Units:4.0 Grading:Optional:
+  Lec 06700 Days MW Time 5:30 PM-7:35 PM Space 17 Max 40
+ENV S   161   - ENV COMMUNICATIONS   Units:4.0 Grading:Optional:
+  Lec 18366 Days MTWR Time 5:00 PM-6:10 PM Space 16 Max 35
+ENV S   188   - ENVIRON ETHICS       Units:4.0 Grading:Optional:
+  Lec 06726 Days MTWR Time 8:00 AM-9:10 AM Space Full Max 50
+ENV S   193PL - PUBLIC LANDS         Units:1.0-5.0 Grading:Optional:
+  Lec 06767 Days MTWR Time 3:30 PM-4:40 PM Space 19 Max 35
+ENV S   193TW - TRANSBOUNDARY WATER  Units:1.0-5.0 Grading:Optional:
+  Lec 18838 Days MTWR Time 2:00 PM-3:10 PM Space 31 Max 40
+ENV S   196   - INTRO TEACHING ES    Units:2.0-4.0 Grading:Optional:
+  Lec 06775 Days T.B.A. Time T.B.A. Space 5 Max 5
+ENV S   199RA - INDEPENDEN RESEARCH  Units:1.0-5.0 Grading:Optional:
+  Lec 06791 Days T.B.A. Time T.B.A. Space 5 Max 5
+ESM     410   - INTERN PRACTICUM     Units:1.0 Grading:Pass/No Pass:
+  Lec 06817 Days T.B.A. Time T.B.A. Space 5 Max 5
+ESM     596   - DIR READ & RESEARCH  Units:1.0-12.0 Grading:Optional:
+  Lec 06825 Days T.B.A. Time T.B.A. Space 5 Max 5
+ESM     597   - IND STUDY-PHD EXAM   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 06833 Days T.B.A. Time T.B.A. Space Full Max 0
+ESM     599   - PHD RESEARCH & PREP  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 06841 Days T.B.A. Time T.B.A. Space Full Max 0
+ESS  W    3   - NUTRITION/HEALTH     Units:3.0 Grading:Optional:
+  Lec 06858 Days T.B.A. Time T.B.A. Space 36 Max 150
+ESS  W    3   - NUTRITION/HEALTH     Units:3.0 Grading:Optional:
+  Lec 06866 Days T.B.A. Time T.B.A. Space 103 Max 150
+FAMST    46   - INTRO TO CINEMA      Units:4.0 Grading:Optional:
+  Lec 06874 Days TR Time 10:00 AM-12:50 PM Space Full Max 60
+    Sec 06882 Days W Time 12:00 PM-12:50 PM Space Full Max 20
+    Sec 06890 Days W Time 1:00 PM-1:50 PM Space Full Max 20
+    Sec 06908 Days W Time 2:00 PM-2:50 PM Space Full Max 20
+FAMST    46   - INTRO TO CINEMA      Units:4.0 Grading:Optional:
+  Lec 06916 Days MW Time 10:00 AM-12:50 PM Space 11 Max 74
+    Sec 06924 Days M Time 1:00 PM-1:50 PM Space Full Max 12
+    Sec 06932 Days M Time 2:00 PM-2:50 PM Space Full Max 12
+    Sec 06940 Days M Time 3:00 PM-3:50 PM Space 3 Max 12
+    Sec 06957 Days T Time 10:00 AM-10:50 AM Space 2 Max 12
+    Sec 06965 Days T Time 11:00 AM-11:50 AM Space 4 Max 13
+    Sec 06973 Days T Time 12:00 PM-12:50 PM Space 2 Max 13
+FAMST    70   - MEDIA CRITICISM      Units:4.0 Grading:Optional:
+  Lec 06981 Days TR Time 1:00 PM-2:50 PM Space 40 Max 60
+    Sec 06999 Days W Time 10:00 AM-10:50 AM Space 13 Max 20
+    Sec 07005 Days W Time 11:00 AM-11:50 AM Space 10 Max 20
+    Sec 07013 Days W Time 9:00 AM-9:50 AM Space 17 Max 20
+FAMST    95   - INTERNSHIP           Units:2.0 Grading:Pass/No Pass:
+  Lec 07021 Days T.B.A. Time T.B.A. Space Full Max 0
+FAMST    96   - ADV FILM ANALYSIS    Units:5.0 Grading:Letter Graded:
+  Lec 07039 Days MMMW Time 1:30 PM-3:30 PM4:30 PM-6:30 PM10:00 AM-11:50 AM Space 23 Max 55
+    Sec 07047 Days T Time 1:00 PM-1:50 PM Space 2 Max 19
+    Sec 07054 Days T Time 2:00 PM-2:50 PM Space 9 Max 18
+    Sec 07062 Days T Time 3:00 PM-3:50 PM Space 12 Max 18
+FAMST    99   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Optional:
+  Lec 07070 Days T.B.A. Time T.B.A. Space Full Max 0
+FAMST   104   - PRODUCTION TECH      Units:4.0 Grading:Optional:
+  Lec 07088 Days TR Time 9:00 AM-11:50 AM Space Full Max 20
+FAMST   109EM - TOPICS IN FILM PROD  Units:4.0 Grading:Optional:
+  Lec 07096 Days Cancel Time Cancel Space Cancel Max 18
+FAMST   109EP - TOPICS IN FILM PROD  Units:4.0 Grading:Optional:
+  Lec 07104 Days Cancel Time Cancel Space Cancel Max 18
+FAMST   110   - PROFESSIONAL DEVELO  Units:4.0 Grading:Optional:
+  Lec 19844 Days WF Time 12:00 PM-2:50 PM Space 18 Max 20
+FAMST   115   - SOUND PRODUCTION     Units:4.0 Grading:Optional:
+  Lec 19851 Days TR Time 10:00 AM-11:50 AM Space 11 Max 18
+FAMST   116   - EDITING              Units:4.0 Grading:Optional:
+  Lec 07112 Days TR Time 10:00 AM-12:50 PM Space Closed Max 15
+FAMST   155SW - STAR WARS            Units:4.0 Grading:Optional:
+  Lec 19877 Days TR Time 3:00 PM-5:50 PM Space 65 Max 75
+FAMST   182   - INTRO ENV MEDIA      Units:4.0 Grading:Optional:
+  Lec 07120 Days Cancel Time Cancel Space Cancel Max 18
+FAMST   187CN - TOPICS IN ANALYSIS   Units:4.0 Grading:Optional:
+  Lec 19893 Days TR Time 10:00 AM-12:50 PM Space 9 Max 18
+FAMST   187MI - MEDICAL IMAGINATION  Units:4.0 Grading:Optional:
+  Lec 07138 Days Cancel Time Cancel Space Cancel Max 18
+FAMST   187YC - YOUTH CULTURE        Units:4.0 Grading:Optional:
+  Lec 07146 Days Cancel Time Cancel Space Cancel Max 0
+FAMST   188A  - BASIC SCREENWRITING  Units:4.0 Grading:Optional:
+  Lec 07153 Days TR Time 3:00 PM-5:50 PM Space 1 Max 22
+FAMST   188A  - BASIC SCREENWRITING  Units:4.0 Grading:Optional:
+  Lec 07161 Days WF Time 3:00 PM-5:50 PM Space 3 Max 22
+FAMST   188SS - STORYTELLING SCREEN  Units:4.0 Grading:Optional:
+  Lec 20024 Days TR Time 9:00 AM-11:50 AM Space Closed Max 16
+FAMST   188WS - WORKSHOP FOR SCREEN  Units:4.0 Grading:Optional:
+  Lec 20032 Days TR Time 9:00 AM-11:50 AM Space Closed Max 16
+FAMST   192CT - FILM & MEDIA THEORY  Units:5.0 Grading:Letter Graded:
+  Lec 07179 Days MW Time 1:00 PM-3:50 PM Space 23 Max 56
+    Sec 07187 Days T Time 1:00 PM-1:50 PM Space Full Max 19
+    Sec 07195 Days T Time 2:00 PM-2:50 PM Space 13 Max 19
+    Sec 07203 Days T Time 3:00 PM-3:50 PM Space 10 Max 18
+FAMST   192DT - DIGITAL THEORY       Units:5.0 Grading:Letter Graded:
+  Lec 19869 Days TR Time 1:00 PM-3:50 PM Space 31 Max 60
+    Sec 19901 Days W Time 1:00 PM-1:50 PM Space Full Max 20
+    Sec 19919 Days W Time 2:00 PM-2:50 PM Space 15 Max 20
+    Sec 19927 Days W Time 3:00 PM-3:50 PM Space 15 Max 19
+FAMST   192FT - FILM & MEDIA THEORY  Units:5.0 Grading:Letter Graded:
+  Lec 07211 Days Cancel Time Cancel Space Cancel Max 60
+    Sec 07229 Days Cancel Time Cancel Space Cancel Max 20
+    Sec 07237 Days Cancel Time Cancel Space Cancel Max 20
+    Sec 07245 Days Cancel Time Cancel Space Cancel Max 19
+FAMST   195I  - INTERNSHIP           Units:2.0 Grading:Pass/No Pass:
+  Lec 07252 Days T.B.A. Time T.B.A. Space 9 Max 10
+FAMST   195I  - INTERNSHIP           Units:2.0 Grading:Pass/No Pass:
+  Lec 07260 Days T.B.A. Time T.B.A. Space 10 Max 10
+FAMST   195I  - INTERNSHIP           Units:2.0 Grading:Pass/No Pass:
+  Lec 07278 Days T.B.A. Time T.B.A. Space 5 Max 5
+FAMST   196   - SENIOR HONORS SEM    Units:4.0 Grading:Letter Graded:
+  Lec 07286 Days T.B.A. Time T.B.A. Space Full Max 0
+FAMST   199   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Optional:
+  Lec 07294 Days T.B.A. Time T.B.A. Space 10 Max 10
+FAMST   501   - TA PRACTICUM         Units:4.0 Grading:Pass/No Pass:
+  Lec 07302 Days T.B.A. Time T.B.A. Space 5 Max 5
+FAMST   596   - DIR READING & RES    Units:1.0-8.0 Grading:Optional:
+  Lec 07310 Days T.B.A. Time T.B.A. Space 10 Max 10
+FAMST   599   - DISS RESRCH/WRITING  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 07328 Days T.B.A. Time T.B.A. Space Full Max 0
+FEMSTW   20   - INTRO GENDER POWER   Units:4.0 Grading:Optional:
+  Lec 07435 Days T.B.A. Time T.B.A. Space Full Max 120
+    Sec 07443 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07450 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07468 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07476 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07484 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07492 Days T.B.A. Time T.B.A. Space Full Max 20
+FEMSTW   20   - INTRO GENDER POWER   Units:4.0 Grading:Optional:
+  Lec 07500 Days T.B.A. Time T.B.A. Space Full Max 102
+    Sec 07518 Days T.B.A. Time T.B.A. Space Full Max 17
+    Sec 07526 Days T.B.A. Time T.B.A. Space Full Max 17
+    Sec 07534 Days T.B.A. Time T.B.A. Space Full Max 17
+    Sec 07542 Days T.B.A. Time T.B.A. Space Full Max 17
+    Sec 07559 Days T.B.A. Time T.B.A. Space Full Max 17
+    Sec 07567 Days T.B.A. Time T.B.A. Space Full Max 17
+FEMST    60   - WOMEN OF COLOR       Units:4.0 Grading:Optional:
+  Lec 07336 Days MTWR Time 10:00 AM-11:20 AM Space Full Max 22
+FEMST    80   - INTRO TO LGBTQ STUD  Units:4.0 Grading:Optional:
+  Lec 07344 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 25
+FEMSTW  150   - SEX, LOVE & ROMANCE  Units:4.0 Grading:Optional:
+  Lec 07575 Days T.B.A. Time T.B.A. Space 99 Max 240
+    Sec 07583 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07591 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07609 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07617 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07625 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07633 Days T.B.A. Time T.B.A. Space Full Max 20
+    Sec 07641 Days T.B.A. Time T.B.A. Space 12 Max 20
+    Sec 07658 Days T.B.A. Time T.B.A. Space 18 Max 20
+    Sec 07666 Days T.B.A. Time T.B.A. Space 13 Max 20
+    Sec 07674 Days T.B.A. Time T.B.A. Space 19 Max 20
+    Sec 07682 Days T.B.A. Time T.B.A. Space 19 Max 20
+    Sec 07690 Days T.B.A. Time T.B.A. Space 18 Max 20
+FEMSTW  150   - SEX, LOVE & ROMANCE  Units:4.0 Grading:Optional:
+  Lec 07708 Days T.B.A. Time T.B.A. Space 114 Max 180
+    Sec 07716 Days T.B.A. Time T.B.A. Space 2 Max 20
+    Sec 07724 Days T.B.A. Time T.B.A. Space 1 Max 20
+    Sec 07732 Days T.B.A. Time T.B.A. Space 3 Max 20
+    Sec 07740 Days T.B.A. Time T.B.A. Space 12 Max 20
+    Sec 07757 Days T.B.A. Time T.B.A. Space 19 Max 20
+    Sec 07765 Days T.B.A. Time T.B.A. Space 19 Max 20
+    Sec 07773 Days T.B.A. Time T.B.A. Space 19 Max 20
+    Sec 07781 Days T.B.A. Time T.B.A. Space 20 Max 20
+    Sec 07799 Days T.B.A. Time T.B.A. Space 19 Max 20
+FEMST   198   - READING WOMEN'S STU  Units:1.0-4.0 Grading:Optional:
+  Lec 07369 Days T.B.A. Time T.B.A. Space 5 Max 5
+FEMST   199   - IND STU WOMEN'S STU  Units:1.0-4.0 Grading:Optional:
+  Lec 07377 Days T.B.A. Time T.B.A. Space 5 Max 5
+FEMST   199RA - IND RES FEMST        Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 07385 Days T.B.A. Time T.B.A. Space Full Max 0
+FEMST   596   - DIRECTED READINGS    Units:2.0-8.0 Grading:Optional:
+  Lec 07393 Days T.B.A. Time T.B.A. Space 5 Max 5
+FEMST   597   - IND STU PHD EXAM     Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 07401 Days T.B.A. Time T.B.A. Space 5 Max 5
+FEMST   598   - THESIS PREP          Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 07419 Days T.B.A. Time T.B.A. Space 5 Max 5
+FEMST   599   - DISSERTATION PREP    Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 07427 Days T.B.A. Time T.B.A. Space 5 Max 5
+FR        1   - ELEMENTARY FRENCH    Units:5.0 Grading:Optional:
+  Lec 07807 Days MTWRF Time 9:30 AM-11:45 AM Space Full Max 20
+FR        2   - ELEMENTARY FRENCH    Units:5.0 Grading:Optional:
+  Lec 07815 Days MTWRF Time 9:30 AM-11:45 AM Space 6 Max 20
+FR        3   - ELEMENTARY FRENCH    Units:5.0 Grading:Optional:
+  Lec 07823 Days MTWRF Time 9:30 AM-11:45 AM Space 8 Max 20
+FR       99   - INDEPENDENT STUDY    Units:1.0-4.0 Grading:Optional:
+  Lec 07831 Days T.B.A. Time T.B.A. Space Full Max 0
+FR      154F  - TIME OFF IN PARIS    Units:4.0 Grading:Optional:
+  Lec 07849 Days TWR Time 12:30 PM-1:55 PM Space Full Max 25
+FR      154G  - POSTCOLONIALCULTURE  Units:4.0 Grading:Optional:
+  Lec 07856 Days TWR Time 2:00 PM-3:25 PM Space Full Max 25
+FR      199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 07864 Days T.B.A. Time T.B.A. Space 5 Max 5
+FR      597   - INDEPENDENT STUDY    Units:4.0 Grading:Optional:
+  Lec 07872 Days T.B.A. Time T.B.A. Space 5 Max 5
+FR      599   - DISS PREPARATION     Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 07880 Days T.B.A. Time T.B.A. Space 5 Max 5
+GEOG      3   - OCEAN/ATMOSPHERE     Units:4.0 Grading:Optional:
+  Lec 17855 Days MTWR Time 9:30 AM-10:35 AM Space 1 Max 31
+    Sec 17863 Days T Time 2:00 PM-3:20 PM Space 1 Max 31
+GEOG      4   - LAND, WATER & LIFE   Units:4.0 Grading:Optional:
+  Lec 17871 Days MTWR Time 9:00 AM-10:05 AM Space 12 Max 26
+    Sec 17889 Days T Time 3:30 PM-4:50 PM Space 12 Max 26
+GEOG      5   - PEOPLE/PLACE/ENVIRO  Units:4.0 Grading:Optional:
+  Lec 07898 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 27
+    Sec 07906 Days M Time 2:00 PM-3:20 PM Space Full Max 27
+GEOG W    8   - GLOBAL WARMING       Units:4.0 Grading:Optional:
+  Lec 08144 Days T.B.A. Time T.B.A. Space 14 Max 60
+    Sec 08151 Days T.B.A. Time T.B.A. Space 14 Max 60
+GEOG W   12   - MAPS SPAT REAS       Units:4.0 Grading:Optional:
+  Lec 08169 Days T.B.A. Time T.B.A. Space 63 Max 100
+    Sec 08177 Days T.B.A. Time T.B.A. Space 63 Max 100
+GEOG W   12   - MAPS SPAT REAS       Units:4.0 Grading:Optional:
+  Lec 17947 Days T.B.A. Time T.B.A. Space 67 Max 80
+    Sec 17954 Days T.B.A. Time T.B.A. Space 67 Max 80
+GEOG     20   - GEOG OF SURFING      Units:4.0 Grading:Optional:
+  Lec 07955 Days MTWR Time 2:00 PM-3:05 PM Space 36 Max 45
+    Sec 07963 Days T Time 3:30 PM-4:50 PM Space 7 Max 15
+    Sec 07971 Days W Time 3:30 PM-4:50 PM Space 14 Max 15
+    Sec 07989 Days R Time 3:30 PM-4:50 PM Space 15 Max 15
+GEOG    110   - INTRO METEOROLOGY    Units:4.0 Grading:Optional:
+  Lec 17897 Days MTWR Time 2:00 PM-3:05 PM Space 8 Max 28
+    Sec 17905 Days M Time 3:30 PM-4:50 PM Space 8 Max 28
+GEOG    172   - INTER GEOG DATA      Units:5.0 Grading:Optional:
+  Lec 07997 Days MTWR Time 11:00 AM-12:05 PM Space 2 Max 28
+    Sec 08003 Days W Time 3:30 PM-4:50 PM Space 2 Max 28
+GEOG    176A  - INTRO GEOG INF SYS   Units:4.0 Grading:Optional:
+  Lec 08011 Days MTWR Time 12:30 PM-1:35 PM Space 12 Max 48
+    Sec 08029 Days W Time 3:30 PM-4:50 PM Space 2 Max 24
+    Sec 08037 Days R Time 3:30 PM-4:50 PM Space 10 Max 24
+GEOG    193   - INTERN IN GEOGRAPHY  Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 08060 Days T.B.A. Time T.B.A. Space 50 Max 50
+GEOG    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 08086 Days T.B.A. Time T.B.A. Space 50 Max 50
+GEOG    199RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 08094 Days T.B.A. Time T.B.A. Space 50 Max 50
+GEOG    596   - DIR READING & RES    Units:2.0-8.0 Grading:Optional:
+  Lec 08102 Days T.B.A. Time T.B.A. Space 30 Max 30
+GEOG    597   - IND STUDY-PH D EXAM  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 08110 Days T.B.A. Time T.B.A. Space 20 Max 20
+GEOG    598   - MASTER'S THESIS      Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 08128 Days T.B.A. Time T.B.A. Space 25 Max 25
+GEOG    599   - PH D DISSERTATION    Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 08136 Days T.B.A. Time T.B.A. Space 30 Max 30
+GEOG    599   - PH D DISSERTATION     :
+GER       1   - ELEMENTARY GERMAN    Units:5.0 Grading:Optional:
+  Lec 08185 Days MTWR Time 9:30 AM-12:20 PM Space Full Max 20
+GER       2   - ELEMENTARY GERMAN    Units:5.0 Grading:Optional:
+  Lec 08193 Days MTWR Time 9:30 AM-12:20 PM Space 11 Max 20
+GER       3   - ELEMENTARY GERMAN    Units:5.0 Grading:Optional:
+  Lec 08201 Days MTWR Time 9:30 AM-12:20 PM Space 14 Max 20
+GER      55A  - GER POP CULTURE      Units:4.0 Grading:Optional:
+  Lec 08219 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 22
+GER     199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 08227 Days T.B.A. Time T.B.A. Space 5 Max 5
+GER     596   - DIR READ & RESEARCH  Units:2.0-4.0 Grading:Letter Graded:
+  Lec 08235 Days T.B.A. Time T.B.A. Space 5 Max 5
+GER     597   - INDIV STD COMP EXAM  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 08243 Days T.B.A. Time T.B.A. Space 10 Max 10
+GLOBL     1   - GLOBL HIS/CUL/IDEOL  Units:4.0 Grading:Optional:
+  Lec 08250 Days MTWR Time 11:00 AM-12:15 PM Space 64 Max 206
+    Sec 08268 Days T Time 12:30 PM-1:20 PM Space Full Max 22
+    Sec 08276 Days M Time 3:00 PM-3:50 PM Space Full Max 22
+    Sec 08284 Days W Time 9:30 AM-10:20 AM Space Full Max 22
+    Sec 08292 Days M Time 2:00 PM-2:50 PM Space 1 Max 22
+    Sec 08300 Days T Time 3:30 PM-4:20 PM Space 8 Max 22
+    Sec 08318 Days W Time 2:00 PM-2:50 PM Space 13 Max 22
+    Sec 08326 Days M Time 9:30 AM-10:20 AM Space 12 Max 22
+    Sec 08334 Days W Time 3:30 PM-4:20 PM Space 15 Max 22
+    Sec 08342 Days T Time 2:00 PM-2:50 PM Space 7 Max 22
+GLOBL     2   - GLOBL SOC/ECON/POL   Units:4.0 Grading:Optional:
+  Lec 18499 Days MTWR Time 11:00 AM-12:15 PM Space 95 Max 132
+    Sec 18507 Days M Time 2:00 PM-2:50 PM Space 1 Max 22
+    Sec 18515 Days M Time 3:00 PM-3:50 PM Space 19 Max 22
+    Sec 18523 Days T Time 2:00 PM-2:50 PM Space 14 Max 22
+    Sec 18531 Days T Time 3:00 PM-3:50 PM Space 21 Max 22
+    Sec 18549 Days W Time 9:30 AM-10:20 AM Space 20 Max 22
+    Sec 18556 Days W Time 2:00 PM-2:50 PM Space 20 Max 22
+GLOBL   104   - GLOBAL DIASPORAS     Units:4.0 Grading:Optional:
+  Lec 18564 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 35
+GLOBL   157   - GLOBAL MEDIA         Units:4.0 Grading:Letter Graded:
+  Lec 18572 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 35
+GLOBL   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 08383 Days T.B.A. Time T.B.A. Space 10 Max 10
+GLOBL   596   - DIR READ & RSCH      Units:1.0-12.0 Grading:Optional:
+  Lec 08391 Days T.B.A. Time T.B.A. Space 5 Max 5
+GLOBL   598   - THESIS RSCH & PREP   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 08409 Days T.B.A. Time T.B.A. Space 20 Max 20
+GREEK    12SS - INT. ANCIENT GREEK   Units:6.0 Grading:Letter Graded:
+  Lec 17327 Days MTWRF Time 9:00 AM-11:00 AM Space Closed Max 4
+HIST      2C  - WORLD HISTORY        Units:4.0 Grading:Optional:
+  Lec 08417 Days MTWR Time 6:30 PM-7:45 PM Space 24 Max 108
+    Sec 08425 Days W Time 12:00 PM-12:50 PM Space Full Max 14
+    Sec 08433 Days W Time 1:00 PM-1:50 PM Space Full Max 14
+    Sec 08441 Days W Time 2:00 PM-2:50 PM Space Full Max 14
+    Sec 08458 Days W Time 3:00 PM-3:50 PM Space Full Max 14
+    Sec 08466 Days W Time 4:00 PM-4:50 PM Space Full Max 14
+    Sec 08474 Days W Time 5:00 PM-5:50 PM Space Full Max 14
+HIST W    2A  - WORLD HISTORY        Units:4.0 Grading:Optional:
+  Lec 17111 Days T.B.A. Time T.B.A. Space Full Max 54
+    Sec 17129 Days F Time 11:00 AM-11:50 AM Space Full Max 18
+    Sec 17137 Days F Time 12:00 PM-12:50 PM Space Full Max 18
+    Sec 17145 Days F Time 8:00 PM-8:50 PM Space Full Max 18
+HIST      4C  - MODERN EUROPE        Units:4.0 Grading:Optional:
+  Lec 08524 Days MTWR Time 3:30 PM-4:45 PM Space 39 Max 84
+    Sec 08532 Days W Time 9:00 AM-9:50 AM Space 3 Max 14
+    Sec 08540 Days W Time 10:00 AM-10:50 AM Space 8 Max 14
+    Sec 08557 Days W Time 11:00 AM-11:50 AM Space 8 Max 14
+    Sec 08565 Days W Time 12:00 PM-12:50 PM Space 9 Max 14
+    Sec 08573 Days W Time 1:00 PM-1:50 PM Space 11 Max 14
+    Sec 08581 Days W Time 2:00 PM-2:50 PM Space Full Max 14
+HIST W    4B  - MEDIEV ERLY MOD EUR  Units:4.0 Grading:Optional:
+  Lec 19356 Days T.B.A. Time T.B.A. Space Full Max 54
+    Sec 19364 Days F Time 11:00 AM-11:50 AM Space Full Max 18
+    Sec 19372 Days F Time 12:00 PM-12:50 PM Space Full Max 18
+    Sec 19380 Days F Time 8:00 PM-8:50 PM Space Full Max 18
+HIST     17B  - AMERICAN PEOPLE      Units:4.0 Grading:Optional:
+  Lec 08631 Days MTWR Time 11:00 AM-12:15 PM Space Full Max 54
+    Sec 08649 Days W Time 1:00 PM-1:50 PM Space Full Max 18
+    Sec 08656 Days W Time 2:00 PM-2:50 PM Space Full Max 18
+    Sec 08664 Days W Time 3:00 PM-3:50 PM Space Full Max 18
+HIST     17C  - AMERICAN PEOPLE      Units:4.0 Grading:Optional:
+  Lec 08672 Days MTWR Time 11:00 AM-12:15 PM Space Full Max 42
+    Sec 08680 Days W Time 1:00 PM-1:50 PM Space Full Max 14
+    Sec 08698 Days W Time 2:00 PM-2:50 PM Space Full Max 14
+    Sec 08706 Days W Time 3:00 PM-3:50 PM Space Full Max 14
+HIST     20   - SCI & MOD WORLD      Units:4.0 Grading:Letter Graded:
+  Lec 16881 Days MTWR Time 11:00 AM-12:15 PM Space 20 Max 54
+    Sec 16899 Days W Time 2:00 PM-2:50 PM Space 4 Max 18
+    Sec 16907 Days W Time 3:00 PM-3:50 PM Space 7 Max 18
+    Sec 16915 Days W Time 1:00 PM-1:50 PM Space 9 Max 18
+HIST     46B  - MIDEAST HIST 19C-PR  Units:4.0 Grading:Optional:
+  Lec 17152 Days TWR Time 2:00 PM-3:35 PM Space 31 Max 54
+    Sec 17160 Days W Time 10:00 AM-10:50 AM Space 7 Max 18
+    Sec 17178 Days W Time 11:00 AM-11:50 AM Space 11 Max 18
+    Sec 17186 Days W Time 12:00 PM-12:50 PM Space 13 Max 18
+HIST W   80   - CHIN CIVIL           Units:4.0 Grading:Optional:
+  Lec 19125 Days T.B.A. Time T.B.A. Space Full Max 108
+    Sec 19133 Days F Time 11:00 AM-11:50 AM Space Full Max 18
+    Sec 19141 Days F Time 11:00 AM-11:50 AM Space Full Max 18
+    Sec 19158 Days F Time 12:00 PM-12:50 PM Space Full Max 18
+    Sec 19166 Days F Time 12:00 PM-12:50 PM Space Full Max 18
+    Sec 19174 Days F Time 8:00 PM-8:50 PM Space Full Max 18
+    Sec 19182 Days F Time 8:00 PM-8:50 PM Space Full Max 18
+HIST W   80   - CHIN CIVIL           Units:4.0 Grading:Optional:
+  Lec 19190 Days T.B.A. Time T.B.A. Space Full Max 100
+    Sec 19208 Days F Time 11:00 AM-11:50 AM Space Full Max 16
+    Sec 19216 Days F Time 11:00 AM-11:50 AM Space 1 Max 16
+    Sec 19224 Days F Time 12:00 PM-12:50 PM Space 2 Max 16
+    Sec 19232 Days F Time 12:00 PM-12:50 PM Space 3 Max 16
+    Sec 19240 Days F Time 8:00 PM-8:50 PM Space 1 Max 18
+    Sec 19257 Days F Time 8:00 PM-8:50 PM Space 3 Max 18
+HIST     99   - INTRO TO RESEARCH    Units:1.0-4.0 Grading:Letter Graded:
+  Lec 08748 Days T.B.A. Time T.B.A. Space Full Max 0
+HIST    123B  - EUROPE WAR & REV     Units:4.0 Grading:Optional:
+  Lec 18853 Days MTWR Time 3:30 PM-4:35 PM Space Full Max 30
+HIST    124B  - WMN & EUR 1914-PRES  Units:4.0 Grading:Optional:
+  Lec 08763 Days TWR Time 2:00 PM-3:25 PM Space 5 Max 30
+HIST    133D  - NAZI  HOLOCAUST      Units:4.0 Grading:Optional:
+  Lec 16931 Days Cancel Time Cancel Space Cancel Max 30
+HIST    135B  - HISTORY OF RUSSIA    Units:4.0 Grading:Optional:
+  Lec 08771 Days MTW Time 2:00 PM-3:25 PM Space 1 Max 30
+HIST    161B  - COLONIAL/REVOL AMER  Units:4.0 Grading:Optional:
+  Lec 16949 Days TWR Time 2:00 PM-3:25 PM Space Full Max 30
+HIST    173T  - AMER ENVIRON HIST    Units:4.0 Grading:Optional:
+  Lec 08821 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 30
+HIST    176B  - THE AMERICAN WEST    Units:4.0 Grading:Optional:
+  Lec 16956 Days MTW Time 3:30 PM-4:55 PM Space Full Max 30
+HIST    177   - CALIFORNIA HISTORY   Units:4.0 Grading:Optional:
+  Lec 08839 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 40
+HIST    184B  - HISTORY OF CHINA     Units:4.0 Grading:Optional:
+  Lec 16964 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 30
+HIST    193F  - FOOD HISTORY         Units:4.0 Grading:Letter Graded:
+  Lec 16972 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 30
+HIST    196   - INTERNSHIP HISTORY   Units:2.0-8.0 Grading:Pass/No Pass:
+  Lec 08854 Days T.B.A. Time T.B.A. Space 3 Max 3
+HIST    196SJ - POV INEQ INTERNSHIP  Units:4.0 Grading:Letter Graded:
+  Lec 08862 Days T.B.A. Time T.B.A. Space Full Max 0
+HIST    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 08870 Days T.B.A. Time T.B.A. Space 5 Max 5
+HIST    500   - LAB FOR TA'S         Units:2.0-4.0 Grading:Pass/No Pass:
+  Lec 08888 Days T.B.A. Time T.B.A. Space 25 Max 25
+HIST    596   - READING & RESEARCH   Units:2.0-12.0 Grading:Optional:
+  Lec 08896 Days T.B.A. Time T.B.A. Space Full Max 0
+HIST    599   - PH.D. DISS PREP      Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 08904 Days T.B.A. Time T.B.A. Space 10 Max 10
+INT      10   - TRANS ACADEMIC EXC   Units:2.0 Grading:Optional:
+  Lec 08920 Days M Time 4:00 PM-6:50 PM Space 51 Max 80
+INT      10   - TRANS ACADEMIC EXC   Units:2.0 Grading:Optional:
+  Lec 08938 Days M Time 4:00 PM-6:50 PM Space 70 Max 80
+INT      35LT - SHAKESPEARE          Units:8.0 Grading:Optional:
+  Lec 08946 Days MTWR Time 12:30 PM-3:20 PM Space 35 Max 35
+INT      36BH - WRITING BODIES       Units:4.0 Grading:Letter Graded:
+  Lec 20115 Days TR Time 2:00 PM-4:50 PM Space 25 Max 25
+INT      90M  - RES/PROF DEV MCNAIR  Units:2.0 Grading:Pass/No Pass:
+  Lec 09043 Days T Time 9:30 AM-11:00 AM Space 20 Max 20
+  Lec 09050 Days M Time 9:30 AM-11:00 AM Space 20 Max 20
+INT      91   - INTERDIS ISSUES      Units:1.0-5.0 Grading:Optional:
+  Lec 09068 Days TR Time 2:00 PM-5:00 PM Space 30 Max 30
+INT      93LS - RESEARCH IN STEM     Units:1.0-4.0 Grading:Optional:
+  Lec 09159 Days MTWR Time 9:30 AM-10:50 AM Space 30 Max 30
+    Sec 09167 Days TRMW Time 12:30 PM-3:20 PM12:30 PM-3:20 PM Space 30 Max 30
+  Lec 18432 Days MTWR Time 9:30 AM-10:50 AM Space 30 Max 30
+    Sec 18440 Days TRMW Time 12:30 PM-3:20 PM12:30 PM-3:20 PM Space Full Max 0
+  Lec 18457 Days MTWR Time 9:30 AM-10:50 AM Space 30 Max 30
+    Sec 18465 Days TMWR Time 12:30 PM-3:20 PM12:30 PM-3:20 PM Space Full Max 0
+INT      94FC - FRST YR EXP SEMINAR  Units:1.0 Grading:Pass/No Pass:
+  Lec 09241 Days M Time 3:30 PM-4:55 PM Space 20 Max 20
+INT      94IM - FRST YR EXP SEMINAR  Units:1.0 Grading:Pass/No Pass:
+  Lec 09266 Days M Time 7:00 PM-8:25 PM Space 20 Max 20
+INT      94RG - FRSHMAN SEMINARS     Units:1.0 Grading:Pass/No Pass:
+  Lec 09274 Days W Time 5:00 PM-6:25 PM Space 48 Max 48
+INT      94VK - FRST YR EXP SEMINAR  Units:1.0 Grading:Pass/No Pass:
+  Lec 09282 Days W Time 2:00 PM-3:25 PM Space 50 Max 50
+INT      94ZZ - FRST YR EXP SEMINAR  Units:1.0 Grading:Pass/No Pass:
+  Lec 09290 Days T Time 3:30 PM-4:55 PM Space 25 Max 25
+INT     133B  - WRONG WITH WORLD     Units:8.0 Grading:Optional:
+  Lec 19398 Days MTWR Time 12:30 PM-3:20 PM Space 33 Max 40
+INT     192DC - WASH CTR INTERNSHIP  Units:4.0-8.0 Grading:Pass/No Pass:
+  Lec 09753 Days T.B.A. Time T.B.A. Space Full Max 0
+INT     199H  - HONORS INDEP STUD    Units:1.0-4.0 Grading:Letter Graded:
+  Lec 09761 Days T.B.A. Time T.B.A. Space 20 Max 20
+ITAL      1   - ELEMENTARY ITALIAN   Units:5.0 Grading:Optional:
+  Lec 09779 Days MTWRF Time 9:30 AM-11:45 AM Space 10 Max 20
+ITAL      2   - ELEMENTARY ITALIAN   Units:5.0 Grading:Optional:
+  Lec 09787 Days MTWRF Time 9:30 AM-11:45 AM Space 12 Max 20
+ITAL      3   - ELEMENTARY ITALIAN   Units:5.0 Grading:Optional:
+  Lec 09795 Days MTWRF Time 9:30 AM-11:45 AM Space 7 Max 20
+ITAL     20X  - ITALIAN CULTURE      Units:4.0 Grading:Optional:
+  Lec 09803 Days TWR Time 2:00 PM-3:55 PM Space Closed Max 17
+ITAL     99RA - INDEPENDEN RESEARCH  Units:1.0-4.0 Grading:Optional:
+  Lec 09811 Days T.B.A. Time T.B.A. Space Full Max 0
+JAPAN     1   - FIRST YR JAPANESE I  Units:5.0 Grading:Letter Graded:
+  Lec 09837 Days MTWRF Time 8:30 AM-12:20 PM Space Full Max 22
+JAPAN     2   - FIRST YR JAPANESE 2  Units:5.0 Grading:Letter Graded:
+  Lec 09845 Days MTWRF Time 8:30 AM-12:20 PM Space 14 Max 22
+JAPAN     3   - FIRST YR JAPANESE 3  Units:5.0 Grading:Letter Graded:
+  Lec 09852 Days MTWRF Time 8:30 AM-12:20 PM Space 15 Max 22
+JAPAN   165   - POP CULTURE JAPAN    Units:4.0 Grading:Letter Graded:
+  Lec 09860 Days TWR Time 2:00 PM-3:25 PM Space Full Max 150
+JAPAN   198   - READINGS IN JAPAN    Units:1.0-5.0 Grading:Optional:
+  Lec 09878 Days T.B.A. Time T.B.A. Space 5 Max 5
+JAPAN   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 09886 Days T.B.A. Time T.B.A. Space 5 Max 5
+JAPAN   596   - DIR READ & RESEARCH  Units:2.0-4.0 Grading:Optional:
+  Lec 09894 Days T.B.A. Time T.B.A. Space Full Max 0
+JAPAN   598   - MASTERS THESIS RES   Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 09902 Days T.B.A. Time T.B.A. Space 5 Max 5
+KOR       1   - FIRST YEAR KOR 1     Units:5.0 Grading:Optional:
+  Lec 09910 Days MTWRF Time 8:30 AM-12:20 PM Space Full Max 20
+KOR       2   - FIRST YEAR KOR 2     Units:5.0 Grading:Optional:
+  Lec 09928 Days MTWRF Time 8:30 AM-12:20 PM Space 10 Max 20
+KOR       3   - FIRST YEAR KOR 3     Units:5.0 Grading:Optional:
+  Lec 09936 Days MTWRF Time 8:30 AM-12:20 PM Space 16 Max 20
+LAIS    101   - INT HIST & SOC LAIS  Units:4.0 Grading:Optional:
+  Lec 09944 Days MTWR Time 3:30 PM-4:35 PM Space 15 Max 30
+LAIS    195A  - SENIOR HONRS THESIS  Units:4.0 Grading:Letter Graded:
+  Lec 09951 Days T.B.A. Time T.B.A. Space 5 Max 5
+LAIS    195B  - SENIOR HONRS THESIS  Units:4.0 Grading:Letter Graded:
+  Lec 09969 Days T.B.A. Time T.B.A. Space 5 Max 5
+LAIS    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 09977 Days T.B.A. Time T.B.A. Space 10 Max 10
+LAIS    598   - MASTER'S THESIS      Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 09993 Days T.B.A. Time T.B.A. Space 5 Max 5
+LING      3C  - AC ENGL              Units:4.0 Grading:Letter Graded:
+  Lec 10009 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 18
+LING      3C  - AC ENGL              Units:4.0 Grading:Letter Graded:
+  Lec 10017 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 18
+LING      8   - ORAL COMM INTL       Units:3.0 Grading:Optional:
+  Lec 10025 Days MTWR Time 12:30 PM-1:55 PM Space 15 Max 15
+LING     12   - UNIV WRIT FOR MLING  Units:4.0 Grading:Letter Graded:
+  Lec 10058 Days MTWR Time 11:00 AM-12:25 PM Space Full Max 18
+LING     12   - UNIV WRIT FOR MLING  Units:4.0 Grading:Letter Graded:
+  Lec 10033 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 18
+  Lec 10041 Days MTWR Time 3:30 PM-4:55 PM Space Full Max 18
+LING     15   - LANG IN LIFE         Units:4.0 Grading:Optional:
+  Lec 16790 Days MTWR Time 9:30 AM-10:50 AM Space 17 Max 30
+    Sec 16808 Days F Time 9:30 AM-10:50 AM Space 17 Max 30
+LING     20   - LANG & LINGUISTICS   Units:4.0 Grading:Optional:
+  Lec 10074 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 30
+    Sec 10082 Days F Time 11:00 AM-12:20 PM Space Full Max 30
+LING     99   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 10116 Days T.B.A. Time T.B.A. Space 10 Max 10
+LING    106   - INTRO TO PHONETICS   Units:4.0 Grading:Optional:
+  Lec 10124 Days MTW Time 1:00 PM-2:20 PM Space Full Max 35
+    Sec 10132 Days R Time 1:00 PM-2:20 PM Space Full Max 35
+LING    132   - LANG, GEND & SEX     Units:4.0 Grading:Optional:
+  Lec 16816 Days MTW Time 11:00 AM-12:20 PM Space 10 Max 70
+    Sec 16824 Days R Time 11:00 AM-12:20 PM Space Full Max 35
+    Sec 16832 Days R Time 1:00 PM-2:20 PM Space 10 Max 35
+LING    135   - MEMES                Units:4.0 Grading:Optional:
+  Lec 18903 Days MTW Time 2:30 PM-3:50 PM Space 7 Max 35
+    Sec 18911 Days R Time 2:30 PM-3:50 PM Space 7 Max 35
+LING    191   - INTERNSHIP IN LING   Units:1.0-6.0 Grading:Optional:
+  Lec 10173 Days T.B.A. Time T.B.A. Space 10 Max 10
+LING    195B  - HONORS THESIS        Units:2.0-3.0 Grading:Letter Graded:
+  Lec 10199 Days T.B.A. Time T.B.A. Space 10 Max 10
+LING    195C  - HONORS THESIS        Units:2.0-3.0 Grading:Letter Graded:
+  Lec 10207 Days T.B.A. Time T.B.A. Space 10 Max 10
+LING    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 10215 Days T.B.A. Time T.B.A. Space 10 Max 10
+LING    597   - IND STUDY M.A./PH.D  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 10231 Days T.B.A. Time T.B.A. Space 10 Max 10
+MARSC   596   - DIRECTED READ RSRCH  Units:2.0-12.0 Grading:Optional:
+  Lec 10306 Days T.B.A. Time T.B.A. Space Full Max 0
+MARSC   598   - MS THESIS RES/PREP   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 10314 Days T.B.A. Time T.B.A. Space 5 Max 5
+MARSC   599   - PH.D. DISS PREP      Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 10322 Days T.B.A. Time T.B.A. Space 1 Max 1
+MAT     293   - INTERNSHIP INDUSTRY  Units:1.0-4.0 Grading:Letter Graded:
+  Lec 10330 Days T.B.A. Time T.B.A. Space 15 Max 15
+MAT     596   - DIRECTED RESEARCH    Units:2.0-12.0 Grading:Optional:
+  Lec 10355 Days T.B.A. Time T.B.A. Space 5 Max 5
+MAT     597   - INDIV STD PHD EXAMS  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 10363 Days T.B.A. Time T.B.A. Space Full Max 0
+MAT     598   - MS THESIS/PROJ RES   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 10371 Days T.B.A. Time T.B.A. Space 5 Max 5
+MAT     599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 10389 Days T.B.A. Time T.B.A. Space 20 Max 20
+MATH      3A  - CALC WITH APPLI 1    Units:4.0 Grading:Optional:
+  Lec 17806 Days MTWRF Time 11:00 AM-12:10 PM Space 34 Max 35
+MATH      3A  - CALC WITH APPLI 1    Units:4.0 Grading:Optional:
+  Lec 17822 Days MTWR Time 11:00 AM-12:05 PM Space 34 Max 34
+    Sec 17830 Days MW Time 2:00 PM-2:50 PM Space 17 Max 17
+    Sec 17848 Days MW Time 3:00 PM-3:50 PM Space 17 Max 17
+MATH      3B  - CALC WITH APPLI 2    Units:4.0 Grading:Optional:
+  Lec 10454 Days MTWRF Time 9:00 AM-10:10 AM Space 32 Max 35
+MATH      3B  - CALC WITH APPLI 2    Units:4.0 Grading:Optional:
+  Lec 10462 Days MTWR Time 2:00 PM-3:05 PM Space 57 Max 57
+    Sec 10470 Days TR Time 3:30 PM-4:20 PM Space 17 Max 17
+    Sec 10488 Days MW Time 3:30 PM-4:20 PM Space 15 Max 15
+    Sec 10496 Days TR Time 4:30 PM-5:20 PM Space 25 Max 25
+MATH      4A  - LIN ALG W/APPS       Units:4.0 Grading:Optional:
+  Lec 10504 Days MTWR Time 9:30 AM-10:35 AM Space 92 Max 100
+    Sec 10512 Days MW Time 2:30 PM-3:20 PM Space 22 Max 25
+    Sec 10520 Days MW Time 1:30 PM-2:20 PM Space 22 Max 25
+    Sec 10538 Days TR Time 11:30 AM-12:20 PM Space 23 Max 25
+    Sec 10546 Days TR Time 12:30 PM-1:20 PM Space 25 Max 25
+MATH      4A  - LIN ALG W/APPS       Units:4.0 Grading:Optional:
+  Lec 10553 Days MTWR Time 12:30 PM-1:35 PM Space 63 Max 68
+    Sec 10561 Days MW Time 3:30 PM-4:20 PM Space 12 Max 17
+    Sec 10579 Days MW Time 2:30 PM-3:20 PM Space 17 Max 17
+    Sec 10587 Days TR Time 3:30 PM-4:20 PM Space 17 Max 17
+    Sec 10595 Days TR Time 2:30 PM-3:20 PM Space 17 Max 17
+MATH      4B  - DIFF EQUATIONS       Units:4.0 Grading:Optional:
+  Lec 10603 Days MTWR Time 2:00 PM-3:05 PM Space 41 Max 100
+    Sec 10611 Days TR Time 9:30 AM-10:20 AM Space 8 Max 25
+    Sec 10629 Days TR Time 10:30 AM-11:20 AM Space 16 Max 25
+    Sec 10637 Days TR Time 11:30 AM-12:20 PM Space 9 Max 25
+    Sec 10645 Days TR Time 12:30 PM-1:20 PM Space 8 Max 25
+MATH      4B  - DIFF EQUATIONS       Units:4.0 Grading:Optional:
+  Lec 10652 Days MTWR Time 11:00 AM-12:05 PM Space 78 Max 100
+    Sec 10660 Days TR Time 12:30 PM-1:20 PM Space 10 Max 25
+    Sec 10678 Days TR Time 3:30 PM-4:20 PM Space 22 Max 25
+    Sec 10686 Days TR Time 1:30 PM-2:20 PM Space 24 Max 25
+    Sec 10694 Days TR Time 2:30 PM-3:20 PM Space 22 Max 25
+MATH      6A  - VECTOR CALCULUS 1    Units:4.0 Grading:Optional:
+  Lec 10702 Days MTWR Time 2:00 PM-3:05 PM Space 33 Max 100
+    Sec 10710 Days TR Time 12:30 PM-1:20 PM Space Full Max 25
+    Sec 10728 Days MW Time 9:30 AM-10:20 AM Space 6 Max 25
+    Sec 10736 Days TR Time 11:30 AM-12:20 PM Space 12 Max 25
+    Sec 10744 Days MW Time 10:30 AM-11:20 AM Space 15 Max 25
+MATH      6A  - VECTOR CALCULUS 1    Units:4.0 Grading:Optional:
+  Lec 10751 Days MTWR Time 3:30 PM-4:35 PM Space 60 Max 100
+    Sec 10769 Days TR Time 10:30 AM-11:20 AM Space 7 Max 25
+    Sec 10777 Days TR Time 12:30 PM-1:20 PM Space 18 Max 25
+    Sec 10785 Days TR Time 11:30 AM-12:20 PM Space 20 Max 25
+    Sec 10793 Days TR Time 1:30 PM-2:20 PM Space 15 Max 25
+  Lec 10801 Days MTWRF Time 12:30 PM-1:40 PM Space 27 Max 35
+MATH      6B  - VECTOR CALCULUS 2    Units:4.0 Grading:Optional:
+  Lec 10819 Days MTWRF Time 2:00 PM-3:10 PM Space Full Max 35
+MATH      6B  - VECTOR CALCULUS 2    Units:4.0 Grading:Optional:
+  Lec 10827 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 100
+    Sec 10835 Days TR Time 2:30 PM-3:20 PM Space Full Max 25
+    Sec 10843 Days TR Time 3:30 PM-4:20 PM Space Full Max 25
+    Sec 10850 Days MW Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 10868 Days MW Time 3:00 PM-3:50 PM Space Full Max 25
+MATH      8   - TRANS HIGHER MATH    Units:5.0 Grading:Optional:
+  Lec 10876 Days MWF Time 9:00 AM-9:50 AM Space 10 Max 34
+    Sec 10884 Days TR Time 11:00 AM-11:50 AM Space 5 Max 17
+    Sec 10892 Days TR Time 12:30 PM-1:20 PM Space 5 Max 17
+  Lec 10900 Days MWF Time 10:00 AM-10:50 AM Space 11 Max 35
+    Sec 10918 Days TR Time 2:00 PM-2:50 PM Space 6 Max 18
+    Sec 10926 Days TR Time 3:30 PM-4:20 PM Space 5 Max 17
+  Lec 17418 Days TR Time 11:00 AM-12:15 PM Space 20 Max 35
+    Sec 17426 Days MW Time 1:00 PM-1:50 PM Space 9 Max 18
+    Sec 17434 Days MW Time 2:00 PM-2:50 PM Space 11 Max 17
+MATH     34A  - CALC FOR SOCIAL SCI  Units:4.0 Grading:Optional:
+  Lec 10934 Days MTWR Time 12:30 PM-1:35 PM Space 21 Max 50
+    Sec 10942 Days MW Time 3:30 PM-4:20 PM Space 15 Max 25
+    Sec 10959 Days MW Time 2:30 PM-3:20 PM Space 6 Max 25
+MATH     34A  - CALC FOR SOCIAL SCI  Units:4.0 Grading:Optional:
+  Lec 10967 Days MTWRF Time 12:30 PM-1:40 PM Space 12 Max 25
+MATH     34B  - CALC-SOC & LIFE SCI  Units:4.0 Grading:Optional:
+  Lec 10975 Days MTWRF Time 12:30 PM-1:40 PM Space 11 Max 35
+MATH     34B  - CALC-SOC & LIFE SCI  Units:4.0 Grading:Optional:
+  Lec 10983 Days MTWRF Time 9:30 AM-10:40 AM Space 9 Max 30
+MATH    100A  - MATH ELEM TEACH I    Units:3.0 Grading:Pass/No Pass:
+  Lec 10991 Days MTWRF Time 9:00 AM-10:40 AM Space 35 Max 35
+MATH    100B  - MATH ELEM TEACH II   Units:3.0 Grading:Pass/No Pass:
+  Lec 11007 Days MTWRF Time 9:00 AM-10:40 AM Space 35 Max 35
+MATH    104A  - INTRO NUM ANALYSIS   Units:4.0 Grading:Optional:
+  Lec 17475 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 50
+MATH    104B  - NUMERICAL ANALYSIS   Units:4.0 Grading:Optional:
+  Lec 17483 Days MTWR Time 12:30 PM-1:35 PM Space 18 Max 50
+MATH    104C  - ADV NUM ANALYSIS     Units:4.0 Grading:Optional:
+  Lec 17491 Days MTWR Time 12:30 PM-1:35 PM Space 19 Max 50
+MATH    108A  - INTRO TO LINEAR ALG  Units:4.0 Grading:Optional:
+  Lec 11015 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 50
+MATH    108B  - ADV LINEAR ALG       Units:4.0 Grading:Optional:
+  Lec 11023 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 50
+MATH    117   - METHODS OF ANALYSIS  Units:4.0 Grading:Optional:
+  Lec 11031 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 50
+MATH    117   - METHODS OF ANALYSIS  Units:4.0 Grading:Optional:
+  Lec 11049 Days MTWR Time 12:30 PM-1:35 PM Space 14 Max 50
+MATH    122A  - INTRO COMPLX VARIAB  Units:4.0 Grading:Optional:
+  Lec 11056 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 100
+MATH    122B  - INTRO COMPLX VARIAB  Units:4.0 Grading:Optional:
+  Lec 11064 Days MTWR Time 9:30 AM-10:35 AM Space 16 Max 35
+MATH    124A  - PART DIFF EQUATIONS  Units:4.0 Grading:Optional:
+  Lec 11072 Days MTWR Time 2:00 PM-3:05 PM Space 15 Max 45
+MATH    124B  - FOURIER SER & NUM    Units:4.0 Grading:Optional:
+  Lec 11080 Days MTWR Time 2:00 PM-3:05 PM Space 33 Max 35
+MATH    145   - INTRO TO TOPOLOGY    Units:4.0 Grading:Optional:
+  Lec 17616 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 45
+MATH    147A  - INTRO DIFF GEOMETRY  Units:4.0 Grading:Optional:
+  Lec 17624 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 45
+MATH    193   - INTERN IN MATH       Units:1.0-4.0 Grading:Optional:
+  Lec 11098 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    197A  - SENIOR THESIS        Units:1.0-4.0 Grading:Optional:
+  Lec 11106 Days T.B.A. Time T.B.A. Space Full Max 0
+MATH    197B  - SENIOR THESIS        Units:1.0-4.0 Grading:Optional:
+  Lec 11114 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 11122 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    199RA - IND RES ASSIST MATH  Units:1.0-4.0 Grading:Optional:
+  Lec 11130 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    199RA - IND RES ASSIST MATH   :
+MATH    199RA - IND RES ASSIST MATH   :
+MATH    199RA - IND RES ASSIST MATH   :
+MATH    596   - DIR READ & RESEARCH  Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 11148 Days T.B.A. Time T.B.A. Space 5 Max 5
+MATRL   290   - RESRCH GRP STUDIES   Units:1.0-3.0 Grading:Pass/No Pass:
+  Lec 11213 Days T.B.A. Time T.B.A. Space 15 Max 15
+MATRL   501   - TEACH ASSIST PRACT   Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 11221 Days T.B.A. Time T.B.A. Space 99 Max 99
+MATRL   596   - READING & RESEARCH   Units:2.0-4.0 Grading:Pass/No Pass:
+  Lec 11239 Days T.B.A. Time T.B.A. Space 5 Max 5
+MATRL   598   - MS THESIS RSCH-PREP  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 11247 Days T.B.A. Time T.B.A. Space 20 Max 20
+MATRL   599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 11254 Days T.B.A. Time T.B.A. Space 20 Max 20
+MCDB      1A  - INTRO BIOLOGY I      Units:4.0 Grading:Letter Graded:
+  Lec 11262 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 285
+MCDB      1B  - INTRO BIOLOGY II--P  Units:3.0 Grading:Letter Graded:
+  Lec 11288 Days MTW Time 12:30 PM-1:55 PM Space 114 Max 285
+MCDB      1LL - INTRO BIOLOGY LAB I  Units:1.5 Grading:Letter Graded:
+  Lec 11304 Days T Time 9:00 AM-11:50 AM Space Full Max 20
+  Lec 11312 Days T Time 9:00 AM-11:50 AM Space 2 Max 20
+  Lec 11320 Days T Time 3:30 PM-6:20 PM Space Full Max 20
+  Lec 11338 Days T Time 3:30 PM-6:20 PM Space Full Max 20
+  Lec 11346 Days T Time 6:30 PM-9:20 PM Space Full Max 20
+  Lec 11353 Days T Time 6:30 PM-9:20 PM Space Full Max 20
+  Lec 11361 Days W Time 9:00 AM-11:50 AM Space 2 Max 20
+  Lec 11387 Days W Time 3:30 PM-6:20 PM Space Full Max 20
+MCDB      6   - MOL CELL BRAIN SCI   Units:4.0 Grading:Letter Graded:
+  Lec 18234 Days MTWR Time 9:30 AM-10:55 AM Space 47 Max 124
+MCDB     84   - INTERNSHIP BIOLOGY   Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 11429 Days T.B.A. Time T.B.A. Space Full Max 0
+MCDB     92   - SPECIAL TOPICS       Units:1.0-4.0 Grading:Optional:
+  Lec 11437 Days T.B.A. Time T.B.A. Space Full Max 0
+MCDB     99   - INTRO TO RESEARCH    Units:1.0-3.0 Grading:Pass/No Pass:
+  Lec 11452 Days T.B.A. Time T.B.A. Space 5 Max 5
+MCDB    101A  - MOLEC. GENETICS I    Units:4.0 Grading:Letter Graded:
+  Lec 11460 Days MTWR Time 9:30 AM-10:35 AM Space 27 Max 159
+    Sec 11478 Days T Time 12:30 PM-1:50 PM Space Full Max 26
+    Sec 11486 Days W Time 2:00 PM-3:20 PM Space Full Max 26
+    Sec 11494 Days W Time 12:30 PM-1:50 PM Space Full Max 26
+    Sec 11502 Days R Time 12:30 PM-1:50 PM Space Full Max 27
+    Sec 11510 Days M Time 12:30 PM-1:50 PM Space Full Max 27
+    Sec 11528 Days M Time 2:00 PM-3:20 PM Space Closed Max 27
+MCDB    101B  - MOLEC GENETICS II    Units:4.0 Grading:Letter Graded:
+  Lec 11536 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 75
+    Sec 11544 Days M Time 12:30 PM-1:50 PM Space Full Max 25
+    Sec 11551 Days W Time 11:00 AM-12:20 PM Space Full Max 25
+    Sec 11569 Days M Time 2:00 PM-3:20 PM Space Full Max 25
+MCDB W  108A  - BIOCHEM STRUCT/FUNC  Units:4.0 Grading:Letter Graded:
+  Lec 11809 Days T.B.A. Time T.B.A. Space 10 Max 65
+    Sec 11817 Days T.B.A. Time T.B.A. Space 10 Max 65
+MCDB    111   - HUMAN PHYSIOLOGY     Units:4.0 Grading:Letter Graded:
+  Lec 11601 Days MTW Time 12:30 PM-1:55 PM Space Full Max 175
+    Sec 11619 Days R Time 9:30 AM-10:50 AM Space Full Max 25
+    Sec 11627 Days R Time 12:30 PM-1:50 PM Space Full Max 25
+    Sec 11635 Days R Time 2:00 PM-3:20 PM Space Full Max 25
+    Sec 11650 Days R Time 11:00 AM-12:20 PM Space Full Max 25
+    Sec 11668 Days W Time 2:00 PM-3:20 PM Space Full Max 25
+    Sec 11676 Days W Time 3:30 PM-4:50 PM Space Full Max 25
+    Sec 11684 Days W Time 11:00 AM-12:20 PM Space Full Max 25
+MCDB W  138   - MEDICAL IMMUNOLOGY   Units:4.0 Grading:Letter Graded:
+  Lec 11825 Days T.B.A. Time T.B.A. Space 6 Max 65
+    Sec 11833 Days T.B.A. Time T.B.A. Space 6 Max 65
+MCDB    183   - TEACHING ASSISTANCE  Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 11718 Days T.B.A. Time T.B.A. Space 20 Max 20
+MCDB    184   - INTERNSHIP BIOLOGY   Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 11726 Days T.B.A. Time T.B.A. Space 15 Max 15
+MCDB    184   - INTERNSHIP BIOLOGY    :
+MCDB    192   - SPECIAL TOPICS       Units:1.0-4.0 Grading:Optional:
+  Lec 11734 Days T.B.A. Time T.B.A. Space 10 Max 10
+MCDB    197   - DIRECTED STUDIES     Units:1.0-5.0 Grading:Optional:
+  Lec 11742 Days T.B.A. Time T.B.A. Space 15 Max 15
+MCDB    198   - DIRECTED READINGS    Units:1.0-5.0 Grading:Optional:
+  Lec 11759 Days T.B.A. Time T.B.A. Space 5 Max 5
+MCDB    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 11767 Days T.B.A. Time T.B.A. Space 20 Max 20
+MCDB    596   - DIRECTED READ RSRCH  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 11775 Days T.B.A. Time T.B.A. Space 5 Max 5
+MCDB    598   - MA THESIS RES/PREP   Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 11783 Days T.B.A. Time T.B.A. Space 15 Max 15
+MCDB    599   - PH.D. DISS PREP      Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 11791 Days T.B.A. Time T.B.A. Space 15 Max 15
+ME       14   - STATICS              Units:4.0 Grading:Letter Graded:
+  Lec 11841 Days MTWRF Time 2:00 PM-3:40 PM Space 24 Max 30
+    Sec 11858 Days WF Time 4:00 PM-5:25 PM Space 24 Max 30
+ME       15   - STRENGTH-MATERIALS   Units:4.0 Grading:Letter Graded:
+  Lec 11866 Days MTWR Time 9:30 AM-10:50 AM Space 13 Max 30
+    Sec 11874 Days F Time 9:30 AM-10:50 AM Space 13 Max 30
+ME       16   - ENGR MECH: DYNAMICS  Units:4.0 Grading:Letter Graded:
+  Lec 11882 Days MTWR Time 11:00 AM-12:20 PM Space 26 Max 30
+    Sec 11890 Days F Time 11:00 AM-12:20 PM Space 26 Max 30
+ME       17   - MATH OF ENGR         Units:3.0 Grading:Letter Graded:
+  Lec 16766 Days MTWR Time 12:30 PM-1:50 PM Space 29 Max 30
+ME       95   - INTRO TO MECH ENGR   Units:1.0-4.0 Grading:Optional:
+  Lec 11908 Days T.B.A. Time T.B.A. Space 35 Max 35
+ME       97   - DESIGN PROJECTS      Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 11916 Days T.B.A. Time T.B.A. Space 35 Max 35
+ME       99   - INTRO RESEARCH       Units:1.0-3.0 Grading:Pass/No Pass:
+  Lec 11924 Days T.B.A. Time T.B.A. Space 35 Max 35
+ME      125MS - SP: RAPID PROTO DES  Units:3.0 Grading:Letter Graded:
+  Lec 17970 Days MTR Time 10:00 AM-12:00 PM Space 23 Max 30
+    Sec 18713 Days W Time 10:00 AM-12:00 PM Space 23 Max 30
+ME      179L  - ROBOTICS: DESIGN     Units:4.0 Grading:Letter Graded:
+  Lec 11965 Days MTWRF Time 10:30 AM-12:20 PM Space 15 Max 22
+ME      197   - IND STUDIES DESIGN   Units:1.0-4.0 Grading:Letter Graded:
+  Lec 11981 Days T.B.A. Time T.B.A. Space 30 Max 30
+ME      199   - INDEP STUDIES IN ME  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 11999 Days T.B.A. Time T.B.A. Space 20 Max 20
+ME      596   - DIRECTED RESEARCH    Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 12005 Days T.B.A. Time T.B.A. Space 10 Max 10
+ME      597   - STUDY FOR PH D EXAM  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 12013 Days T.B.A. Time T.B.A. Space 20 Max 20
+ME      598   - MS THESIS RSCH-PREP  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 12021 Days T.B.A. Time T.B.A. Space 10 Max 10
+ME      599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 12039 Days T.B.A. Time T.B.A. Space 10 Max 10
+MES      45   - INTRO MID  EAST ST   Units:4.0 Grading:Optional:
+  Lec 12047 Days MTWR Time 6:30 PM-7:50 PM Space 10 Max 25
+MUS      11   - FUNDAMENTALS OF MUS  Units:4.0 Grading:Optional:
+  Lec 12054 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 32
+    Sec 12062 Days F Time 9:30 AM-10:50 AM Space Full Max 18
+    Sec 12070 Days F Time 11:00 AM-12:20 PM Space 4 Max 18
+MUS      11   - FUNDAMENTALS OF MUS  Units:4.0 Grading:Optional:
+  Lec 12088 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 44
+    Sec 12096 Days F Time 12:30 PM-1:50 PM Space Full Max 11
+    Sec 12104 Days F Time 2:00 PM-3:20 PM Space Full Max 11
+    Sec 12112 Days F Time 9:30 AM-10:50 AM Space Full Max 11
+    Sec 12120 Days F Time 11:00 AM-12:20 PM Space Full Max 11
+MUS      15   - MUSIC APPRECIATION   Units:4.0 Grading:Optional:
+  Lec 12138 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 60
+    Sec 12146 Days F Time 9:30 AM-10:50 AM Space Full Max 15
+    Sec 12153 Days F Time 11:00 AM-12:20 PM Space Full Max 15
+    Sec 12161 Days F Time 12:30 PM-1:50 PM Space Full Max 15
+    Sec 12179 Days F Time 2:00 PM-3:20 PM Space Full Max 15
+MUS      15   - MUSIC APPRECIATION   Units:4.0 Grading:Optional:
+  Lec 12187 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 40
+    Sec 12195 Days F Time 9:30 AM-10:50 AM Space Full Max 10
+    Sec 12203 Days F Time 11:00 AM-12:20 PM Space Full Max 10
+    Sec 12211 Days F Time 12:30 PM-1:50 PM Space Full Max 10
+    Sec 12229 Days F Time 2:00 PM-3:20 PM Space Full Max 10
+MUS      17   - WORLD MUSIC          Units:4.0 Grading:Optional:
+  Lec 12237 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 30
+    Sec 12245 Days F Time 11:00 AM-12:20 PM Space Full Max 15
+    Sec 12252 Days F Time 9:30 AM-10:50 AM Space Full Max 15
+MUS     114   - MUSIC & POP CULTURE  Units:4.0 Grading:Optional:
+  Lec 12260 Days MTWR Time 2:00 PM-3:05 PM Space Full Max 58
+    Sec 12278 Days F Time 1:00 PM-2:20 PM Space Full Max 29
+    Sec 12286 Days F Time 2:30 PM-3:50 PM Space Full Max 29
+MUS     114   - MUSIC & POP CULTURE  Units:4.0 Grading:Optional:
+  Lec 12294 Days MTWR Time 2:00 PM-3:05 PM Space 4 Max 58
+    Sec 12302 Days F Time 1:00 PM-2:20 PM Space Full Max 29
+    Sec 12310 Days F Time 2:30 PM-3:50 PM Space 4 Max 29
+MUS     599A  - PH.D. DISS PREP      Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 12328 Days T.B.A. Time T.B.A. Space 15 Max 15
+PHIL      1   - SHORT INTRO TO PHIL  Units:4.0 Grading:Optional:
+  Lec 12377 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 50
+    Sec 12385 Days T Time 12:30 PM-1:50 PM Space Full Max 25
+    Sec 12393 Days R Time 11:00 AM-12:20 PM Space Full Max 25
+PHIL      3   - CRITICAL THINKING    Units:4.0 Grading:Optional:
+  Lec 12401 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 75
+    Sec 12419 Days W Time 4:00 PM-5:20 PM Space Full Max 25
+    Sec 12427 Days T Time 4:00 PM-5:20 PM Space Full Max 25
+    Sec 12435 Days R Time 4:00 PM-5:20 PM Space Full Max 25
+PHIL      4   - INTRO ETHICS         Units:4.0 Grading:Optional:
+  Lec 12443 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 60
+    Sec 12450 Days M Time 2:00 PM-3:20 PM Space Full Max 15
+    Sec 12468 Days T Time 2:00 PM-3:20 PM Space Full Max 15
+    Sec 12476 Days M Time 12:30 PM-1:50 PM Space Full Max 15
+    Sec 12484 Days T Time 12:30 PM-1:50 PM Space Full Max 15
+PHIL      7   - BIO-MED ETHICS       Units:4.0 Grading:Optional:
+  Lec 16840 Days MTWR Time 3:30 PM-4:45 PM Space 1 Max 50
+    Sec 16857 Days T Time 2:00 PM-3:20 PM Space 1 Max 25
+    Sec 16865 Days W Time 2:00 PM-3:20 PM Space Full Max 25
+PHIL    100B  - THEORY OF KNOWLEDGE  Units:4.0 Grading:Optional:
+  Lec 12526 Days TWR Time 12:30 PM-1:50 PM Space 17 Max 50
+    Sec 12534 Days W Time 9:30 AM-10:50 AM Space 14 Max 25
+    Sec 12542 Days R Time 11:00 AM-12:20 PM Space 3 Max 25
+PHIL    100D  - PHILOSOPHY OF MIND   Units:4.0 Grading:Optional:
+  Lec 12559 Days TWR Time 11:00 AM-12:20 PM Space 8 Max 50
+    Sec 12567 Days W Time 3:30 PM-4:45 PM Space Full Max 25
+    Sec 12575 Days R Time 3:30 PM-4:45 PM Space 8 Max 25
+PHIL    112   - PHIL OF RELIGION     Units:4.0 Grading:Optional:
+  Lec 12583 Days TWR Time 2:00 PM-3:20 PM Space 6 Max 50
+PHIL    145   - PUNISHMENT & RESPON  Units:4.0 Grading:Optional:
+  Lec 12591 Days TWR Time 2:00 PM-3:20 PM Space Full Max 50
+PHIL    163   - LOCKE                Units:4.0 Grading:Optional:
+  Lec 16873 Days TWR Time 12:30 PM-1:50 PM Space 25 Max 50
+PHIL    599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 12633 Days T.B.A. Time T.B.A. Space 4 Max 4
+PHYS      1   - BASIC PHYSICS        Units:4.0 Grading:Optional:
+  Lec 19026 Days MTW Time 2:00 PM-3:20 PM Space 51 Max 94
+    Sec 19034 Days R Time 11:00 AM-12:20 PM Space Full Max 25
+    Sec 19042 Days R Time 12:30 PM-1:45 PM Space 7 Max 25
+PHYS      2   - BASIC PHYSICS        Units:4.0 Grading:Optional:
+  Lec 12666 Days MTW Time 2:00 PM-3:20 PM Space 56 Max 94
+    Sec 12674 Days R Time 11:00 AM-12:20 PM Space 22 Max 50
+    Sec 12682 Days R Time 12:30 PM-1:50 PM Space 40 Max 50
+PHYS      4L  - PHYSICS LAB          Units:1.0 Grading:Optional:
+  Lec 19448 Days T Time 1:00 PM-3:50 PM Space 13 Max 24
+  Lec 19455 Days T Time 4:00 PM-6:50 PM Space 5 Max 24
+  Lec 19463 Days W Time 1:00 PM-3:50 PM Space 23 Max 24
+  Lec 19471 Days W Time 4:00 PM-6:50 PM Space 12 Max 24
+PHYS      5L  - PHYSICS LABORATORY   Units:1.0 Grading:Optional:
+  Lec 19489 Days M Time 1:00 PM-3:50 PM Space 13 Max 24
+  Lec 19497 Days M Time 4:00 PM-6:50 PM Space 20 Max 24
+  Lec 19505 Days M Time 7:00 PM-9:50 PM Space 22 Max 24
+  Lec 19513 Days T Time 1:00 PM-3:50 PM Space 20 Max 24
+  Lec 19521 Days T Time 4:00 PM-6:50 PM Space 21 Max 24
+  Lec 19539 Days T Time 7:00 PM-9:50 PM Space Closed Max 24
+  Lec 19547 Days W Time 1:00 PM-3:50 PM Space 23 Max 24
+  Lec 19554 Days W Time 4:00 PM-6:50 PM Space 21 Max 24
+  Lec 19562 Days W Time 7:00 PM-9:50 PM Space Closed Max 24
+  Lec 19570 Days R Time 1:00 PM-3:50 PM Space 20 Max 24
+  Lec 19588 Days R Time 4:00 PM-6:50 PM Space Closed Max 24
+  Lec 19596 Days R Time 7:00 PM-9:50 PM Space 21 Max 24
+PHYS      6A  - INTRODUCTORY PHYSIC  Units:3.0 Grading:Optional:
+  Lec 12690 Days MTW Time 11:00 AM-12:20 PM Space Full Max 286
+PHYS      6AL - INTRO EXPER PHYSICS  Units:1.0 Grading:Optional:
+  Lec 12708 Days T Time 2:00 PM-3:50 PM Space Full Max 24
+  Lec 12716 Days T Time 4:00 PM-5:50 PM Space Full Max 24
+  Lec 12724 Days T Time 6:00 PM-7:50 PM Space Full Max 24
+  Lec 12732 Days W Time 2:00 PM-3:50 PM Space Full Max 24
+  Lec 12740 Days W Time 4:00 PM-5:50 PM Space Full Max 24
+  Lec 12757 Days W Time 6:00 PM-7:50 PM Space Full Max 24
+  Lec 12765 Days R Time 2:00 PM-3:50 PM Space Full Max 24
+  Lec 12773 Days R Time 4:00 PM-5:50 PM Space Full Max 24
+  Lec 12781 Days R Time 6:00 PM-7:50 PM Space Full Max 24
+PHYS      6B  - INTRODUCTORY PHYSIC  Units:3.0 Grading:Optional:
+  Lec 12799 Days MTW Time 11:00 AM-12:20 PM Space 61 Max 286
+PHYS      6BL - INTRO EXPER PHYSICS  Units:1.0 Grading:Optional:
+  Lec 12807 Days T Time 2:00 PM-3:50 PM Space Full Max 35
+  Lec 12815 Days T Time 4:00 PM-5:50 PM Space Full Max 35
+  Lec 12823 Days W Time 2:00 PM-3:50 PM Space 1 Max 35
+  Lec 12831 Days W Time 4:00 PM-5:50 PM Space 8 Max 35
+  Lec 12849 Days T Time 6:00 PM-7:50 PM Space 11 Max 35
+  Lec 12856 Days W Time 6:00 PM-7:50 PM Space 11 Max 35
+PHYS      6C  - INTRODUCTORY PHYSIC  Units:3.0 Grading:Optional:
+  Lec 12864 Days MTW Time 9:30 AM-10:50 AM Space 45 Max 286
+PHYS      6CL - INTRO EXPER PHYSICS  Units:1.0 Grading:Optional:
+  Lec 12872 Days T Time 1:00 PM-2:50 PM Space Full Max 35
+  Lec 12880 Days T Time 3:00 PM-4:50 PM Space Full Max 35
+  Lec 12898 Days T Time 5:00 PM-6:50 PM Space Full Max 35
+  Lec 12906 Days W Time 1:00 PM-2:50 PM Space Full Max 35
+  Lec 12914 Days W Time 3:00 PM-4:50 PM Space Full Max 35
+  Lec 12922 Days W Time 5:00 PM-6:50 PM Space 6 Max 35
+PHYS     13CH - HON EXPERIMENT PHYS  Units:2.0 Grading:Optional:
+  Lec 19604 Days W Time 1:00 PM-1:50 PM Space Closed Max 30
+  Lec 19612 Days R Time 2:00 PM-4:50 PM Space Closed Max 30
+PHYS     98   - READING IN PHYSICS   Units:1.0-4.0 Grading:Optional:
+  Lec 12930 Days T.B.A. Time T.B.A. Space Closed Max 0
+PHYS     99   - RESEARCH IN PHYSICS  Units:1.0-4.0 Grading:Optional:
+  Lec 12948 Days T.B.A. Time T.B.A. Space Closed Max 0
+PHYS    101   - COMPLEX VARIABLES    Units:4.0 Grading:Optional:
+  Lec 12955 Days MTW Time 9:30 AM-10:50 AM Space Full Max 48
+    Sec 12963 Days R Time 9:30 AM-10:50 AM Space Full Max 24
+    Sec 12971 Days R Time 11:00 AM-12:20 PM Space Full Max 24
+PHYS    103   - INTERMED MECHANICS   Units:4.0 Grading:Optional:
+  Lec 12989 Days MWF Time 11:00 AM-12:20 PM Space Full Max 50
+    Sec 12997 Days F Time 9:30 AM-10:50 AM Space Full Max 25
+    Sec 13003 Days F Time 12:30 PM-1:50 PM Space Full Max 25
+PHYS    103   - INTERMED MECHANICS   Units:4.0 Grading:Optional:
+  Lec 13011 Days MTW Time 9:30 AM-10:50 AM Space 18 Max 50
+    Sec 13029 Days R Time 9:30 AM-10:50 AM Space 2 Max 25
+    Sec 13037 Days R Time 11:00 AM-12:20 PM Space 16 Max 25
+PHYS    104   - ADVANCED MECHANICS   Units:4.0 Grading:Optional:
+  Lec 13045 Days MTW Time 9:30 AM-10:50 AM Space 17 Max 40
+    Sec 13052 Days R Time 9:30 AM-10:50 AM Space 17 Max 40
+PHYS    110A  - ELECTROMAGNETISM     Units:4.0 Grading:Optional:
+  Lec 13060 Days MTW Time 12:30 PM-1:45 PM Space 16 Max 54
+    Sec 13078 Days T Time 2:00 PM-3:20 PM Space Full Max 27
+    Sec 13086 Days M Time 2:00 PM-3:20 PM Space 16 Max 27
+PHYS    115A  - QUANTUM MECHANICS    Units:4.0 Grading:Optional:
+  Lec 13094 Days MWF Time 11:00 AM-12:20 PM Space 1 Max 40
+    Sec 13102 Days R Time 11:00 AM-12:20 PM Space 1 Max 20
+    Sec 13110 Days R Time 9:30 AM-10:50 AM Space Full Max 20
+PHYS    115C  - QUANTUM MECHANICS    Units:4.0 Grading:Optional:
+  Lec 13128 Days MWF Time 2:00 PM-3:20 PM Space 17 Max 40
+    Sec 13136 Days F Time 11:00 AM-12:20 PM Space 11 Max 20
+    Sec 13144 Days F Time 12:30 PM-1:50 PM Space 6 Max 20
+PHYS    119A  - THERMO & STAT PHYS   Units:4.0 Grading:Optional:
+  Lec 13151 Days MWF Time 2:00 PM-3:20 PM Space 9 Max 69
+    Sec 13169 Days R Time 11:00 AM-12:20 PM Space Full Max 23
+    Sec 13177 Days R Time 12:30 PM-1:50 PM Space 3 Max 23
+    Sec 13185 Days R Time 2:00 PM-3:20 PM Space 6 Max 23
+PHYS    127AL - ANALOG ELECTRONICS   Units:4.0 Grading:Letter Graded:
+  Lec 13193 Days TR Time 11:00 AM-12:20 PM Space 3 Max 24
+    Sec 13201 Days MW Time 1:00 PM-4:20 PM Space 3 Max 12
+    Sec 13219 Days TR Time 1:00 PM-4:20 PM Space Full Max 12
+PHYS    128AL - ADVANCED LAB         Units:4.0 Grading:Optional:
+  Lec 13227 Days MTW Time 1:00 PM-5:50 PM Space Full Max 16
+PHYS    129L  - INTRO SCI COMP       Units:4.0 Grading:Letter Graded:
+  Lec 13235 Days MTW Time 12:30 PM-1:45 PM Space Full Max 18
+    Sec 13243 Days M Time 2:00 PM-4:30 PM Space Full Max 18
+PHYS    142L  - COND MATTER LAB      Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 13250 Days T.B.A. Time T.B.A. Space Full Max 0
+PHYS    143L  - PARTICLE PHYS LAB    Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 13268 Days T.B.A. Time T.B.A. Space 50 Max 50
+PHYS    144L  - BIOPHYSICS LAB       Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 13276 Days T.B.A. Time T.B.A. Space Full Max 0
+PHYS    145L  - EXP RES IN ASTROPHY  Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 13284 Days T.B.A. Time T.B.A. Space 50 Max 50
+PHYS    198   - DIRECTED READING     Units:1.0-5.0 Grading:Optional:
+  Lec 13292 Days T.B.A. Time T.B.A. Space Closed Max 5
+PHYS    199   - RESEARCH IN PHYSICS  Units:1.0-5.0 Grading:Optional:
+  Lec 13300 Days T.B.A. Time T.B.A. Space Closed Max 0
+PHYS    596   - DIR READ & RESEARCH  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 13318 Days T.B.A. Time T.B.A. Space 50 Max 50
+POL S     1   - INTRO TO POL PHIL    Units:4.0 Grading:Optional:
+  Lec 13367 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 48
+    Sec 13375 Days T Time 5:00 PM-6:20 PM Space Full Max 15
+    Sec 13383 Days T Time 3:30 PM-4:50 PM Space Full Max 11
+    Sec 13391 Days T Time 12:30 PM-1:50 PM Space Full Max 11
+    Sec 13409 Days T Time 2:00 PM-3:20 PM Space Full Max 11
+POL S     6   - INTRO COMP POLITICS  Units:4.0 Grading:Optional:
+  Lec 13417 Days MTWR Time 11:00 AM-12:05 PM Space 19 Max 60
+    Sec 13425 Days W Time 1:00 PM-2:20 PM Space Full Max 15
+    Sec 13433 Days W Time 3:00 PM-4:20 PM Space 8 Max 15
+    Sec 13441 Days R Time 9:30 AM-10:50 AM Space 3 Max 15
+    Sec 13458 Days W Time 5:00 PM-6:20 PM Space 8 Max 15
+POL S     7   - INTRO TO IR          Units:4.0 Grading:Optional:
+  Lec 13466 Days MTWR Time 11:00 AM-12:05 PM Space Full Max 44
+    Sec 13474 Days W Time 5:00 PM-6:20 PM Space Full Max 12
+    Sec 13482 Days R Time 9:30 AM-10:50 AM Space Full Max 11
+    Sec 13490 Days W Time 3:30 PM-4:50 PM Space 1 Max 11
+    Sec 13508 Days W Time 2:00 PM-3:20 PM Space Full Max 11
+POL S    12   - AMER GOV & POLITICS  Units:4.0 Grading:Optional:
+  Lec 13516 Days MTWR Time 2:00 PM-3:05 PM Space Full Max 60
+    Sec 13524 Days T Time 9:00 AM-10:20 AM Space Full Max 15
+    Sec 13532 Days T Time 11:00 AM-12:20 PM Space Full Max 15
+    Sec 13540 Days W Time 9:00 AM-10:20 AM Space Full Max 15
+    Sec 13557 Days W Time 11:00 AM-12:20 PM Space Full Max 15
+POL S    15   - INTRO RES POL SCI    Units:5.0 Grading:Optional:
+  Lec 13565 Days MTWR Time 9:30 AM-10:35 AM Space 12 Max 40
+    Sec 13573 Days T Time 11:00 AM-12:20 PM Space Full Max 10
+    Sec 13581 Days T Time 1:00 PM-2:20 PM Space 1 Max 10
+    Sec 13599 Days T Time 3:00 PM-4:20 PM Space 7 Max 10
+    Sec 13607 Days W Time 11:00 AM-12:20 PM Space 4 Max 10
+POL S    99   - INTRO TO RESEARCH    Units:1.0-4.0 Grading:Optional:
+  Lec 13615 Days T.B.A. Time T.B.A. Space 5 Max 5
+POL SW  121   - INTERNATL POLITICS   Units:4.0 Grading:Optional:
+  Lec 13748 Days T.B.A. Time T.B.A. Space 20 Max 100
+POL S   146   - GLOBAL & POLITICS    Units:4.0 Grading:Optional:
+  Lec 13631 Days MTWR Time 2:00 PM-3:05 PM Space Full Max 30
+POL S   153   - POL INTEREST GROUPS  Units:4.0 Grading:Optional:
+  Lec 13649 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 30
+POL S   160   - ASIAN AM POLITICS    Units:4.0 Grading:Optional:
+  Lec 13656 Days MTWR Time 2:00 PM-3:05 PM Space Full Max 30
+POL S   176   - ENERGY POLITICS      Units:4.0 Grading:Optional:
+  Lec 17632 Days MTWR Time 3:30 PM-4:35 PM Space Full Max 30
+POL S   188   - MODERN POL THEORY    Units:4.0 Grading:Optional:
+  Lec 13672 Days MTWR Time 12:30 PM-1:35 PM Space Full Max 30
+POL S   192   - FIELD RES POL SCI    Units:1.0-8.0 Grading:Pass/No Pass:
+  Lec 13680 Days T.B.A. Time T.B.A. Space 26 Max 26
+POL S   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 13698 Days T.B.A. Time T.B.A. Space 20 Max 20
+POL S   199RA - INDEP RESEARCH ASST  Units:1.0-5.0 Grading:Optional:
+  Lec 13706 Days T.B.A. Time T.B.A. Space 5 Max 5
+POL S   598   - MA THESIS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 13722 Days T.B.A. Time T.B.A. Space 10 Max 10
+POL S   599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 13730 Days T.B.A. Time T.B.A. Space 10 Max 10
+PORT    115   - BRAZ LIT-ENGL TRANS  Units:4.0 Grading:Optional:
+  Lec 17467 Days Cancel Time Cancel Space Cancel Max 25
+PORT    116   - PORT LIT TRANS       Units:4.0 Grading:Optional:
+  Lec 19414 Days MTWR Time 11:00 AM-12:05 PM Space 25 Max 25
+PORT    195   - SEN HONORS IND RES   Units:4.0 Grading:Optional:
+  Lec 13755 Days T.B.A. Time T.B.A. Space 5 Max 5
+PORT    599AA - PH D DISS PREP       Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 13771 Days T.B.A. Time T.B.A. Space 5 Max 5
+PSTAT     5A  - STATISTICS           Units:5.0 Grading:Optional:
+  Lec 13789 Days MTWR Time 9:30 AM-10:50 AM Space 3 Max 75
+    Sec 13797 Days WT Time 12:00 PM-12:50 PM12:00 PM-12:50 PM Space Full Max 22
+    Sec 13805 Days TW Time 11:00 AM-11:50 AM Space Full Max 25
+    Sec 17913 Days TW Time 2:00 PM-2:50 PM Space Full Max 25
+PSTAT     5A  - STATISTICS           Units:5.0 Grading:Optional:
+  Lec 13813 Days MTWR Time 12:30 PM-1:50 PM Space 3 Max 100
+    Sec 13821 Days WT Time 2:00 PM-2:50 PM2:00 PM-2:50 PM Space Full Max 22
+    Sec 13839 Days WT Time 3:00 PM-3:50 PM3:00 PM-3:50 PM Space Full Max 25
+    Sec 13847 Days WT Time 5:00 PM-5:50 PM5:00 PM-5:50 PM Space Full Max 25
+    Sec 17921 Days TW Time 2:00 PM-2:50 PM Space Full Max 25
+PSTAT     5LS - STAT LIFE SCIENCES   Units:5.0 Grading:Optional:
+  Lec 13854 Days MTWR Time 8:00 AM-9:20 AM Space 19 Max 75
+    Sec 13862 Days TR Time 1:00 PM-1:50 PM Space Full Max 25
+    Sec 13870 Days TR Time 2:00 PM-2:20 PM Space 7 Max 25
+    Sec 13888 Days TR Time 3:00 PM-3:50 PM Space 12 Max 25
+    Sec 13896 Days TR Time 4:00 PM-4:50 PM Space Closed Max 20
+PSTAT    10   - DATA SCIENCE PRINC   Units:5.0 Grading:Optional:
+  Lec 13946 Days MTWR Time 11:00 AM-12:20 PM Space 15 Max 30
+    Sec 13953 Days MW Time 12:30 PM-1:20 PM Space 14 Max 25
+    Sec 13961 Days MTWR Time 12:30 PM-1:20 PM Space 21 Max 25
+PSTAT    10   - DATA SCIENCE PRINC   Units:5.0 Grading:Optional:
+  Lec 13904 Days MTWR Time 2:00 PM-3:50 PM Space 18 Max 30
+    Sec 13912 Days MTWR Time 4:00 PM-4:50 PM Space 13 Max 25
+    Sec 13920 Days MTWR Time 4:00 PM-4:50 PM Space 20 Max 20
+PSTAT   109   - STATISTICS FOR ECON  Units:5.0 Grading:Optional:
+  Lec 13979 Days MTWR Time 11:00 AM-12:20 PM Space 3 Max 75
+    Sec 13987 Days WT Time 2:00 PM-2:50 PM2:00 PM-2:50 PM Space Full Max 25
+    Sec 13995 Days WT Time 12:30 PM-1:20 PM12:30 PM-1:20 PM Space Full Max 25
+    Sec 17939 Days MW Time 2:00 PM-2:50 PM Space 3 Max 25
+PSTAT   109   - STATISTICS FOR ECON  Units:5.0 Grading:Optional:
+  Lec 14001 Days MTWR Time 12:30 PM-1:50 PM Space 25 Max 75
+    Sec 14019 Days RT Time 3:00 PM-3:50 PM3:00 PM-3:50 PM Space Full Max 25
+    Sec 14027 Days RT Time 4:00 PM-4:50 PM4:00 PM-4:50 PM Space Full Max 25
+PSTAT   120A  - PROB & STATISTICS    Units:4.0 Grading:Optional:
+  Lec 14043 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 60
+    Sec 14050 Days TR Time 4:00 PM-4:50 PM Space Full Max 20
+    Sec 14068 Days TR Time 6:00 PM-6:50 PM Space Full Max 20
+    Sec 14076 Days TR Time 4:00 PM-4:50 PM Space Full Max 20
+PSTAT   120A  - PROB & STATISTICS    Units:4.0 Grading:Optional:
+  Lec 14092 Days MTWR Time 3:30 PM-4:50 PM Space Full Max 45
+    Sec 14100 Days TW Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 14118 Days TW Time 5:00 PM-5:50 PM Space 11 Max 25
+    Sec 14126 Days TW Time 6:00 PM-6:50 PM Space 19 Max 25
+PSTAT   120B  - PROB & STATISTICS    Units:4.0 Grading:Optional:
+  Lec 14142 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 75
+    Sec 14159 Days MW Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 14167 Days MW Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 14175 Days MW Time 6:00 PM-6:50 PM Space Full Max 25
+PSTAT   120B  - PROB & STATISTICS    Units:4.0 Grading:Optional:
+  Lec 14183 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 41
+    Sec 14191 Days MW Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 14209 Days MW Time 5:00 PM-5:50 PM Space 1 Max 25
+    Sec 14217 Days MW Time 6:00 PM-6:50 PM Space 14 Max 25
+PSTAT   120C  - PROB & STATISTICS    Units:4.0 Grading:Optional:
+  Lec 14225 Days MTWR Time 11:00 AM-12:20 PM Space 11 Max 75
+    Sec 14233 Days MW Time 1:00 PM-1:50 PM Space Full Max 25
+    Sec 14241 Days MW Time 3:00 PM-3:50 PM Space 1 Max 25
+    Sec 14258 Days MW Time 2:00 PM-2:50 PM Space 10 Max 25
+PSTATW  120A  - PROB & STATISTICS    Units:4.0 Grading:Optional:
+  Lec 14555 Days T.B.A. Time T.B.A. Space 64 Max 90
+    Sec 14563 Days T.B.A. Time T.B.A. Space 8 Max 30
+    Sec 14571 Days T.B.A. Time T.B.A. Space 27 Max 30
+    Sec 14589 Days T.B.A. Time T.B.A. Space 29 Max 30
+PSTAT   126   - REGRESSION ANALYSIS  Units:4.0 Grading:Optional:
+  Lec 14290 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 50
+    Sec 14308 Days MW Time 3:00 PM-3:50 PM Space Full Max 25
+    Sec 14316 Days MW Time 4:00 PM-4:50 PM Space Full Max 25
+PSTAT   126   - REGRESSION ANALYSIS  Units:4.0 Grading:Optional:
+  Lec 14266 Days MTWR Time 12:30 PM-1:50 PM Space Full Max 50
+    Sec 14274 Days TR Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 14282 Days TR Time 4:00 PM-4:50 PM Space Full Max 25
+PSTAT   130   - SAS BASE PROGRAM     Units:4.0 Grading:Optional:
+  Lec 14324 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 50
+    Sec 14332 Days MW Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 14340 Days TR Time 4:00 PM-4:50 PM Space Full Max 25
+  Lec 14357 Days MTWR Time 9:30 AM-11:20 AM Space Full Max 50
+    Sec 14365 Days MTWR Time 11:30 AM-12:20 PM Space Full Max 25
+    Sec 14373 Days MTWR Time 11:30 AM-12:20 PM Space Full Max 25
+PSTAT   130   - SAS BASE PROGRAM     Units:4.0 Grading:Optional:
+  Lec 14381 Days MTWR Time 8:00 AM-9:20 AM Space Full Max 50
+    Sec 14399 Days TR Time 9:30 AM-10:50 AM Space Full Max 25
+    Sec 14407 Days TR Time 9:30 AM-10:50 AM Space Full Max 25
+PSTAT   130   - SAS BASE PROGRAM     Units:4.0 Grading:Optional:
+  Lec 14415 Days MTWR Time 12:30 PM-2:20 PM Space Full Max 50
+    Sec 14423 Days MTWR Time 2:30 PM-3:20 PM Space Full Max 25
+    Sec 14431 Days MTWR Time 2:30 PM-3:20 PM Space Full Max 25
+PSTAT   140   - STATISTICAL PROCESS  Units:4.0 Grading:Optional:
+  Lec 14449 Days MTWRF Time 9:00 AM-10:50 AM Space Full Max 50
+    Sec 14456 Days MTWR Time 12:00 PM-12:50 PM Space Full Max 25
+    Sec 14464 Days MTWR Time 11:00 AM-11:50 AM Space Full Max 25
+PSTAT   171   - MATH COMPOUND INT    Units:4.0 Grading:Optional:
+  Lec 14472 Days MTWR Time 8:00 AM-9:15 AM Space 4 Max 75
+    Sec 14480 Days TR Time 3:00 PM-3:50 PM Space 3 Max 25
+    Sec 14498 Days TR Time 2:00 PM-2:50 PM Space Full Max 25
+    Sec 14506 Days TR Time 5:00 PM-5:50 PM Space 1 Max 25
+PSTATW  182T  - ACTUARIAL TUTORIAL   Units:2.0 Grading:Pass/No Pass:
+  Lec 14597 Days T.B.A. Time T.B.A. Space 17 Max 25
+    Sec 14605 Days T.B.A. Time T.B.A. Space 17 Max 25
+PSTAT   193   - INTERNSHIP IN STATS  Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 14522 Days T.B.A. Time T.B.A. Space 10 Max 10
+PSTAT   193   - INTERNSHIP IN STATS   :
+PSTAT   199   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Optional:
+  Lec 14530 Days T.B.A. Time T.B.A. Space 10 Max 10
+PSTAT   596   - DIR READ & RSCH      Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 14548 Days T.B.A. Time T.B.A. Space 5 Max 5
+PSY       1   - INTRO TO PSYCH       Units:4.0 Grading:Optional:
+  Lec 14613 Days MTW Time 9:30 AM-10:55 AM Space 19 Max 82
+    Sec 14621 Days W Time 11:00 AM-12:25 PM Space Full Max 13
+    Sec 14639 Days W Time 12:00 PM-1:25 PM Space 1 Max 13
+    Sec 14647 Days R Time 9:00 AM-10:25 AM Space Full Max 13
+    Sec 14654 Days R Time 12:00 PM-1:25 PM Space 6 Max 13
+    Sec 14662 Days R Time 9:00 AM-10:25 AM Space 3 Max 13
+    Sec 14670 Days R Time 12:00 PM-1:25 PM Space 5 Max 13
+PSY      10A  - RESEARCH METHODS     Units:5.0 Grading:Optional:
+  Lec 14688 Days MTW Time 9:30 AM-10:55 AM Space 15 Max 75
+    Sec 14696 Days W Time 12:30 PM-3:25 PM Space Full Max 20
+    Sec 14704 Days R Time 9:30 AM-12:25 PM Space Full Max 20
+    Sec 14712 Days R Time 12:30 PM-3:25 PM Space Full Max 20
+PSY      10A  - RESEARCH METHODS     Units:5.0 Grading:Optional:
+  Lec 18580 Days MTW Time 9:30 AM-10:55 AM Space 15 Max 75
+    Sec 18598 Days W Time 12:30 PM-3:25 PM Space Full Max 20
+    Sec 18606 Days R Time 9:30 AM-12:25 PM Space Full Max 20
+    Sec 18614 Days R Time 12:30 PM-3:25 PM Space Full Max 20
+PSY      10B  - STATISTICS           Units:5.0 Grading:Optional:
+  Lec 14746 Days MTW Time 9:30 AM-10:55 AM Space 22 Max 75
+    Sec 14753 Days W Time 12:30 PM-3:25 PM Space Full Max 20
+    Sec 14761 Days R Time 9:30 AM-12:25 PM Space Full Max 20
+    Sec 14779 Days R Time 12:30 PM-3:25 PM Space 7 Max 20
+PSY      10B  - STATISTICS           Units:5.0 Grading:Optional:
+  Lec 18622 Days MTW Time 9:30 AM-10:55 AM Space 15 Max 75
+    Sec 18630 Days W Time 12:30 PM-3:25 PM Space Full Max 20
+    Sec 18648 Days R Time 9:30 AM-12:25 PM Space Full Max 20
+    Sec 18655 Days R Time 12:30 PM-3:25 PM Space Full Max 20
+PSY      98   - READINGS IN PBS      Units:1.0-5.0 Grading:Optional:
+  Lec 14803 Days T.B.A. Time T.B.A. Space 1 Max 1
+PSY      99   - RESEARCH IN PBS      Units:1.0-4.0 Grading:Letter Graded:
+  Lec 14811 Days T.B.A. Time T.B.A. Space 1 Max 1
+PSY      99P  - RESEARCH IN PBS      Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 14829 Days T.B.A. Time T.B.A. Space 1 Max 1
+PSY     102   - SOCIAL PSYCHOLOGY    Units:4.0 Grading:Optional:
+  Lec 14837 Days MTW Time 12:30 PM-1:55 PM Space 14 Max 75
+PSY     102   - SOCIAL PSYCHOLOGY    Units:4.0 Grading:Optional:
+  Lec 14845 Days MTW Time 12:30 PM-1:55 PM Space 39 Max 75
+PSY     105   - DEVELOPMENTAL PSYCH  Units:4.0 Grading:Optional:
+  Lec 14852 Days MTW Time 11:00 AM-12:25 PM Space 1 Max 75
+PSY     105   - DEVELOPMENTAL PSYCH  Units:4.0 Grading:Optional:
+  Lec 14860 Days MTW Time 11:00 AM-12:25 PM Space 17 Max 75
+PSY     106   - INTRO BIOPSYCH       Units:4.0 Grading:Optional:
+  Lec 14878 Days MTW Time 2:00 PM-3:25 PM Space Full Max 80
+PSY     106   - INTRO BIOPSYCH       Units:4.0 Grading:Optional:
+  Lec 14886 Days Cancel Time Cancel Space Cancel Max 75
+PSY     108   - COGNITIVE PSYCHOLOG  Units:4.0 Grading:Optional:
+  Lec 14894 Days TR Time 2:00 PM-4:05 PM Space 50 Max 75
+PSY     108   - COGNITIVE PSYCHOLOG  Units:4.0 Grading:Optional:
+  Lec 14902 Days MTW Time 11:00 AM-12:25 PM Space 70 Max 90
+PSY     111   - BEHAVIORAL NEURO.    Units:4.0 Grading:Optional:
+  Lec 14910 Days Cancel Time Cancel Space Cancel Max 50
+PSY     120L  - LAB IN ADV RESEARCH  Units:5.0 Grading:Letter Graded:
+  Lec 14928 Days M Time 11:00 AM-1:30 PM Space 15 Max 40
+    Sec 14936 Days TR Time 9:30 AM-12:30 PM Space 1 Max 20
+    Sec 14944 Days TR Time 12:30 PM-3:30 PM Space 14 Max 20
+PSY     123   - COG NEUROSCIENCE     Units:4.0 Grading:Optional:
+  Lec 14951 Days MTW Time 12:30 PM-1:55 PM Space 19 Max 50
+PSY     139   - EMOTIONS             Units:4.0 Grading:Optional:
+  Lec 18689 Days MTW Time 9:30 AM-10:45 AM Space 18 Max 50
+PSY     142   - COGNITIVE DEVEL      Units:4.0 Grading:Optional:
+  Lec 18697 Days MTW Time 11:00 AM-12:25 PM Space 23 Max 42
+PSY     145   - SUPERNATURAL CONC.   Units:4.0 Grading:Optional:
+  Lec 14969 Days TR Time 12:30 PM-2:35 PM Space 38 Max 65
+PSY     146   - HUMAN MATING PSYCH   Units:4.0 Grading:Optional:
+  Lec 14977 Days MTW Time 9:30 AM-10:55 AM Space 22 Max 75
+PSY     149   - CLOSE RELATIONSHIPS  Units:4.0 Grading:Optional:
+  Lec 14993 Days MTW Time 2:00 PM-3:25 PM Space 49 Max 75
+PSY     155   - EVLUTION & CGNITION  Units:4.0 Grading:Optional:
+  Lec 15016 Days MTW Time 11:00 AM-12:25 PM Space 42 Max 50
+PSY     159   - HEALTH PSYCHOLOGY    Units:4.0 Grading:Optional:
+  Lec 19059 Days MTW Time 9:30 AM-10:55 AM Space 16 Max 42
+PSY     160SK - SPEC TOPICS PSYCH    Units:4.0 Grading:Optional:
+  Lec 18705 Days MTW Time 11:00 AM-12:25 PM Space 35 Max 42
+PSY     199   - RESEARCH IN PBS      Units:1.0-4.0 Grading:Letter Graded:
+  Lec 15040 Days T.B.A. Time T.B.A. Space 10 Max 10
+PSY     199P  - RESEARCH IN PBS      Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 15057 Days T.B.A. Time T.B.A. Space 1 Max 1
+PSY     596   - DIR READ & RESEARCH  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 15065 Days T.B.A. Time T.B.A. Space 10 Max 10
+PSY     598   - MA THESIS RSCH-PREP  Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 15073 Days T.B.A. Time T.B.A. Space 10 Max 10
+PSY     599   - PH D DISS PREP       Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 15081 Days T.B.A. Time T.B.A. Space 6 Max 6
+RG ST     1   - INTROD TO STUDY REL  Units:4.0 Grading:Optional:
+  Lec 15099 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 25
+RG ST     1   - INTROD TO STUDY REL  Units:4.0 Grading:Optional:
+  Lec 15107 Days MTWR Time 2:00 PM-3:20 PM Space 7 Max 25
+RG ST     3   - ASIAN RELIG TRADS    Units:4.0 Grading:Optional:
+  Lec 15115 Days MTWR Time 4:00 PM-5:20 PM Space Full Max 25
+RG ST     4   - INTRO TO BUDDHISM    Units:4.0 Grading:Optional:
+  Lec 15123 Days MTWR Time 8:00 AM-9:20 AM Space Full Max 50
+    Sec 15131 Days T Time 10:00 AM-10:50 AM Space Full Max 17
+    Sec 15149 Days T Time 11:00 AM-11:50 AM Space Full Max 17
+    Sec 15156 Days W Time 10:00 AM-10:50 AM Space Full Max 16
+RG ST     4   - INTRO TO BUDDHISM    Units:4.0 Grading:Optional:
+  Lec 15164 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 50
+    Sec 15172 Days T Time 11:00 AM-11:50 AM Space Full Max 16
+    Sec 15180 Days T Time 12:00 PM-12:50 PM Space Full Max 17
+    Sec 15198 Days W Time 11:00 AM-11:50 AM Space Full Max 17
+RG ST     5   - JUDAISM/CHTY/ISLAM   Units:4.0 Grading:Optional:
+  Lec 15206 Days MTWR Time 12:30 PM-1:50 PM Space 15 Max 25
+RG ST     7   - INTRO TO AMER RELIG  Units:4.0 Grading:Optional:
+  Lec 15214 Days MTWR Time 2:00 PM-3:20 PM Space Full Max 25
+RG ST    12   - RELIG APPR TO DEATH  Units:4.0 Grading:Optional:
+  Lec 15222 Days MTWR Time 6:30 PM-7:50 PM Space 5 Max 25
+RG ST    14   - INTRO NAT AMER REL   Units:4.0 Grading:Optional:
+  Lec 15230 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 25
+RG ST    18   - COMPARING RELIGIONS  Units:4.0 Grading:Optional:
+  Lec 17640 Days MTWR Time 12:30 PM-1:50 PM Space 23 Max 25
+RG ST    21   - ZEN BUDDHISM         Units:4.0 Grading:Optional:
+  Lec 15248 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 25
+RG ST    80B  - REL & WEST CIV II    Units:4.0 Grading:Optional:
+  Lec 17665 Days MTWR Time 12:30 PM-1:50 PM Space 23 Max 25
+RG ST    98   - INTERNSHIP           Units:4.0 Grading:Optional:
+  Lec 15263 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST    98   - INTERNSHIP           Units:4.0 Grading:Optional:
+  Lec 15271 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST   140A  - ISLAMIC TRADITIONS   Units:4.0 Grading:Optional:
+  Lec 17681 Days MTWR Time 11:00 AM-12:20 PM Space 15 Max 25
+RG ST   190EP - ETHICS & USA PRES    Units:4.0 Grading:Optional:
+  Lec 15313 Days MTWR Time 9:30 AM-10:50 AM Space 19 Max 25
+RG ST   195   - SR HON RESEARCH      Units:1.0-8.0 Grading:Optional:
+  Lec 15339 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST   198   - INTERNSHIP           Units:4.0 Grading:Optional:
+  Lec 15347 Days T.B.A. Time T.B.A. Space 10 Max 10
+  Lec 15354 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST   199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 15362 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST   199RA - INDEPEN RES ASST     Units:1.0-4.0 Grading:Optional:
+  Lec 15370 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST   598   - MA PROJECT RES-PREP  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 15404 Days T.B.A. Time T.B.A. Space 10 Max 10
+RG ST   599   - PH D DISS PREP       Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 15412 Days T.B.A. Time T.B.A. Space 30 Max 30
+RG ST   599   - PH D DISS PREP        :
+RG ST   599   - PH D DISS PREP        :
+SHS     194   - GRP STUDIES ADV STU  Units:1.0-4.0 Grading:Optional:
+  Lec 15438 Days T.B.A. Time T.B.A. Space 7 Max 7
+SHS     199   - INDEPENDENT STUDIES  Units:1.0-4.0 Grading:Optional:
+  Lec 15446 Days T.B.A. Time T.B.A. Space 5 Max 5
+SHS     594   - SPECIAL TOPICS       Units:1.0-4.0 Grading:Letter Graded:
+  Lec 15453 Days T.B.A. Time T.B.A. Space 1 Max 1
+SLAV    192   - INTERN SLAV STUDIES  Units:1.0-4.0 Grading:Optional:
+  Lec 15461 Days T.B.A. Time T.B.A. Space 10 Max 10
+SLAV    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 15479 Days T.B.A. Time T.B.A. Space 4 Max 4
+SOC       1   - INTRO TO SOCIOLOGY   Units:4.0 Grading:Optional:
+  Lec 15487 Days MTWR Time 12:30 PM-1:35 PM Space 11 Max 80
+    Sec 15495 Days F Time 8:00 AM-8:50 AM Space 11 Max 20
+    Sec 15503 Days F Time 9:00 AM-9:50 AM Space Full Max 20
+    Sec 18770 Days F Time 10:00 AM-10:50 AM Space Full Max 20
+    Sec 18788 Days F Time 11:00 AM-11:50 AM Space Full Max 20
+SOC       1   - INTRO TO SOCIOLOGY   Units:4.0 Grading:Optional:
+  Lec 15511 Days MTWR Time 2:00 PM-3:05 PM Space 25 Max 60
+    Sec 15529 Days F Time 8:00 AM-8:50 AM Space Full Max 10
+    Sec 15537 Days F Time 9:00 AM-9:50 AM Space Full Max 10
+    Sec 18796 Days F Time 10:00 AM-10:50 AM Space 8 Max 20
+    Sec 18804 Days F Time T.B.A. Space 17 Max 20
+SOC      99   - INTRO RESEARCH SOC   Units:1.0-4.0 Grading:Optional:
+  Lec 15545 Days T.B.A. Time T.B.A. Space 10 Max 10
+SOC     108C  - CULTURAL ANALYSIS    Units:4.0 Grading:Optional:
+  Lec 15552 Days MTW Time 2:00 PM-3:20 PM Space Full Max 60
+    Sec 15560 Days R Time 10:00 AM-10:50 AM Space Full Max 15
+    Sec 15578 Days R Time 11:00 AM-11:50 AM Space Full Max 15
+    Sec 15586 Days R Time 12:00 PM-12:50 PM Space Full Max 15
+    Sec 15594 Days R Time 1:00 PM-1:50 PM Space Full Max 15
+SOC     108ST - SP TOPICS-METHODS    Units:4.0 Grading:Optional:
+  Lec 18036 Days MTW Time 8:00 AM-9:20 AM Space 10 Max 60
+    Sec 18044 Days R Time 8:00 AM-8:50 AM Space 3 Max 15
+    Sec 18051 Days R Time 9:00 AM-9:50 AM Space 7 Max 15
+    Sec 18069 Days R Time 10:00 AM-10:50 AM Space Full Max 15
+    Sec 18077 Days R Time 11:00 AM-11:50 AM Space Full Max 15
+SOC     118B  - THE BODY             Units:4.0 Grading:Optional:
+  Lec 17756 Days TWR Time 2:00 PM-3:20 PM Space Full Max 80
+SOC     134   - SOCIAL MOVEMENTS     Units:4.0 Grading:Optional:
+  Lec 15669 Days MTW Time 8:00 AM-9:20 AM Space Full Max 80
+SOC     136C  - SOCIAL CATEGORIES    Units:4.0 Grading:Optional:
+  Lec 17764 Days MTW Time 11:00 AM-12:20 PM Space Full Max 80
+SOC     144LA - US LATINA ACTIVISM   Units:4.0 Grading:Optional:
+  Lec 19117 Days Cancel Time Cancel Space Cancel Max 80
+SOC     145   - SOCIAL INEQUALITIES  Units:4.0 Grading:Optional:
+  Lec 15685 Days MTW Time 11:00 AM-12:20 PM Space Full Max 80
+SOC     147   - ISSUES IN SOC PSYCH  Units:4.0 Grading:Optional:
+  Lec 17731 Days MTW Time 9:30 AM-10:50 AM Space Full Max 80
+SOC     152A  - SOC HUMAN SEXUALITY  Units:4.0 Grading:Optional:
+  Lec 17749 Days MTWR Time 12:30 PM-1:50 PM Space 4 Max 80
+SOC     155   - SOCIOLOGY OF GENDER  Units:4.0 Grading:Optional:
+  Lec 17707 Days MTW Time 11:00 AM-12:20 PM Space Full Max 80
+SOC     155W  - CONTEMP CHICANAS     Units:4.0 Grading:Optional:
+  Lec 19430 Days MTW Time 9:30 AM-10:50 AM Space 27 Max 80
+SOC     185D  - THEORIES OF RACE     Units:4.0 Grading:Optional:
+  Lec 17723 Days Cancel Time Cancel Space Cancel Max 80
+SOC     185E  - INTRO TO ETHNOMETH   Units:4.0 Grading:Optional:
+  Lec 15735 Days MTW Time 9:30 AM-10:50 AM Space Full Max 80
+SOC     185S  - SPEC TOP SOC THEORY  Units:4.0 Grading:Optional:
+  Lec 19422 Days MTW Time 12:30 PM-1:50 PM Space 29 Max 80
+SOC     191CA - INSTRUCTIONAL LAB    Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 15750 Days T.B.A. Time T.B.A. Space 10 Max 10
+SOC     198   - READINGS IN SOC      Units:1.0-5.0 Grading:Optional:
+  Lec 15768 Days T.B.A. Time T.B.A. Space 10 Max 10
+SOC     199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 15776 Days T.B.A. Time T.B.A. Space 10 Max 10
+SOC     199RA - IND RESEARCH ASSIST  Units:1.0-5.0 Grading:Pass/No Pass:
+  Lec 15784 Days T.B.A. Time T.B.A. Space 15 Max 15
+SOC     599   - PHD DISS RSCH PREP   Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 15826 Days T.B.A. Time T.B.A. Space 2 Max 2
+SPAN      1   - ELEMENTARY SPAN 1    Units:4.0 Grading:Optional:
+  Lec 17194 Days MTWRF Time 11:00 AM-12:15 PM Space Full Max 20
+SPAN W    1   - OL ELEM SPAN I       Units:4.0 Grading:Optional:
+  Lec 15974 Days M Time 8:00 AM-9:15 AM Space Full Max 28
+    Sec 15982 Days M Time 8:00 AM-9:15 AM Space Full Max 7
+    Sec 15990 Days M Time 9:30 AM-10:45 AM Space Full Max 7
+    Sec 16006 Days T Time 11:00 AM-12:15 PM Space Full Max 7
+    Sec 16014 Days T Time 12:30 PM-1:45 PM Space Full Max 7
+SPAN      2   - ELEMENTARY SPAN 2    Units:4.0 Grading:Optional:
+  Lec 15842 Days MTWRF Time 11:00 AM-12:15 PM Space Full Max 25
+SPAN W    2   - OL ELEM SPAN II      Units:4.0 Grading:Optional:
+  Lec 20065 Days T.B.A. Time T.B.A. Space 28 Max 28
+    Sec 20073 Days M Time 8:00 AM-9:15 AM Space 7 Max 7
+    Sec 20081 Days M Time 9:30 AM-10:45 AM Space 7 Max 7
+    Sec 20099 Days T Time 11:00 AM-12:15 PM Space 7 Max 7
+    Sec 20107 Days T Time 12:30 PM-1:45 PM Space 7 Max 7
+SPAN      3   - ELEMENTARY SPAN 3    Units:4.0 Grading:Optional:
+  Lec 15867 Days MTWRF Time 11:00 AM-12:15 PM Space Full Max 25
+SPAN      3   - ELEMENTARY SPAN 3    Units:4.0 Grading:Optional:
+  Lec 15875 Days MTWRF Time 11:00 AM-12:15 PM Space 6 Max 25
+SPAN    126   - SPANISH CINEMA       Units:4.0 Grading:Optional:
+  Lec 19307 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 25
+SPAN    157   - INTRO DIGITAL HUMAN  Units:4.0 Grading:Optional:
+  Lec 19406 Days TR Time 2:00 PM-4:05 PM Space 19 Max 30
+SPAN    177   - SPAN AMER THOUGHT    Units:4.0 Grading:Optional:
+  Lec 15909 Days MTWR Time 3:30 PM-4:35 PM Space Full Max 25
+SPAN    195   - SEN HONORS IND RES   Units:4.0 Grading:Optional:
+  Lec 15917 Days T.B.A. Time T.B.A. Space 5 Max 5
+SPAN    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Letter Graded:
+  Lec 15941 Days T.B.A. Time T.B.A. Space 15 Max 15
+SPAN    599   - PH D DISS PREP       Units:2.0-12.0 Grading:Pass/No Pass:
+  Lec 15966 Days T.B.A. Time T.B.A. Space 20 Max 20
+THTR      2C  - PRF GLOB:EUROPE      Units:4.0 Grading:Optional:
+  Lec 16022 Days MTWR Time 11:00 AM-12:20 PM Space 47 Max 65
+THTR      5   - INTRO TO ACTING      Units:3.0 Grading:Optional:
+  Lec 16030 Days MTW Time 2:00 PM-4:20 PM Space Full Max 18
+THTR      5   - INTRO TO ACTING      Units:3.0 Grading:Optional:
+  Lec 16048 Days MTW Time 2:00 PM-4:20 PM Space Full Max 14
+THTR W   19   - DESIGN DANCE/THEATR  Units:4.0 Grading:Optional:
+  Lec 16774 Days T.B.A. Time T.B.A. Space 82 Max 100
+THTR W   19   - DESIGN DANCE/THEATR  Units:4.0 Grading:Optional:
+  Lec 16154 Days T.B.A. Time T.B.A. Space 88 Max 100
+THTR     49   - THEATER WORKSHOP     Units:1.0-6.0 Grading:Optional:
+  Lec 16063 Days T.B.A. Time T.B.A. Space 20 Max 20
+THTR    144A  - SHAKESPEARE PROD     Units:4.0 Grading:Optional:
+  Lec 16089 Days MTWRF Time 6:00 PM-11:00 PM Space 27 Max 30
+THTR    144B  - SHAKESPEARE PROD     Units:4.0 Grading:Optional:
+  Lec 16097 Days MTWRF Time 6:00 PM-11:00 PM Space 27 Max 30
+THTR    146   - LAUNCH PAD           Units:4.0 Grading:Letter Graded:
+  Lec 16105 Days FTWRF Time 6:00 PM-10:00 PM1:00 PM-5:00 PM Space 16 Max 20
+THTR    149   - THEATRE WORKSHOP     Units:1.0-6.0 Grading:Letter Graded:
+  Lec 16113 Days T.B.A. Time T.B.A. Space 20 Max 20
+THTR    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 16139 Days T.B.A. Time T.B.A. Space 20 Max 20
+THTR    599   - DIS RESEARCH & PREP  Units:1.0-12.0 Grading:Pass/No Pass:
+  Lec 16147 Days T.B.A. Time T.B.A. Space 5 Max 5
+TMP     120   - BUSINESS STRATEGY    Units:4.0 Grading:Letter Graded:
+  Lec 16170 Days MTWR Time 9:30 AM-10:50 AM Space Full Max 45
+  Lec 16188 Days MTWR Time 11:00 AM-12:20 PM Space Full Max 45
+TMP     120   - BUSINESS STRATEGY    Units:4.0 Grading:Letter Graded:
+  Lec 18473 Days MWF Time 2:00 PM-3:50 PM Space Full Max 45
+TMP     124   - MARKETING            Units:4.0 Grading:Letter Graded:
+  Lec 16196 Days MWF Time 2:00 PM-3:50 PM Space Full Max 45
+  Lec 18481 Days TWR Time 4:00 PM-5:50 PM Space 18 Max 45
+TMP     127   - MANAGING TECH ORGS   Units:4.0 Grading:Letter Graded:
+  Lec 16204 Days MWF Time 2:00 PM-3:50 PM Space 1 Max 40
+TMP     127   - MANAGING TECH ORGS   Units:4.0 Grading:Letter Graded:
+  Lec 16212 Days TWRF Time 12:30 PM-1:50 PM Space 16 Max 40
+WRIT      1   - APP TO UNIV WRIT     Units:4.0 Grading:Letter Graded:
+  Lec 16220 Days MTWR Time 12:30 PM-1:55 PM Space 6 Max 20
+  Lec 16238 Days MTWR Time 11:00 AM-12:25 PM Space Full Max 20
+  Lec 16246 Days MTWR Time 2:00 PM-3:25 PM Space Full Max 20
+WRIT      2   - ACADEMIC WRITING     Units:5.0 Grading:Letter Graded:
+  Lec 16253 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 24
+  Lec 16261 Days MTWR Time 3:30 PM-4:55 PM Space Full Max 25
+  Lec 16279 Days MTWR Time 9:30 AM-10:55 AM Space Closed Max 25
+  Lec 16287 Days MTWR Time 5:00 PM-6:25 PM Space Full Max 25
+  Lec 16295 Days MTWR Time 2:00 PM-3:25 PM Space Full Max 25
+WRIT      2   - ACADEMIC WRITING     Units:5.0 Grading:Letter Graded:
+  Lec 16303 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 20
+  Lec 16311 Days MTWR Time 11:00 AM-12:25 PM Space Full Max 20
+  Lec 16329 Days MTWR Time 5:00 PM-6:25 PM Space 6 Max 25
+  Lec 16337 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 20
+  Lec 16345 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 20
+  Lec 16352 Days MTWR Time 11:00 AM-12:25 PM Space Full Max 20
+  Lec 16360 Days MTWR Time 12:30 PM-1:55 PM Space Full Max 24
+WRIT     50   - WRIT & RSRCH PRCESS  Units:4.0 Grading:Letter Graded:
+  Lec 16386 Days MTWR Time 9:30 AM-10:55 AM Space Full Max 25
+WRIT    105C  - WRIT CREAT NONFICT   Units:4.0 Grading:Letter Graded:
+  Lec 16394 Days TR Time 3:30 PM-5:35 PM Space Full Max 25
+WRIT    105C  - WRIT CREAT NONFICT   Units:4.0 Grading:Letter Graded:
+  Lec 18317 Days TR Time 2:00 PM-4:05 PM Space Full Max 25
+WRIT    105G  - GRAMMAR STYLISTICS   Units:4.0 Grading:Letter Graded:
+  Lec 16402 Days TR Time 5:00 PM-7:05 PM Space Full Max 25
+WRIT    105M  - MULTIMEDIA WRITING   Units:4.0 Grading:Letter Graded:
+  Lec 16410 Days MW Time 2:00 PM-4:05 PM Space Full Max 25
+WRIT    105PS - WRIT PUB SPEAKING    Units:4.0 Grading:Letter Graded:
+  Lec 16436 Days TR Time 2:00 PM-4:05 PM Space Full Max 25
+WRIT    105PS - WRIT PUB SPEAKING    Units:4.0 Grading:Letter Graded:
+  Lec 18325 Days MW Time 3:30 PM-5:35 PM Space Closed Max 25
+WRIT    105R  - RHETORIC AND WRIT    Units:4.0 Grading:Letter Graded:
+  Lec 16444 Days MTWR Time 12:30 PM-1:35 PM Space Closed Max 25
+WRIT    105SW - SCI WRIT FOR PUBLIC  Units:4.0 Grading:Letter Graded:
+  Lec 20164 Days T.B.A. Time T.B.A. Space 25 Max 25
+WRIT    107B  - BUS ADMIN WRIT       Units:4.0 Grading:Letter Graded:
+  Lec 16469 Days MW Time 2:00 PM-4:05 PM Space Full Max 25
+  Lec 16477 Days MW Time 5:00 PM-7:05 PM Space Full Max 25
+  Lec 16501 Days TR Time 2:00 PM-4:05 PM Space Full Max 25
+  Lec 16519 Days T Time 5:00 PM-7:05 PM Space Full Max 25
+WRIT    107B  - BUS ADMIN WRIT       Units:4.0 Grading:Letter Graded:
+  Lec 16485 Days MTW Time 8:00 AM-9:25 AM Space Full Max 25
+  Lec 16493 Days MTW Time 9:30 AM-10:55 AM Space Full Max 25
+  Lec 16527 Days MW Time 2:00 PM-4:05 PM Space Full Max 25
+  Lec 16535 Days MW Time 5:00 PM-7:05 PM Space Full Max 25
+WRIT    107G  - WRIT GLOBAL CAREERS  Units:4.0 Grading:Letter Graded:
+  Lec 16543 Days MW Time 2:00 PM-4:05 PM Space Closed Max 25
+WRIT    107J  - JOURNALISM WRIT      Units:4.0 Grading:Letter Graded:
+  Lec 16550 Days MW Time 3:30 PM-5:35 PM Space Full Max 25
+WRIT    107P  - WRITING FOR PR       Units:4.0 Grading:Letter Graded:
+  Lec 18333 Days MTW Time 9:30 AM-10:25 AM Space Full Max 25
+WRIT W  107WC - ONLINE WRIT WEB      Units:4.0 Grading:Letter Graded:
+  Lec 16642 Days T.B.A. Time T.B.A. Space Full Max 25
+  Lec 18358 Days T.B.A. Time T.B.A. Space Full Max 25
+WRIT W  107WC - ONLINE WRIT WEB      Units:4.0 Grading:Letter Graded:
+  Lec 16659 Days T.B.A. Time T.B.A. Space Full Max 25
+WRIT    109F  - WRIT ABOUT FILM      Units:4.0 Grading:Letter Graded:
+  Lec 16576 Days MW Time 5:00 PM-7:05 PM Space Closed Max 25
+  Lec 20156 Days T.B.A. Time T.B.A. Space 25 Max 25
+WRIT    109F  - WRIT ABOUT FILM      Units:4.0 Grading:Letter Graded:
+  Lec 16584 Days TR Time 5:00 PM-7:05 PM Space 8 Max 24
+  Lec 16592 Days TR Time 2:00 PM-4:05 PM Space 3 Max 25
+WRIT    109HP - WRIT HEALTH PRFSSN   Units:4.0 Grading:Letter Graded:
+  Lec 20172 Days MW Time 2:00 PM-4:05 PM Space 25 Max 25
+WRIT    109HP - WRIT HEALTH PRFSSN   Units:4.0 Grading:Letter Graded:
+  Lec 16600 Days MW Time 3:30 PM-5:35 PM Space Closed Max 25
+WRIT    109SS - WRIT SOC SCIENCE     Units:4.0 Grading:Letter Graded:
+  Lec 18341 Days MTWR Time 9:30 AM-10:35 AM Space Full Max 25
