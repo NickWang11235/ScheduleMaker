@@ -1,7 +1,9 @@
-#ifndef _TREE_H_
-#define _TREE_H_
+#ifndef _SCHEDULE_SEARCH_H_
+#define _SCHEDULE_SEARCH_H_
 
 #include <string>
+
+#include "timeframe.h"
 
 struct course;
 

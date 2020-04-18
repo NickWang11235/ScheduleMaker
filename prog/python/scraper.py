@@ -88,34 +88,34 @@ def post_search(criteria, ses, file_name):
     data["__VIEWSTATEGENERATOR"] = soup.find("input", attrs={"type" : "hidden"
                                                            , "name" : "__VIEWSTATEGENERATOR"})["value"]
     
-    data["ctl00$pageContent$quarterDropDown"] = match_quarter(criteria.quarter)    
-    data["ctl00$pageContent$sessionDropdown"] = match_session(criteria.session)
-    data["ctl00$pageContent$departmentDropDown"] = match_department(criteria.department)
-    data["ctl00$pageContent$subjectAreaDropDown"] = match_subject(criteria.subject)
-    data["ctl00$pageContent$courseNumberTextBox"] = criteria.course_num
-    data["ctl00$pageContent$courseLevelDropDown"] = match_course_level(criteria.course_level)
-    data["ctl00$pageContent$startTimeFromDropDown"] = match_hours(criteria.meet_begin)
-    data["ctl00$pageContent$startTimeToDropDown"] = match_hours(criteria.meet_end)
+    data["ctl00$pageContent$quarterDropDown"] = match_quarter(criteria.data["quarter"])    
+    data["ctl00$pageContent$sessionDropdown"] = match_session(criteria.data["session"])
+    data["ctl00$pageContent$departmentDropDown"] = match_department(criteria.data["department"])
+    data["ctl00$pageContent$subjectAreaDropDown"] = match_subject(criteria.data["subject"])
+    data["ctl00$pageContent$courseNumberTextBox"] = criteria.data["course_num"]
+    data["ctl00$pageContent$courseLevelDropDown"] = match_course_level(criteria.data["course_level"])
+    data["ctl00$pageContent$startTimeFromDropDown"] = match_hours(criteria.data["meet_begin"])
+    data["ctl00$pageContent$startTimeToDropDown"] = match_hours(criteria.data["meet_end"])
 
     week = ["M","T","W","R","F","S","U"]
-    for i in range(len(criteria.days)):
-        if criteria.days[i]:
+    for i in range(len(criteria.data["days"])):
+        if criteria.data["days"][i]:
             data["ctl00$pageContent$daysCheckBoxList$" + str(i)] = week[i]
                    
-    data["ctl00$pageContent$unitsFromDropDown"] = criteria.unit_min
-    data["ctl00$pageContent$unitsToDropDown"] = criteria.unit_max
-    data["ctl00$pageContent$enrollcodeTextBox"] = criteria.enrollment
-    data["ctl00$pageContent$instructorTextBox"] = criteria.instructor
-    data["ctl00$pageContent$keywordTextBox"] = criteria.title
-    data["ctl00$pageContent$GECollegeDropDown"] = match_GE(criteria.GE)
-    data["ctl00$pageContent$GECodeDropDown"] = match_area(criteria.area)
-    if criteria.open_sections:
+    data["ctl00$pageContent$unitsFromDropDown"] = criteria.data["unit_min"]
+    data["ctl00$pageContent$unitsToDropDown"] = criteria.data["unit_max"]
+    data["ctl00$pageContent$enrollcodeTextBox"] = criteria.data["enrollment"]
+    data["ctl00$pageContent$instructorTextBox"] = criteria.data["instructor"]
+    data["ctl00$pageContent$keywordTextBox"] = criteria.data["title"]
+    data["ctl00$pageContent$GECollegeDropDown"] = match_GE(criteria.data["GE"])
+    data["ctl00$pageContent$GECodeDropDown"] = match_area(criteria.data["area"])
+    if criteria.data["open_sections"]:
         data["ctl00$pageContent$openSectionsOnlyCheckBox"] = "on"
-    if criteria.matching_sections:
+    if criteria.data["matching_sections"]:
         data["ctl00$pageContent$matchingSectionsOnlyCheckBox"] = "on"
-    if criteria.noRestricts_only:
+    if criteria.data["no_restricts_only"]:
         data["ctl00$pageContent$noRestrictionsCheckBox"] = "on"
-    if criteria.no_pre_req:
+    if criteria.data["no_pre_req"]:
         data["ctl00$pageContent$noPrerequisitesCheckBox"] = "on"
     data["ctl00$pageContent$searchButton"] = "Begin Search"
                    

@@ -1,4 +1,4 @@
-import input, scraper, html_extraction, sys
+import input, scraper, html_extraction, sys, requests
 
 DEFAULT_GOLD_FILE_PATH = "../../html/GOLDForms/"
 DEFAULT_DOWNLOAD_PATH = "../../html/raw/"
@@ -9,18 +9,23 @@ OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
 def main():
 
+    """
     args = sys.argv[1:]
     crit = input.criteria()
     input.run(args, crit)
 
-"""
+    """
+    
+    storage = input.criteria()
+    storage.data["department"] = "asd-CHEM"
+
     with requests.Session() as s:
     
         scraper.login(s)
         scraper.download(s.get(GOLD_SEARCH_URL), DEFAULT_GOLD_FILE_PATH, "search")
         scraper.post_search(storage, s, "chem")
         html_extraction.parse_to_file("chem", pretty=True)
-"""
+
 
 if __name__ == "__main__":
     main()
