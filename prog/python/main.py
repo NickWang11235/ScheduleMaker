@@ -9,12 +9,9 @@ OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
 def main():
 
-
     args = sys.argv[1:]
     crit = input.criteria()
     input.run(args, crit)
-
-    """
     
     storage = input.criteria()
     storage.data["department"] = "asd-CHEM"
@@ -23,9 +20,9 @@ def main():
     
         scraper.login(s)
         scraper.download(s.get(GOLD_SEARCH_URL), DEFAULT_GOLD_FILE_PATH, "search")
-        scraper.post_search(storage, s, "chem")
-        html_extraction.parse_to_file("chem", pretty=True)
+        scraper.post_search(crit, s, "chem3")
+        html_extraction.parse_to_file("chem3", pretty=True)
 
-    """
+
 if __name__ == "__main__":
     main()
