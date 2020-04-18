@@ -86,7 +86,7 @@ def validate_command_format(cmd):
 def handle_commands(cmds, criteria):
     for cmd in cmds:
         if cmd in CRITERIA_VALUES:
-            validate_criteria_commands(cmd, cmds[cmd])
+            validate_criteria_commands(cmd, cmds[cmd], criteria)
             update_criteria(cmd, cmds[cmd], criteria)
             continue
         if cmd == "pretty":
@@ -183,26 +183,262 @@ def error_illegal_argument(command, error):
     exit(1)
 
 
-def validationQuarter(inputed_commands):
+def validate_criteria_commands(cmd, arg, criteria):
+    if(cmd == "quarter"):
+        if(not validate_quarter(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
 
-    if(len(inputed_commands.split()) != 1):
-        print("Invalid number of commands")
+    elif(cmd == "session"):
+        if(not validate_session(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
 
-    temp = inputed_commands.split('=')
-    key = temp[0][1:]
-    season = temp[1][0:-4]
-    year = temp[1][-4:]
+    elif(cmd == "department"):
+        if(not validate_department(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
 
+    elif(cmd == "subject"):
+        if(not validate_subject(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "course_num"):
+        if(not validate_course_num(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "course_level"):
+        if(not validate_course_level(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "meet_begin"):
+        if(not validate_meet_begin(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "meet_end"):
+        if(not validate_meet_end(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "days"):
+        if(not validate_days(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "unit_min"):
+        if(not validate_unit_min(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "unit_max"):
+        if(not validate_unit_max(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "enrollment"):
+        if(not validate_enrollment(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "instructor"):
+        if(not validate_instructor(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "title"):
+        if(not validate_title(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "GE"):
+        if(not validate_GE(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "area"):
+        if(not validate_area(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "open_sections"):
+        if(not validate_open_sections(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "matching_sections"):
+        if(not validate_matching_sections(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "no_restricts_only"):
+        if(not validate_no_restricts_only(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "no_pre_req"):
+        if(not validate_no_pre_req(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+
+    elif(cmd == "pretty"):
+        if(not validate_pretty(cmd, arg, criteria)):
+            error_illegal_argument("-"+cmd, arg)
+            
+
+def validate_quarter(key, arg, criteria):
+    season = arg[0:-4]
+    year = arg[-4:]
     combine = season + " " + year
 
-    if(not combine in dic[key]):
-        print("Invalid Input")
-        exit(2)
+    if(combine.lower() in (str(CRITERIA_VALUES[key]).lower())):
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+        
+
+def validate_session(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
 
 
-def validate_criteria_commands(cmd, arg):
-    if not arg in CRITERIA_VALUES[cmd]:
-        error_illegal_argument("-"+cmd, arg)
+def validate_department(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_subject(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_course_num(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_course_level(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_meet_begin(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_meet_end(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_days(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_unit_min(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_unit_max(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_enrollment(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_instructor(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_title(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_GE(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_area(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_open_sections(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_matching_sections(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_no_restricts_only(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_no_pre_req(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
+
+
+def validate_pretty(key, arg, criteria):
+    if arg.lower() in str(CRITERIA_VALUES[key]).lower():
+        update_criteria(key, arg, criteria)
+        return True
+    else:
+        return False
 
 
 def update_criteria(cmd, arg, criteria):
