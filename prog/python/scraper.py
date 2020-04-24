@@ -53,7 +53,7 @@ SEARCH_DATA = {
 
 
 def save(path,soup_file):
-    with open(path, "w") as outf:
+    with open(path, "w", encoding='utf-8') as outf:
         outf.write(str(soup_file))
 
 
@@ -210,7 +210,7 @@ def download(response, dir, file_name):
 
     # Write data to file
     path = dir + file_name + ".html"
-    file_ = open(path, 'w')
+    file_ = open(path, 'w', encoding='utf-8')
     file_.write(response.text)
     file_.close()
     
