@@ -8,6 +8,11 @@ OUTPUT_DEFAULT_FOLDER = "../../html/parsed/"
 
 
 def main():
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 652cb37e8f589928e0f82555895474480c58e0d8
     args = sys.argv[1:]
     crit = input.criteria()
     input.run(args, crit)
@@ -22,6 +27,6 @@ def main():
         scraper.post_search(crit, s, "chem3")
         html_extraction.parse_to_file("chem3", pretty=True)
 
-
+    """
 if __name__ == "__main__":
     main()

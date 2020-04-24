@@ -39,6 +39,7 @@ def run(args, crit):
         print(generate_err_msg())
     handle_commands(map_commands(args),crit)
 
+
 CRITERIA_VALUES = html_extraction.enumerate_data_field(DEFAULT_GOLD_FILE_PATH + "search.html")
 
 def map_commands(args):
@@ -162,7 +163,6 @@ def generate_err_msg():
     for e in CMD_ARGS:
         str += generate_command_usage(e)
     return str + "\n   for help, pass in command -help \n   for help on a command, run -help <command>"
-
 
 
 def error_illegal_option(error):

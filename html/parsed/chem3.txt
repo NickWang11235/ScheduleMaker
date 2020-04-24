@@ -1,0 +1,250 @@
+MATH      3A  - CALC WITH APPLI 1    Units:4.0 Grading:Optional:
+  Lec 30130 Days T.B.A. Time T.B.A. Space 49 Max 123
+    Sec 30148 Days T.B.A. Time T.B.A. Space 3 Max 23
+    Sec 30155 Days T.B.A. Time T.B.A. Space 13 Max 25
+    Sec 30163 Days T.B.A. Time T.B.A. Space 17 Max 25
+    Sec 30171 Days T.B.A. Time T.B.A. Space 16 Max 25
+    Sec 30189 Days T.B.A. Time T.B.A. Space Full Max 25
+MATH      3B  - CALC WITH APPLI 2    Units:4.0 Grading:Optional:
+  Lec 30197 Days T.B.A. Time T.B.A. Space 9 Max 150
+    Sec 30205 Days M Time 8:00 AM-8:50 AM Space 3 Max 25
+    Sec 30213 Days M Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30221 Days M Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30239 Days M Time 6:00 PM-6:50 PM Space 1 Max 25
+    Sec 30247 Days M Time 7:00 PM-7:50 PM Space 2 Max 25
+    Sec 30254 Days M Time 5:00 PM-5:50 PM Space 3 Max 25
+  Lec 30262 Days MWF Time 11:00 AM-11:50 AM Space 51 Max 149
+    Sec 30270 Days T Time 5:00 PM-5:50 PM Space 3 Max 24
+    Sec 30288 Days T Time 6:00 PM-6:50 PM Space 5 Max 25
+    Sec 30296 Days R Time 8:00 AM-8:50 AM Space 17 Max 25
+    Sec 30304 Days R Time 5:00 PM-5:50 PM Space 2 Max 25
+    Sec 30312 Days R Time 7:00 PM-7:50 PM Space 9 Max 25
+    Sec 51417 Days T Time 8:00 AM-8:50 AM Space 15 Max 25
+MATH      4A  - LIN ALG W/APPS       Units:4.0 Grading:Optional:
+  Lec 30320 Days T.B.A. Time T.B.A. Space Full Max 450
+    Sec 30338 Days M Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30346 Days M Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30353 Days M Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30361 Days M Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30379 Days W Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30387 Days W Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 30395 Days W Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30403 Days W Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30411 Days W Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30429 Days M Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30437 Days M Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30445 Days M Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30452 Days M Time 7:00 PM-7:50 PM Space 1 Max 25
+    Sec 30460 Days W Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30478 Days W Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 30486 Days W Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30494 Days W Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30502 Days W Time 7:00 PM-7:50 PM Space Full Max 25
+  Lec 30510 Days MWF Time 11:00 AM-11:50 AM Space Full Max 150
+    Sec 30528 Days R Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30536 Days R Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30544 Days R Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30551 Days R Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30569 Days R Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30577 Days R Time 7:00 PM-7:50 PM Space Full Max 25
+MATH      4B  - DIFF EQUATIONS       Units:4.0 Grading:Optional:
+  Lec 30585 Days MWF Time 1:00 PM-1:50 PM Space 3 Max 425
+    Sec 30593 Days T Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30601 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30619 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30627 Days T Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30635 Days M Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30643 Days M Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 30650 Days M Time 6:00 PM-6:50 PM Space 1 Max 25
+    Sec 30668 Days M Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30676 Days T Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30684 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30692 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30700 Days T Time 7:00 PM-7:50 PM Space 1 Max 25
+    Sec 51425 Days M Time 8:00 AM-8:50 AM Space 1 Max 25
+    Sec 51433 Days T Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 75424 Days T Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 75432 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 75440 Days T Time 7:00 PM-7:50 PM Space Full Max 25
+  Lec 30718 Days T.B.A. Time T.B.A. Space Full Max 150
+    Sec 30726 Days M Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30734 Days M Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30742 Days M Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 30759 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30767 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30775 Days T Time 7:00 PM-7:50 PM Space 1 Max 25
+MATH      6A  - VECTOR CALCULUS 1    Units:4.0 Grading:Optional:
+  Lec 30783 Days T.B.A. Time T.B.A. Space Full Max 150
+    Sec 30791 Days T.B.A. Time T.B.A. Space Full Max 25
+    Sec 30809 Days T.B.A. Time T.B.A. Space Full Max 25
+    Sec 30817 Days T.B.A. Time T.B.A. Space Full Max 25
+    Sec 30825 Days T.B.A. Time T.B.A. Space Full Max 25
+    Sec 30833 Days T.B.A. Time T.B.A. Space Full Max 25
+    Sec 51441 Days T.B.A. Time T.B.A. Space Full Max 25
+  Lec 30841 Days TR Time 8:00 AM-9:15 AM Space Full Max 150
+    Sec 30858 Days W Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30866 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30874 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30882 Days T Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30890 Days T Time 4:00 PM-4:50 PM Space Full Max 25
+    Sec 30908 Days W Time 5:00 PM-5:50 PM Space Full Max 25
+  Lec 30916 Days MWF Time 1:00 PM-1:50 PM Space Full Max 150
+    Sec 30924 Days R Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 30932 Days R Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30940 Days R Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 30957 Days R Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 30965 Days R Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 30973 Days R Time 6:00 PM-6:50 PM Space Full Max 25
+MATH      6B  - VECTOR CALCULUS 2    Units:4.0 Grading:Optional:
+  Lec 30981 Days TR Time 3:30 PM-4:45 PM Space 50 Max 150
+    Sec 30999 Days W Time 8:00 AM-8:50 AM Space 10 Max 25
+    Sec 31005 Days W Time 5:00 PM-5:50 PM Space 3 Max 25
+    Sec 31013 Days W Time 6:00 PM-6:50 PM Space 14 Max 25
+    Sec 31021 Days W Time 7:00 PM-7:50 PM Space 14 Max 25
+    Sec 31039 Days W Time 4:00 PM-4:50 PM Space 6 Max 25
+    Sec 31047 Days W Time 12:00 PM-12:50 PM Space 3 Max 25
+  Lec 31054 Days T.B.A. Time T.B.A. Space 2 Max 150
+    Sec 31062 Days T Time 8:00 AM-8:50 AM Space 1 Max 25
+    Sec 31070 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 31088 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 31096 Days T Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 31104 Days T Time 4:00 PM-4:50 PM Space 1 Max 25
+    Sec 31112 Days W Time 4:00 PM-4:50 PM Space Full Max 25
+MATH      8   - TRANS HIGHER MATH    Units:5.0 Grading:Optional:
+  Lec 31120 Days T.B.A. Time T.B.A. Space Full Max 35
+    Sec 31138 Days MW Time 7:00 PM-7:50 PM Space Full Max 18
+    Sec 31146 Days MW Time 6:00 PM-6:50 PM Space Full Max 17
+  Lec 31153 Days TR Time 9:30 AM-10:45 AM Space Full Max 35
+    Sec 31161 Days MW Time 6:00 PM-6:50 PM Space Full Max 18
+    Sec 31179 Days MW Time 7:00 PM-7:50 PM Space Full Max 17
+  Lec 31211 Days TR Time 2:00 PM-3:15 PM Space Full Max 35
+    Sec 31229 Days TR Time 5:00 PM-5:50 PM Space Full Max 18
+    Sec 31237 Days TR Time 7:00 PM-7:50 PM Space Full Max 17
+  Lec 31245 Days TR Time 12:30 PM-1:45 PM Space Full Max 35
+    Sec 31252 Days MW Time 6:00 PM-6:50 PM Space Full Max 18
+    Sec 31260 Days MW Time 7:00 PM-7:50 PM Space Full Max 17
+  Lec 50955 Days T.B.A. Time T.B.A. Space Full Max 35
+    Sec 50963 Days MW Time 6:00 PM-6:50 PM Space Full Max 18
+    Sec 50971 Days MW Time 7:00 PM-7:50 PM Space Full Max 17
+  Lec 50989 Days MWF Time 8:00 AM-8:50 AM Space Full Max 35
+    Sec 50997 Days TR Time 6:00 PM-6:50 PM Space Full Max 18
+    Sec 51003 Days TR Time 7:00 PM-7:50 PM Space Full Max 17
+  Lec 51037 Days T.B.A. Time T.B.A. Space Full Max 35
+    Sec 51045 Days TR Time 6:00 PM-6:50 PM Space Full Max 18
+    Sec 51052 Days TR Time 7:00 PM-7:50 PM Space Full Max 17
+MATH     34A  - CALC FOR SOCIAL SCI  Units:4.0 Grading:Optional:
+  Lec 31278 Days TR Time 9:30 AM-10:45 AM Space 73 Max 225
+    Sec 31286 Days T Time 5:00 PM-5:50 PM Space 3 Max 25
+    Sec 31294 Days T Time 6:00 PM-6:50 PM Space 5 Max 25
+    Sec 31302 Days T Time 7:00 PM-7:50 PM Space 7 Max 25
+    Sec 31310 Days T Time 8:00 AM-8:50 AM Space 3 Max 25
+    Sec 31328 Days T Time 5:00 PM-5:50 PM Space 5 Max 25
+    Sec 31336 Days Cancel Time Cancel Space Cancel Max 25
+    Sec 31344 Days Cancel Time Cancel Space Cancel Max 25
+    Sec 31351 Days R Time 8:00 AM-8:50 AM Space 1 Max 25
+    Sec 31369 Days Cancel Time Cancel Space Cancel Max 25
+    Sec 31377 Days R Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 51458 Days Cancel Time Cancel Space Cancel Max 25
+    Sec 51466 Days Cancel Time Cancel Space Cancel Max 25
+MATH     34B  - CALC-SOC & LIFE SCI  Units:4.0 Grading:Optional:
+  Lec 31385 Days MWF Time 9:00 AM-9:50 AM Space 3 Max 350
+    Sec 31393 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 31401 Days T Time 6:00 PM-6:50 PM Space 1 Max 25
+    Sec 31419 Days T Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 31427 Days T Time 8:00 AM-8:50 AM Space 1 Max 25
+    Sec 31435 Days R Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 31443 Days R Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 31450 Days R Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 31468 Days R Time 7:00 PM-7:50 PM Space 1 Max 25
+    Sec 31476 Days R Time 8:00 AM-8:50 AM Space Full Max 25
+    Sec 31484 Days R Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 31492 Days R Time 6:00 PM-6:50 PM Space Full Max 25
+    Sec 31500 Days R Time 7:00 PM-7:50 PM Space Full Max 25
+    Sec 31518 Days T Time 5:00 PM-5:50 PM Space Full Max 25
+    Sec 31526 Days T Time 6:00 PM-6:50 PM Space Full Max 25
+MATH    101B  - MATH SYSTEMS         Units:4.0 Grading:Optional:
+  Lec 51086 Days TR Time 9:30 AM-10:45 AM Space 15 Max 45
+MATH    104B  - NUMERICAL ANALYSIS   Units:4.0 Grading:Optional:
+  Lec 31559 Days TR Time 8:00 AM-9:15 AM Space 14 Max 65
+MATH    104C  - ADV NUM ANALYSIS     Units:4.0 Grading:Optional:
+  Lec 31567 Days TR Time 11:00 AM-12:15 PM Space 1 Max 65
+  Lec 31575 Days TR Time 8:00 AM-9:15 AM Space Full Max 120
+MATH    108A  - INTRO TO LINEAR ALG  Units:4.0 Grading:Optional:
+  Lec 31583 Days TR Time 3:30 PM-4:45 PM Space Full Max 50
+  Lec 31591 Days TR Time 11:00 AM-12:15 PM Space Full Max 50
+MATH    108B  - ADV LINEAR ALG       Units:4.0 Grading:Optional:
+  Lec 31609 Days TR Time 9:30 AM-10:45 AM Space 1 Max 65
+MATH    108C  - MTRX ANLYS           Units:4.0 Grading:Optional:
+  Lec 51094 Days TR Time 2:00 PM-3:15 PM Space Full Max 45
+MATH    111C  - ABSTRACT ALGEBRA     Units:4.0 Grading:Optional:
+  Lec 31617 Days MWF Time 10:00 AM-10:50 AM Space 14 Max 60
+MATH    115B  - INTRO NUMBER THEORY  Units:4.0 Grading:Optional:
+  Lec 31625 Days TR Time 12:30 PM-1:45 PM Space 11 Max 45
+MATH    116   - COMB ANALYSIS        Units:4.0 Grading:Optional:
+  Lec 31633 Days T.B.A. Time T.B.A. Space Full Max 45
+MATH    117   - METHODS OF ANALYSIS  Units:4.0 Grading:Optional:
+  Lec 31641 Days MWF Time 2:00 PM-2:50 PM Space Full Max 55
+  Lec 31658 Days T.B.A. Time T.B.A. Space Full Max 55
+MATH    118C  - INTRO REAL ANALYSIS  Units:4.0 Grading:Optional:
+  Lec 31666 Days TR Time 12:30 PM-1:45 PM Space 12 Max 60
+  Lec 51193 Days T.B.A. Time T.B.A. Space 34 Max 60
+MATH    122B  - INTRO COMPLX VARIAB  Units:4.0 Grading:Optional:
+  Lec 31674 Days MWF Time 1:00 PM-1:50 PM Space 8 Max 45
+MATH    124B  - FOURIER SER & NUM    Units:4.0 Grading:Optional:
+  Lec 31682 Days TR Time 2:00 PM-3:15 PM Space 11 Max 44
+MATH    132A  - INTRO OPER RESEARCH  Units:4.0 Grading:Optional:
+  Lec 31690 Days TR Time 11:00 AM-12:15 PM Space Full Max 45
+MATH    145   - INTRO TO TOPOLOGY    Units:4.0 Grading:Optional:
+  Lec 31708 Days MWF Time 11:00 AM-11:50 AM Space Full Max 60
+MATH    147A  - INTRO DIFF GEOMETRY  Units:4.0 Grading:Optional:
+  Lec 31716 Days TR Time 9:30 AM-10:45 AM Space Full Max 60
+MATH    182   - HISTORY OF MATH      Units:4.0 Grading:Optional:
+  Lec 31724 Days MWF Time 11:00 AM-11:50 AM Space Full Max 45
+MATH    193   - INTERN IN MATH       Units:1.0-4.0 Grading:Optional:
+  Lec 31732 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    197A  - SENIOR THESIS        Units:1.0-4.0 Grading:Optional:
+  Lec 31740 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    197B  - SENIOR THESIS        Units:1.0-4.0 Grading:Optional:
+  Lec 31757 Days T.B.A. Time T.B.A. Space 10 Max 10
+MATH    199   - INDEPENDENT STUDIES  Units:1.0-5.0 Grading:Optional:
+  Lec 31765 Days T.B.A. Time T.B.A. Space 40 Max 40
+MATH    199RA - IND RES ASSIST MATH  Units:1.0-4.0 Grading:Optional:
+  Lec 31773 Days T.B.A. Time T.B.A. Space 20 Max 20
+MATH    201C  - REAL ANALYSIS        Units:4.0 Grading:Optional:
+  Lec 31781 Days TR Time 11:00 AM-12:15 PM Space 12 Max 35
+MATH    206C  - PDE'S FINITE DIFF    Units:4.0 Grading:Letter Graded:
+  Lec 31807 Days TR Time 9:30 AM-10:45 AM Space Full Max 10
+MATH    209   - SET THEORY           Units:4.0 Grading:Optional:
+  Lec 51540 Days Cancel Time Cancel Space Cancel Max 25
+MATH    215B  - FOUR SER NUM METH    Units:4.0 Grading:Optional:
+  Lec 31815 Days TR Time 2:00 PM-3:15 PM Space Full Max 6
+MATH    220C  - MODERN ALGEBRA       Units:4.0 Grading:Optional:
+  Lec 31823 Days MWF Time 10:00 AM-10:50 AM Space 14 Max 35
+MATH    221C  - DIFFERENTIAL TOPOL   Units:4.0 Grading:Optional:
+  Lec 31831 Days TR Time 9:30 AM-10:45 AM Space 13 Max 30
+MATH    227C  - GEOMET-ALGEBR-TOPOL  Units:4.0 Grading:Optional:
+  Lec 31849 Days TR Time 11:00 AM-12:15 PM Space 7 Max 25
+MATH    231B  - LIE GRPS & LIE ALGB  Units:4.0 Grading:Optional:
+  Lec 51300 Days MWF Time 1:00 PM-1:50 PM Space 6 Max 25
+MATH    237C  - ALGEBRAIC GEOMETRY   Units:4.0 Grading:Optional:
+  Lec 63537 Days MWF Time 11:00 AM-11:50 AM Space 13 Max 25
+MATH    240C  - INTRO DIFF GEOMETRY  Units:4.0 Grading:Optional:
+  Lec 31864 Days TR Time 2:00 PM-3:15 PM Space 6 Max 20
+MATH    241C  - TOPICS IN DIFF GEOM  Units:4.0 Grading:Optional:
+  Lec 31872 Days TR Time 2:00 PM-3:15 PM Space 18 Max 20
+MATH    243C  - ODE'S                Units:4.0 Grading:Optional:
+  Lec 51359 Days TR Time 12:30 PM-1:45 PM Space 15 Max 25
+MATH    260EE - SEMINAR IN MATH      Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 31898 Days R Time 3:30 PM-4:45 PM Space 7 Max 25
+MATH    260L  - SEMINAR IN MATH      Units:1.0-6.0 Grading:Optional:
+  Lec 51409 Days MWF Time 2:00 PM-2:50 PM Space 13 Max 30
+MATH    500   - TCH ASST PRACTICUM   Units:1.0-4.0 Grading:Pass/No Pass:
+  Lec 31906 Days T.B.A. Time T.B.A. Space 38 Max 50
+MATH    510   - READING AREA EXAMS   Units:2.0-6.0 Grading:Pass/No Pass:
+  Lec 31914 Days T.B.A. Time T.B.A. Space 50 Max 50
+MATH    596   - DIR READ & RESEARCH  Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 31922 Days T.B.A. Time T.B.A. Space 50 Max 50
+MATH    598   - MA THESIS RSCH PREP  Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 31930 Days T.B.A. Time T.B.A. Space 50 Max 50
+MATH    599   - PH D DISS PREP       Units:1.0-6.0 Grading:Pass/No Pass:
+  Lec 31948 Days T.B.A. Time T.B.A. Space 50 Max 50
